@@ -834,3 +834,19 @@
 [03Dec2024 04:12:22.154] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
 [03Dec2024 04:13:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Teleported [ADMIN] LordZand to Rodjes7]
 [03Dec2024 04:14:31.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [It All Looks Delicious]
+[03Dec2024 04:16:01.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Set the time to 1000]
+[03Dec2024 04:16:15.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[03Dec2024 04:16:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Teleported [ADMIN] LordZand to Rodjes7]
+[03Dec2024 04:17:23.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Set Rodjes7's game mode to Creative Mode]
+[03Dec2024 04:19:04.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Timed out
+[03Dec2024 04:19:04.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[03Dec2024 04:19:04.598] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Dec2024 04:20:10.051] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-168, y=-45, z=-202}
+[03Dec2024 04:20:10.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/[::1]:59312] logged in with entity id 3773 at (2.8253848317284365, 78.0, 42.279022271200404)
+[03Dec2024 04:20:10.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[03Dec2024 04:20:10.889] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[03Dec2024 04:20:10.925] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[03Dec2024 04:20:10.925] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Dec2024 04:20:10.928] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[03Dec2024 04:22:22.699] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Dec2024 04:22:22.700] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md3da93c$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
