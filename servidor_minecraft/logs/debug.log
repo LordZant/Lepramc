@@ -12009,3 +12009,26 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Dec2024 04:22:29.895] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
 [03Dec2024 04:26:31.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 04:26:31.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 04:28:03.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Set own game mode to Survival Mode]
+[03Dec2024 04:28:10.077] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[03Dec2024 04:28:10.103] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[03Dec2024 04:28:10.124] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[03Dec2024 04:28:10.219] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[03Dec2024 04:29:46.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/725, l='ServerLevel[world]', x=171.01, y=53.15, z=174.44] died, message: 'Villager was slain by Door Knight'
+[03Dec2024 04:29:50.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/715, l='ServerLevel[world]', x=171.70, y=53.00, z=175.70] died, message: 'Villager was slain by Door Knight'
+[03Dec2024 04:29:54.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/713, l='ServerLevel[world]', x=171.70, y=53.00, z=175.70] died, message: 'Villager was slain by Door Knight'
+[03Dec2024 04:30:21.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Set Rodjes7's game mode to Survival Mode]
+[03Dec2024 04:30:31.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/714, l='ServerLevel[world]', x=171.71, y=53.10, z=174.31] died, message: 'Nitwit was slain by Door Knight'
+[03Dec2024 04:31:03.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 is bleeding. Rodjes7 was slain by [ADMIN] LordZand
+[03Dec2024 04:31:05.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/718, l='ServerLevel[world]', x=138.30, y=82.90, z=137.01] died, message: 'Fisherman was slain by Zombie'
+[03Dec2024 04:31:31.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 04:31:31.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 04:31:53.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/239, l='ServerLevel[world]', x=112.25, y=67.06, z=144.15] died, message: 'Weaponsmith was slain by Zombie'
+[03Dec2024 04:32:34.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 is bleeding. Rodjes7 was slain by [ADMIN] LordZand
+[03Dec2024 04:33:48.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Monster Hunter]
+[03Dec2024 04:34:07.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN] LordZand has made the advancement [Dark Metallurgy]
+[03Dec2024 04:34:19.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN] LordZand has made the advancement [Acquire Hardware]
+[03Dec2024 04:34:58.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Set own game mode to Creative Mode]
+[03Dec2024 04:35:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Acquire Hardware]
+[03Dec2024 04:36:31.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 04:36:31.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

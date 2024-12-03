@@ -476,5 +476,35 @@
     },
     "done": true
   },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-12-03 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-03 04:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-03 04:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-03 04:33:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-03 04:33:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
