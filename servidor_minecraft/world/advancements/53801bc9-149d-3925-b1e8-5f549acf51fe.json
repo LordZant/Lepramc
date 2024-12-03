@@ -540,6 +540,12 @@
     },
     "done": true
   },
+  "ancient_golems:the_end_of_the_origin": {
+    "criteria": {
+      "the_end_of_the_origin_0": "2024-12-03 04:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-03 04:34:19 +0000"

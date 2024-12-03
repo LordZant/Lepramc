@@ -12032,3 +12032,36 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Dec2024 04:35:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Acquire Hardware]
 [03Dec2024 04:36:31.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 04:36:31.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 04:38:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Set own game mode to Survival Mode]
+[03Dec2024 04:39:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN] LordZand has completed the challenge [The End Of The Origin]
+[03Dec2024 04:39:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has completed the challenge [The End Of The Origin]
+[03Dec2024 04:40:21.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/731, l='ServerLevel[world]', x=172.74, y=64.00, z=180.10] died, message: 'Villager was slain by Rodjes7'
+[03Dec2024 04:40:22.481] [integratedapi-1-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle1
+[03Dec2024 04:40:23.143] [integratedapi-1-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle2
+[03Dec2024 04:40:23.284] [Worker-Main-3/DEBUG] [ModernFix/]: Structure idas:abandonedhouse/abandonedhouse2 is being run through DFU (hash d1b118f90aa21bab5931f0bc30bee64ed089616121f4a67765efa4cac3948ac6), this will cause launch time delays
+[03Dec2024 04:40:24.594] [Worker-Main-2/DEBUG] [ModernFix/]: Structure idas:wizard_tower/yellowwizardtower1 is being run through DFU (hash cabca04bbab9fd7f6d906974595e8168e8904f65511f284b477bc33c18e96972), this will cause launch time delays
+[03Dec2024 04:40:24.723] [Worker-Main-2/DEBUG] [ModernFix/]: Structure idas:wizard_tower/yellowwizardtower2 is being run through DFU (hash 9796f727696a315d5e9638185e9d5083d2d2bf22c8403035b2a0aa79a25d9356), this will cause launch time delays
+[03Dec2024 04:40:26.698] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle3
+[03Dec2024 04:40:27.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
+[03Dec2024 04:40:31.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/294, l='ServerLevel[world]', x=128.40, y=66.62, z=176.30] died, message: 'Farmer was slain by [ADMIN] LordZand'
+[03Dec2024 04:40:34.898] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/300, l='ServerLevel[world]', x=129.37, y=66.00, z=179.18] died, message: 'Nitwit was slain by [ADMIN] LordZand'
+[03Dec2024 04:40:37.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2106, l='ServerLevel[world]', x=191.70, y=67.00, z=163.45] died, message: 'Nitwit was slain by Rodjes7'
+[03Dec2024 04:40:38.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/151, l='ServerLevel[world]', x=121.21, y=67.00, z=181.29] died, message: 'Farmer was slain by [ADMIN] LordZand'
+[03Dec2024 04:40:42.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2105, l='ServerLevel[world]', x=176.53, y=66.00, z=165.07] died, message: 'Fletcher was slain by Rodjes7'
+[03Dec2024 04:41:33.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 04:41:33.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 04:41:51.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/720, l='ServerLevel[world]', x=146.96, y=67.00, z=173.04] died, message: 'Villager was slain by Rodjes7'
+[03Dec2024 04:42:33.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN] LordZand is bleeding. [ADMIN] LordZand was slain by Rodjes7
+[03Dec2024 04:44:27.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 is bleeding. Rodjes7 hit the ground too hard whilst trying to escape [ADMIN] LordZand
+[03Dec2024 04:45:30.997] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[03Dec2024 04:45:53.662] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[03Dec2024 04:45:54.606] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[03Dec2024 04:45:54.622] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[03Dec2024 04:46:09.291] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[03Dec2024 04:46:09.293] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[03Dec2024 04:46:21.319] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:magnetic_ruins_3 is being run through DFU (hash b43f83ba5df3675965bfd376af725ef0bf702f56af87d6630327b697c4b0d474), this will cause launch time delays
+[03Dec2024 04:46:21.949] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:magnetic_ruins_5 is being run through DFU (hash 72aabf766efe52e0d1561bbf782017cc11dfffbdfa8cb777d570085d07ced0cd), this will cause launch time delays
+[03Dec2024 04:46:24.687] [Worker-Main-3/DEBUG] [ModernFix/]: Structure alexscaves:magnetic_ruins_2 is being run through DFU (hash 2b582633641824fd51d6f95942486254cf6ecd49576c7d67e71add27abef95ed), this will cause launch time delays
+[03Dec2024 04:46:33.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 04:46:33.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 04:46:37.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Teleported [ADMIN] LordZand to Rodjes7]

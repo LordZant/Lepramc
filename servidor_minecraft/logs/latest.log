@@ -865,3 +865,17 @@
 [03Dec2024 04:34:19.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN] LordZand has made the advancement [Acquire Hardware]
 [03Dec2024 04:34:58.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Set own game mode to Creative Mode]
 [03Dec2024 04:35:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Acquire Hardware]
+[03Dec2024 04:38:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Set own game mode to Survival Mode]
+[03Dec2024 04:39:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN] LordZand has completed the challenge [The End Of The Origin]
+[03Dec2024 04:39:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has completed the challenge [The End Of The Origin]
+[03Dec2024 04:40:21.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/731, l='ServerLevel[world]', x=172.74, y=64.00, z=180.10] died, message: 'Villager was slain by Rodjes7'
+[03Dec2024 04:40:27.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
+[03Dec2024 04:40:31.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/294, l='ServerLevel[world]', x=128.40, y=66.62, z=176.30] died, message: 'Farmer was slain by [ADMIN] LordZand'
+[03Dec2024 04:40:34.898] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/300, l='ServerLevel[world]', x=129.37, y=66.00, z=179.18] died, message: 'Nitwit was slain by [ADMIN] LordZand'
+[03Dec2024 04:40:37.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2106, l='ServerLevel[world]', x=191.70, y=67.00, z=163.45] died, message: 'Nitwit was slain by Rodjes7'
+[03Dec2024 04:40:38.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/151, l='ServerLevel[world]', x=121.21, y=67.00, z=181.29] died, message: 'Farmer was slain by [ADMIN] LordZand'
+[03Dec2024 04:40:42.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2105, l='ServerLevel[world]', x=176.53, y=66.00, z=165.07] died, message: 'Fletcher was slain by Rodjes7'
+[03Dec2024 04:41:51.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/720, l='ServerLevel[world]', x=146.96, y=67.00, z=173.04] died, message: 'Villager was slain by Rodjes7'
+[03Dec2024 04:42:33.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN] LordZand is bleeding. [ADMIN] LordZand was slain by Rodjes7
+[03Dec2024 04:44:27.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 is bleeding. Rodjes7 hit the ground too hard whilst trying to escape [ADMIN] LordZand
+[03Dec2024 04:46:37.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN] LordZand: Teleported [ADMIN] LordZand to Rodjes7]
