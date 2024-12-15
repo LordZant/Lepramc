@@ -1062,24 +1062,6 @@
     },
     "done": true
   },
-  "idas:ancient_mines": {
-    "criteria": {
-      "in_ancient_mines": "2024-12-15 16:15:06 +0000"
-    },
-    "done": true
-  },
-  "tetra:upgrades/workbench": {
-    "criteria": {
-      "hammer": "2024-12-15 16:02:39 +0000"
-    },
-    "done": true
-  },
-  "tetra:recipes/workbench": {
-    "criteria": {
-      "hammer": "2024-12-15 16:02:39 +0000"
-    },
-    "done": true
-  },
   "tetra:upgrades/root": {
     "criteria": {
       "hammer": "2024-12-15 16:02:37 +0000"
@@ -1104,11 +1086,113 @@
     },
     "done": true
   },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2024-12-15 16:02:39 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2024-12-15 16:02:39 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2024-12-15 16:13:53 +0000"
     },
     "done": true
+  },
+  "idas:ancient_mines": {
+    "criteria": {
+      "in_ancient_mines": "2024-12-15 16:15:06 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-12-15 16:23:46 +0000"
+    },
+    "done": false
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-15 16:24:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:26:52 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

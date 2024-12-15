@@ -848,3 +848,36 @@
 [15Dec2024 16:06:47.582] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [15Dec2024 16:13:53.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Junior Summoner]
 [15Dec2024 16:15:06.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has completed the challenge [Ancient Mines]
+[15Dec2024 16:20:23.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[15Dec2024 16:20:23.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[15Dec2024 16:20:23.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[15Dec2024 16:20:23.822] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 16:20:43.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:49951] logged in with entity id 25256 at (-408.8587600139262, 59.00133597911215, -1083.516211474791)
+[15Dec2024 16:20:43.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[15Dec2024 16:20:43.405] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[15Dec2024 16:20:43.438] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[15Dec2024 16:20:43.443] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 16:20:43.444] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[15Dec2024 16:24:54.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29105, l='ServerLevel[world]', x=-463.50, y=93.42, z=-1314.46]
+[15Dec2024 16:24:54.168] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29106, l='ServerLevel[world]', x=-464.24, y=92.85, z=-1315.50]
+[15Dec2024 16:24:54.168] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29107, l='ServerLevel[world]', x=-465.29, y=93.71, z=-1312.00]
+[15Dec2024 16:24:54.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29108, l='ServerLevel[world]', x=-466.41, y=93.28, z=-1312.18]
+[15Dec2024 16:24:54.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29109, l='ServerLevel[world]', x=-467.50, y=93.00, z=-1312.04]
+[15Dec2024 16:24:54.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29110, l='ServerLevel[world]', x=-468.78, y=92.71, z=-1312.16]
+[15Dec2024 16:25:28.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[15Dec2024 16:25:28.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[15Dec2024 16:26:26.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:50062] logged in with entity id 32370 at (-443.9181978711101, 56.0, -1097.1965933561096)
+[15Dec2024 16:26:26.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[15Dec2024 16:26:26.332] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[15Dec2024 16:26:26.361] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[15Dec2024 16:26:26.362] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 16:26:26.363] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[15Dec2024 16:27:01.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[15Dec2024 16:27:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand left the game
+[15Dec2024 16:27:41.345] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ca9b55a[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:50091) lost connection: Timed out
+[15Dec2024 16:28:02.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:50107] logged in with entity id 33599 at (-443.9181978711101, 56.0, -1097.1965933561096)
+[15Dec2024 16:28:02.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[15Dec2024 16:28:02.058] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[15Dec2024 16:28:02.085] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[15Dec2024 16:28:02.085] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[15Dec2024 16:28:02.086] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
