@@ -94,6 +94,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-10 12:46:25 +0000",
       "minecraft:taiga": "2024-12-08 16:08:43 +0000",
       "minecraft:frozen_river": "2024-12-10 21:14:49 +0000",
+      "minecraft:cherry_grove": "2024-12-16 02:05:29 +0000",
       "minecraft:beach": "2024-12-10 13:41:46 +0000",
       "minecraft:river": "2024-12-09 00:00:03 +0000",
       "minecraft:snowy_plains": "2024-12-10 21:24:44 +0000",
@@ -536,6 +537,7 @@
       "porkchop": "2024-12-10 20:46:00 +0000",
       "apple": "2024-12-10 13:44:30 +0000",
       "potato": "2024-12-10 13:44:37 +0000",
+      "pumpkin_pie": "2024-12-16 01:18:09 +0000",
       "mutton": "2024-12-10 21:39:16 +0000",
       "golden_apple": "2024-12-10 14:00:18 +0000",
       "bread": "2024-12-10 19:58:42 +0000",
@@ -546,6 +548,8 @@
       "beetroot": "2024-12-15 16:10:25 +0000",
       "cooked_rabbit": "2024-12-15 03:04:31 +0000",
       "enchanted_golden_apple": "2024-12-11 02:33:08 +0000",
+      "mushroom_stew": "2024-12-16 01:31:54 +0000",
+      "cod": "2024-12-16 02:41:43 +0000",
       "cooked_salmon": "2024-12-10 12:40:44 +0000",
       "carrot": "2024-12-15 03:31:53 +0000"
     },
@@ -571,9 +575,11 @@
       "minecraft:creeper": "2024-12-10 13:16:51 +0000",
       "minecraft:slime": "2024-12-10 20:38:37 +0000",
       "minecraft:phantom": "2024-12-10 20:30:15 +0000",
+      "minecraft:witch": "2024-12-16 00:41:59 +0000",
       "minecraft:wither_skeleton": "2024-12-10 20:31:43 +0000",
       "minecraft:husk": "2024-12-15 03:52:48 +0000",
       "minecraft:cave_spider": "2024-12-15 16:17:07 +0000",
+      "quark:wraith": "2024-12-16 00:36:00 +0000",
       "minecraft:piglin": "2024-12-15 05:10:31 +0000",
       "minecraft:silverfish": "2024-12-15 06:01:11 +0000",
       "minecraft:stray": "2024-12-15 04:41:30 +0000",
@@ -1119,6 +1125,42 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-12-15 16:24:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-16 00:46:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-16 01:31:54 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2024-12-16 01:35:13 +0000"
+    },
+    "done": true
+  },
+  "ancient_golems:the_end_of_the_origin": {
+    "criteria": {
+      "the_end_of_the_origin_0": "2024-12-16 02:26:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-16 02:58:53 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_millennial_leaf": {
+    "criteria": {
+      "advancement_millennial_leaf_0": "2024-12-16 15:49:32 +0000"
     },
     "done": true
   },
