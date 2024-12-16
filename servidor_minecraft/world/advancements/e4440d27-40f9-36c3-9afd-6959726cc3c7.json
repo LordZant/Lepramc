@@ -552,7 +552,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-16 22:48:40 +0000",
       "minecraft:skeleton": "2024-12-16 21:56:59 +0000",
+      "minecraft:vindicator": "2024-12-16 22:48:56 +0000",
       "minecraft:spider": "2024-12-16 22:04:54 +0000",
       "minecraft:witch": "2024-12-16 22:11:58 +0000",
       "minecraft:cave_spider": "2024-12-16 22:24:35 +0000",
@@ -630,6 +632,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-16 22:00:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-16 22:48:02 +0000"
     },
     "done": true
   },
