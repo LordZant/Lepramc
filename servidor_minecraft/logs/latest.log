@@ -824,3 +824,15 @@
 [16Dec2024 21:34:14.945] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
 [16Dec2024 21:38:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has made the advancement [Advancement Mineral Wealth]
 [16Dec2024 21:40:22.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has made the advancement [Acquire Hardware]
+[16Dec2024 21:46:14.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:54977] logged in with entity id 3158 at (-1358.8281484529314, 63.0, -1090.6877475409797)
+[16Dec2024 21:46:14.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[16Dec2024 21:46:14.339] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[16Dec2024 21:46:14.421] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[16Dec2024 21:46:14.422] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Dec2024 21:46:14.423] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[16Dec2024 21:48:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MIEMBRO] Matmaster42> -1000 -600
+[16Dec2024 21:48:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Guns and Roses]
+[16Dec2024 21:49:17.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[16Dec2024 21:49:17.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[16Dec2024 21:51:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has made the advancement [Suit Up]
+[16Dec2024 21:51:36.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has made the advancement [Monster Hunter]
