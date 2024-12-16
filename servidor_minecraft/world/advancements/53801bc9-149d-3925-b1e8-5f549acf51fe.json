@@ -1197,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-16 23:39:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2024-12-16 23:16:14 +0000"

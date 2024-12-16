@@ -906,3 +906,13 @@
 [16Dec2024 23:21:46.219] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
 [16Dec2024 23:21:46.219] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [16Dec2024 23:21:46.220] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[16Dec2024 23:28:39.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> zzz
+[16Dec2024 23:28:45.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matmaster42 lost connection: Kicked by an operator
+[16Dec2024 23:28:45.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 left the game
+[16Dec2024 23:28:45.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[MIEMBRO+]☠ Rodjes7: Kicked [MIEMBRO] Matmaster42: Kicked by an operator]
+[16Dec2024 23:28:45.147] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 23:28:52.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MIEMBRO+]☠ Rodjes7> zzzzz
+[16Dec2024 23:30:37.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/38944, l='ServerLevel[world]', x=-1187.39, y=69.00, z=-555.57] died, message: 'Farmer hit the ground too hard'
+[16Dec2024 23:39:42.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Surge Protector]
+[16Dec2024 23:40:50.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> zzz
+[16Dec2024 23:40:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> zzz
