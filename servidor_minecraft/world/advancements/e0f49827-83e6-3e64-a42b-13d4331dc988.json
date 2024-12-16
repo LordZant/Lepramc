@@ -1187,6 +1187,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-16 20:21:55 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-16 18:02:42 +0000"
