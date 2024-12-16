@@ -828,3 +828,14 @@
 [16Dec2024 15:59:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand burned to death
 [16Dec2024 16:12:11.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Chest Slayer]
 [16Dec2024 16:12:16.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Amateur Archaeologist]
+[16Dec2024 16:18:08.676] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 16:18:08.714] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 16:18:08.715] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Dec2024 16:24:13.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7092, l='ServerLevel[world]', x=-1840.51, y=67.00, z=-887.68] died, message: 'Villager was turned into KFC by Fire Dragon'
+[16Dec2024 16:24:13.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7091, l='ServerLevel[world]', x=-1839.62, y=70.88, z=-888.62] died, message: 'Villager was slain by Fire Dragon'
+[16Dec2024 16:24:17.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7090, l='ServerLevel[world]', x=-1822.43, y=66.00, z=-893.38] died, message: 'Villager was turned into KFC by Fire Dragon'
+[16Dec2024 16:24:56.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[16Dec2024 16:25:05.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Rocks Off!]
+[16Dec2024 16:25:57.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[16Dec2024 16:25:57.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[16Dec2024 16:25:57.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
