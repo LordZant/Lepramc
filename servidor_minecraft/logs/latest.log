@@ -874,3 +874,11 @@
 [16Dec2024 22:39:26.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has reached the goal [Senior Summoner]
 [16Dec2024 22:42:42.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Not a Fluid!]
 [16Dec2024 22:48:02.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has made the advancement [Junior Summoner]
+[16Dec2024 22:55:43.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29509, l='ServerLevel[world]', x=-515.64, y=89.62, z=-317.75]
+[16Dec2024 22:55:43.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29510, l='ServerLevel[world]', x=-516.08, y=89.89, z=-319.59]
+[16Dec2024 22:55:43.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29513, l='ServerLevel[world]', x=-516.72, y=89.35, z=-319.12]
+[16Dec2024 22:55:43.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29514, l='ServerLevel[world]', x=-516.09, y=88.81, z=-318.09]
+[16Dec2024 22:55:43.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29517, l='ServerLevel[world]', x=-513.58, y=88.94, z=-319.78]
+[16Dec2024 22:55:43.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29518, l='ServerLevel[world]', x=-512.02, y=88.68, z=-319.87]
+[16Dec2024 22:56:00.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16Dec2024 23:04:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Imbued]

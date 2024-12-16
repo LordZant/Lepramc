@@ -12984,3 +12984,37 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [16Dec2024 22:53:39.730] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (15b5391c-0401-4bda-acd7-28f5175fe64a)
 [16Dec2024 22:53:57.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Dec2024 22:53:57.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 22:55:43.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29509, l='ServerLevel[world]', x=-515.64, y=89.62, z=-317.75]
+[16Dec2024 22:55:43.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29510, l='ServerLevel[world]', x=-516.08, y=89.89, z=-319.59]
+[16Dec2024 22:55:43.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29513, l='ServerLevel[world]', x=-516.72, y=89.35, z=-319.12]
+[16Dec2024 22:55:43.276] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29514, l='ServerLevel[world]', x=-516.09, y=88.81, z=-318.09]
+[16Dec2024 22:55:43.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29517, l='ServerLevel[world]', x=-513.58, y=88.94, z=-319.78]
+[16Dec2024 22:55:43.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29518, l='ServerLevel[world]', x=-512.02, y=88.68, z=-319.87]
+[16Dec2024 22:55:53.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse
+[16Dec2024 22:55:53.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse_path
+[16Dec2024 22:56:00.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16Dec2024 22:58:34.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[16Dec2024 22:58:34.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_1
+[16Dec2024 22:58:34.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[16Dec2024 22:58:34.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[16Dec2024 22:58:34.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_straight_0
+[16Dec2024 22:58:34.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[16Dec2024 22:58:34.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_0
+[16Dec2024 22:58:34.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_2
+[16Dec2024 22:58:34.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_fishing_house
+[16Dec2024 22:58:34.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[16Dec2024 22:58:34.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_3
+[16Dec2024 22:58:34.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[16Dec2024 22:58:34.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_red_house_1
+[16Dec2024 22:58:34.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[16Dec2024 22:58:34.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/red_sorcerer_house
+[16Dec2024 22:58:34.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[16Dec2024 22:58:34.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_3
+[16Dec2024 22:58:34.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_sorcerer
+[16Dec2024 22:58:34.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_brown_house_1
+[16Dec2024 22:58:34.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_gardener
+[16Dec2024 22:58:59.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 22:58:59.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:03:59.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:03:59.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:04:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Imbued]

@@ -93,10 +93,12 @@
     "criteria": {
       "minecraft:taiga": "2024-12-10 00:55:41 +0000",
       "minecraft:river": "2024-12-10 01:08:46 +0000",
+      "minecraft:forest": "2024-12-16 22:55:40 +0000",
       "minecraft:lush_caves": "2024-12-10 01:02:04 +0000",
       "minecraft:frozen_ocean": "2024-12-16 22:19:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-16 03:00:55 +0000",
-      "minecraft:snowy_beach": "2024-12-16 21:35:25 +0000"
+      "minecraft:snowy_beach": "2024-12-16 21:35:25 +0000",
+      "minecraft:plains": "2024-12-16 22:56:13 +0000"
     },
     "done": false
   },
@@ -602,6 +604,12 @@
   "rpgsmw:paladin_class": {
     "criteria": {
       "paladin_class_0": "2024-12-16 22:08:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-16 22:54:22 +0000"
     },
     "done": true
   },
