@@ -177,6 +177,7 @@
       "cooked_porkchop": "2024-12-16 22:28:47 +0000",
       "cooked_mutton": "2024-12-16 22:23:31 +0000",
       "sweet_berries": "2024-12-10 01:16:32 +0000",
+      "bread": "2024-12-16 22:34:54 +0000",
       "glow_berries": "2024-12-16 22:00:50 +0000",
       "cooked_chicken": "2024-12-16 22:22:02 +0000"
     },
@@ -611,6 +612,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-16 22:29:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2024-12-16 22:39:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-16 22:36:36 +0000"
     },
     "done": true
   },

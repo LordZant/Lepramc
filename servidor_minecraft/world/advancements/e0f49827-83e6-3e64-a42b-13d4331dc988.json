@@ -1264,6 +1264,12 @@
     },
     "done": true
   },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2024-12-16 22:42:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2024-12-16 22:18:37 +0000"
