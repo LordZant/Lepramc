@@ -843,3 +843,5 @@
 [16Dec2024 18:59:52.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1088, y=65, z=-610} BlockPos{x=-1089, y=63, z=-609}
 [16Dec2024 19:08:53.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Voluntary Exile]
 [16Dec2024 19:10:51.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [What a Deal!]
+[16Dec2024 20:04:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MIEMBRO+]☠ Rodjes7> -1700 -2100
+[16Dec2024 20:12:49.599] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
