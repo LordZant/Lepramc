@@ -828,3 +828,7 @@
 [16Dec2024 17:59:27.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has reached the goal [Senior Summoner]
 [16Dec2024 18:02:42.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Life turned out to be a comedy]
 [16Dec2024 18:05:56.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[16Dec2024 18:22:20.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1076, y=63, z=-622} BlockPos{x=-1076, y=62, z=-624}
+[16Dec2024 18:22:20.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1076, y=63, z=-626} BlockPos{x=-1075, y=63, z=-626}
+[16Dec2024 18:22:20.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1076, y=63, z=-626} BlockPos{x=-1075, y=63, z=-626}
+[16Dec2024 18:22:37.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1080, y=64, z=-622} BlockPos{x=-1080, y=63, z=-621}
