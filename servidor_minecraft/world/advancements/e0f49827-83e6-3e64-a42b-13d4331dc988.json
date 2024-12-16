@@ -1193,9 +1193,40 @@
     },
     "done": true
   },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2024-12-16 18:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-12-16 18:35:49 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-16 17:59:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-16 18:26:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2024-12-16 18:35:28 +0000",
+      "wheat": "2024-12-16 18:26:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-16 18:35:49 +0000"
     },
     "done": true
   },
