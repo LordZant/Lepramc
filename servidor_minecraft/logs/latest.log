@@ -882,3 +882,27 @@
 [16Dec2024 22:55:43.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/29518, l='ServerLevel[world]', x=-512.02, y=88.68, z=-319.87]
 [16Dec2024 22:56:00.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [16Dec2024 23:04:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Imbued]
+[16Dec2024 23:05:17.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[16Dec2024 23:05:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[16Dec2024 23:13:20.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:50960] logged in with entity id 34491 at (-1705.5792107941566, 68.0, -714.0488653006456)
+[16Dec2024 23:13:20.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand joined the game
+[16Dec2024 23:13:20.345] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[16Dec2024 23:13:20.381] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[16Dec2024 23:13:20.387] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Dec2024 23:13:20.389] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[16Dec2024 23:14:16.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has made the advancement [What a Deal!]
+[16Dec2024 23:15:54.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Enchanting Tower]
+[16Dec2024 23:16:14.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Imbued]
+[16Dec2024 23:16:19.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[MIEMBRO] Matmaster42> tcalmate un cachooo
+[16Dec2024 23:16:19.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Not a Fluid!]
+[16Dec2024 23:16:39.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Unbreaking X]
+[16Dec2024 23:17:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Potion Storage]
+[16Dec2024 23:19:41.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[16Dec2024 23:19:41.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matmaster42 moved too quickly! 1.319127491070958,0.7531999805212024,-9.937277952775617
+[16Dec2024 23:20:44.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[16Dec2024 23:21:46.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:57963] logged in with entity id 40050 at (-1069.4281891042344, 64.0, -611.9627927982391)
+[16Dec2024 23:21:46.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[16Dec2024 23:21:46.193] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[16Dec2024 23:21:46.219] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[16Dec2024 23:21:46.219] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[16Dec2024 23:21:46.220] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7

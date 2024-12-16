@@ -1258,16 +1258,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
+  "ars_nouveau:novice_spell_book": {
     "criteria": {
-      "charm_collector_1": "2024-12-16 22:46:43 +0000",
-      "charm_collector_3": "2024-12-16 22:46:48 +0000"
+      "has_novice_spell_book": "2024-12-16 22:18:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:book/brewing/haste_potion": {
     "criteria": {
       "has_items": "2024-12-16 22:21:10 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2024-12-16 22:22:23 +0000"
     },
     "done": true
   },
@@ -1277,15 +1282,16 @@
     },
     "done": true
   },
-  "ars_nouveau:novice_spell_book": {
+  "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "has_novice_spell_book": "2024-12-16 22:18:37 +0000"
+      "charm_collector_1": "2024-12-16 22:46:43 +0000",
+      "charm_collector_3": "2024-12-16 22:46:48 +0000"
     },
-    "done": true
+    "done": false
   },
-  "ars_nouveau:apprentice_spell_book": {
+  "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "has_apprentice_spell_book": "2024-12-16 22:22:23 +0000"
+      "has_imbuement_chamber": "2024-12-16 23:04:40 +0000"
     },
     "done": true
   },
