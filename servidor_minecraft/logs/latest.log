@@ -841,3 +841,5 @@
 [16Dec2024 18:35:49.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [The Parrots and the Bats]
 [16Dec2024 18:42:24.076] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
 [16Dec2024 18:59:52.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1088, y=65, z=-610} BlockPos{x=-1089, y=63, z=-609}
+[16Dec2024 19:08:53.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Voluntary Exile]
+[16Dec2024 19:10:51.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [What a Deal!]
