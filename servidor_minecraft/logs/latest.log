@@ -823,3 +823,8 @@
 [16Dec2024 15:49:29.321] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [16Dec2024 15:49:29.322] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdfe5523$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [16Dec2024 15:49:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has reached the goal [Millennial Leaf]
+[16Dec2024 15:59:16.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was burnt to a crisp whilst fighting Dread Hound
+[16Dec2024 15:59:48.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[ADMIN]☠ LordZand> -1561 -745
+[16Dec2024 15:59:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand burned to death
+[16Dec2024 16:12:11.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Chest Slayer]
+[16Dec2024 16:12:16.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Amateur Archaeologist]
