@@ -1355,6 +1355,18 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-17 03:40:29 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-12-17 03:41:39 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/lore_inscriber": {
     "criteria": {
       "etherium": "2024-12-17 03:19:20 +0000"
