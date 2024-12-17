@@ -1303,5 +1303,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-12-17 01:34:21 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_millennial_leaf": {
+    "criteria": {
+      "advancement_millennial_leaf_0": "2024-12-17 01:42:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

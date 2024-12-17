@@ -869,3 +869,41 @@
 [17Dec2024 01:34:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has completed the challenge [Serious Dedication]
 [17Dec2024 01:34:53.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Alanbre picking up: PermanentItemEntity['Extradimensional Vessel'/16459, l='ServerLevel[world]', x=-56.30, y=68.50, z=-75.30]
 [17Dec2024 01:34:53.446] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/16459, l='ServerLevel[world]', x=-56.30, y=68.50, z=-75.30]
+[17Dec2024 01:40:00.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matmaster42[/10.147.18.231:55607] logged in with entity id 20283 at (-1139.300000011921, 68.0, -497.6017483337026)
+[17Dec2024 01:40:00.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 joined the game
+[17Dec2024 01:40:00.053] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Matmaster42
+[17Dec2024 01:40:00.079] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Matmaster42...
+[17Dec2024 01:40:00.080] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 01:40:00.082] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Matmaster42
+[17Dec2024 01:40:35.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Dec2024 01:40:38.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre has made the advancement [Advancement Mineral Wealth]
+[17Dec2024 01:40:40.985] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 01:40:40.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 01:40:40.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 01:40:40.986] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[17Dec2024 01:42:40.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has reached the goal [Millennial Leaf]
+[17Dec2024 01:43:10.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[17Dec2024 01:43:28.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[17Dec2024 01:43:37.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.33686616369186595
+[17Dec2024 01:43:37.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.8005447227765217
+[17Dec2024 01:43:37.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.26529095360729116
+[17Dec2024 01:43:37.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.7305150106790279
+[17Dec2024 01:43:37.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.1960338506314656
+[17Dec2024 01:43:45.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[17Dec2024 01:43:57.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.2861141066177879
+[17Dec2024 01:43:57.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.5728986030258056
+[17Dec2024 01:43:57.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.8120758334932816
+[17Dec2024 01:44:04.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3508ms or 70 ticks behind
+[17Dec2024 01:44:21.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17Dec2024 01:44:21.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand is bleeding. [ADMIN]☠ LordZand was doomed to fall by Cyclops
+[17Dec2024 01:45:20.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17Dec2024 01:45:25.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[17Dec2024 01:45:40.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[17Dec2024 01:45:51.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre has made the advancement [Monster Hunter]
+[17Dec2024 01:45:59.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17Dec2024 01:46:28.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Dec2024 01:46:54.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[17Dec2024 01:47:10.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre has made the advancement [Re-acquired Knowledge]
+[17Dec2024 01:47:13.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3808ms or 76 ticks behind
+[17Dec2024 01:47:34.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17Dec2024 01:48:10.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre has made the advancement [Perfectly Balanced]

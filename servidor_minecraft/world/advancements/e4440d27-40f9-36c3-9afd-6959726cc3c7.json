@@ -583,81 +583,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
+      "diamond_helmet": "2024-12-16 22:00:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
+      "diamond": "2024-12-16 22:00:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "rpgsmw:paladin_class": {
     "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-16 23:28:01 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:pieceof_chaos": {
-    "criteria": {
-      "pieceof_chaos_0": "2024-12-16 22:25:06 +0000"
+      "paladin_class_0": "2024-12-16 22:08:44 +0000"
     },
     "done": true
   },
@@ -673,27 +613,9 @@
     },
     "done": true
   },
-  "rpgsmw:paladin_class": {
+  "born_in_chaos_v1:pieceof_chaos": {
     "criteria": {
-      "paladin_class_0": "2024-12-16 22:08:44 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-12-16 22:54:22 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2024-12-16 23:19:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2024-12-16 22:00:19 +0000"
+      "pieceof_chaos_0": "2024-12-16 22:25:06 +0000"
     },
     "done": true
   },
@@ -703,15 +625,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-16 22:36:36 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-16 22:39:26 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:dark_metallurgy": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "dark_metallurgy_0": "2024-12-16 22:36:36 +0000"
+      "junior_summoner_0": "2024-12-16 22:48:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-16 22:54:22 +0000"
     },
     "done": true
   },
@@ -721,15 +655,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "diamond": "2024-12-16 22:00:26 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2024-12-16 22:48:02 +0000"
+      "location0": "2024-12-16 23:19:02 +0000"
     },
     "done": true
   },
