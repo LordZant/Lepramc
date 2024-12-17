@@ -580,6 +580,7 @@
       "minecraft:piglin_brute": "2024-12-15 05:13:31 +0000",
       "minecraft:creeper": "2024-12-10 13:16:51 +0000",
       "minecraft:slime": "2024-12-10 20:38:37 +0000",
+      "minecraft:evoker": "2024-12-17 02:54:07 +0000",
       "minecraft:phantom": "2024-12-10 20:30:15 +0000",
       "minecraft:witch": "2024-12-16 00:41:59 +0000",
       "minecraft:wither_skeleton": "2024-12-10 20:31:43 +0000",
@@ -1302,6 +1303,18 @@
       "charm_collector_3": "2024-12-17 02:26:42 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-17 02:54:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2024-12-17 02:54:28 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
