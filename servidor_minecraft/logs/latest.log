@@ -2,3 +2,26 @@
 [17Dec2024 00:01:12.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/255, l='ServerLevel[world]', x=-1161.44, y=71.00, z=-539.53] died, message: 'Villager was slain by [ADMIN]☠ LordZand'
 [17Dec2024 00:02:40.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/225, l='ServerLevel[world]', x=-1161.83, y=68.50, z=-536.37] died, message: 'Villager was slain by [ADMIN]☠ LordZand'
 [17Dec2024 00:13:36.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has reached the goal [Dark Creator]
+[17Dec2024 00:17:49.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/274, l='ServerLevel[world]', x=-1112.53, y=66.00, z=-512.70] died, message: 'Armorer was slain by Swarmer'
+[17Dec2024 00:31:40.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alanbre[/10.147.18.24:62343] logged in with entity id 8292 at (10.5, 72.0, 7.5)
+[17Dec2024 00:31:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alanbre joined the game
+[17Dec2024 00:31:40.351] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alanbre
+[17Dec2024 00:31:40.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alanbre has reached the goal [Choose Your Class]
+[17Dec2024 00:31:40.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alanbre has made the advancement [Discover Bolivia]
+[17Dec2024 00:31:40.426] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Alanbre...
+[17Dec2024 00:31:40.426] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 00:31:40.439] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Alanbre
+[17Dec2024 00:31:40.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alanbre has made the advancement [Integrated Dungeons and Structures]
+[17Dec2024 00:31:40.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alanbre has made the advancement [Ice and Fire]
+[17Dec2024 00:31:59.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=73, z=10}
+[17Dec2024 00:32:49.157] [Server thread/INFO] [Easy NPC/]: Opening menu 4b4df37d-39b8-485c-aef8-5ebe5b93bdaa for npc 9f7900b5-a106-48c3-af3e-0504c14b1c97 and player ServerPlayer['Alanbre'/8292, l='ServerLevel[world]', x=3.35, y=71.00, z=28.70] with DialogMenuHandler{displayName=literal{HIJA DE LA CASE}[style={color=#9AC0CD}]}
+[17Dec2024 00:33:42.950] [Server thread/INFO] [Easy NPC/]: Opening menu 59f9978c-8b0f-4810-b737-86fd1a31f384 for npc bf2b3055-e79a-42a4-8ffd-6b8704e696b0 and player ServerPlayer['Alanbre'/8292, l='ServerLevel[world]', x=71.31, y=68.00, z=33.65] with DialogMenuHandler{displayName=literal{TIO DE LA MINA}[style={color=#FF0000}]}
+[17Dec2024 00:35:16.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[17Dec2024 00:35:16.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 left the game
+[17Dec2024 00:35:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[ADMIN]☠ LordZand: Added Alanbre to team [MIEMBRO]]
+[17Dec2024 00:35:55.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:60409] logged in with entity id 9969 at (-1071.1826517238696, 64.0, -613.3555597986825)
+[17Dec2024 00:35:55.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 joined the game
+[17Dec2024 00:35:55.958] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[17Dec2024 00:35:55.981] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[17Dec2024 00:35:55.981] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 00:35:55.981] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
