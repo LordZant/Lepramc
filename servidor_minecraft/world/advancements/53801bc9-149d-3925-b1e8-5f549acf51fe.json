@@ -1197,27 +1197,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-16 23:39:42 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:imbuement_chamber": {
-    "criteria": {
-      "has_imbuement_chamber": "2024-12-16 23:16:14 +0000"
-    },
-    "done": true
-  },
   "idas:enchantingtower": {
     "criteria": {
       "in_enchantingtower": "2024-12-16 23:15:54 +0000"
     },
     "done": true
   },
-  "ars_nouveau:potion_jar": {
+  "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "has_potion_jar": "2024-12-16 23:17:02 +0000"
+      "has_imbuement_chamber": "2024-12-16 23:16:14 +0000"
     },
     "done": true
   },
@@ -1230,6 +1218,18 @@
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2024-12-16 23:16:39 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2024-12-16 23:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-16 23:39:42 +0000"
     },
     "done": true
   },
