@@ -101,6 +101,7 @@
       "minecraft:river": "2024-12-09 00:00:03 +0000",
       "minecraft:snowy_plains": "2024-12-10 21:24:44 +0000",
       "minecraft:snowy_taiga": "2024-12-10 21:18:16 +0000",
+      "minecraft:dripstone_caves": "2024-12-17 02:36:45 +0000",
       "minecraft:swamp": "2024-12-15 03:26:52 +0000",
       "minecraft:cold_ocean": "2024-12-15 05:56:02 +0000",
       "minecraft:forest": "2024-12-12 01:49:16 +0000",
@@ -1266,21 +1267,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "charm_collector_3": "2024-12-17 02:26:42 +0000"
-    },
-    "done": false
-  },
-  "tetra:spelunking/find_scroll_sturdy": {
-    "criteria": {
-      "find": "2024-12-17 02:19:42 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/geode": {
-    "criteria": {
-      "get_geode": "2024-12-17 02:05:16 +0000"
+      "cave_tablet": "2024-12-17 01:58:46 +0000"
     },
     "done": true
   },
@@ -1290,17 +1279,102 @@
     },
     "done": true
   },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2024-12-17 02:05:16 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2024-12-17 02:16:58 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "tetra:spelunking/find_scroll_sturdy": {
     "criteria": {
-      "cave_tablet": "2024-12-17 01:58:46 +0000"
+      "find": "2024-12-17 02:19:42 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2024-12-17 02:26:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-17 02:39:36 +0000",
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-17 02:39:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
