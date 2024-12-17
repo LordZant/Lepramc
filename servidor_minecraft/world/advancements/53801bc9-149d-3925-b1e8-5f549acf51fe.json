@@ -1266,6 +1266,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2024-12-17 02:26:42 +0000"
+    },
+    "done": false
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2024-12-17 02:19:42 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/geode": {
     "criteria": {
       "get_geode": "2024-12-17 02:05:16 +0000"
@@ -1275,6 +1287,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-17 01:58:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-17 02:16:58 +0000"
     },
     "done": true
   },
