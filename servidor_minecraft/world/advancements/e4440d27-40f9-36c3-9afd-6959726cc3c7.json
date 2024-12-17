@@ -666,9 +666,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2024-12-17 02:14:46 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2024-12-17 01:57:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-17 02:12:13 +0000"
     },
     "done": true
   },
@@ -684,15 +696,39 @@
     },
     "done": false
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-17 02:12:07 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-17 02:07:40 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_1": "2024-12-17 01:51:52 +0000"
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-17 02:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-17 01:57:44 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-17 02:08:35 +0000"
     },
     "done": true
   },
@@ -705,6 +741,18 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2024-12-17 01:55:19 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-17 02:07:40 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-17 02:08:35 +0000"
     },
     "done": true
   },
