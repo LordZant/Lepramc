@@ -13413,3 +13413,637 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [17Dec2024 01:57:50.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3144ms or 62 ticks behind
 [17Dec2024 01:58:09.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4263ms or 85 ticks behind
 [17Dec2024 01:58:29.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4590ms or 91 ticks behind
+[17Dec2024 01:58:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [It Belongs in a Museum]
+[17Dec2024 01:58:49.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Once Upon a Cave]
+[17Dec2024 01:58:52.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8027ms or 160 ticks behind
+[17Dec2024 01:58:55.497] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[17Dec2024 01:59:06.063] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit is being run through DFU (hash f1c61aee919af5b4328b00946297488c1ae6298e8368899493ef1e2f912cd68d), this will cause launch time delays
+[17Dec2024 01:59:06.257] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthi_throne is being run through DFU (hash fe56ff13945da4037a3304881f981a2d446bd3d8011f0673dd029d88bd38d2d7), this will cause launch time delays
+[17Dec2024 01:59:06.519] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_1 is being run through DFU (hash 761c6ed2072fe7e2915febc169f20d4b644f8695f5e9dd9719bcab1cbe1e4127), this will cause launch time delays
+[17Dec2024 01:59:06.570] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_2 is being run through DFU (hash 760dec3596d4f025d1c5cf7f2641193f29d165e4ae8fcc344d06435c6a32ac58), this will cause launch time delays
+[17Dec2024 01:59:06.616] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_extend is being run through DFU (hash 02ee3988b5d2680529a144e8cf8abc69d71a674c8feb16925c671e0fedbca653), this will cause launch time delays
+[17Dec2024 01:59:06.790] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_1 is being run through DFU (hash adaed3887d364fa75eefd197e87cd281605ab4caec4441c9abadf64eb3836771), this will cause launch time delays
+[17Dec2024 01:59:06.915] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_2 is being run through DFU (hash 1379096a7a49bd6673e2d616c0bdfceedaa1ac4f8e60238437a7fb0d90ea3111), this will cause launch time delays
+[17Dec2024 01:59:07.058] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_3 is being run through DFU (hash dd6e993a8f3fde05c1064302501b0f9ffdeda06349ef4a8f150ff16d4d8bcaf8), this will cause launch time delays
+[17Dec2024 01:59:07.102] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_2 is being run through DFU (hash 442197eb9b8936253bfa6786eb8731c4c7825592357132b3ea17461b5971b58c), this will cause launch time delays
+[17Dec2024 01:59:07.141] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_1 is being run through DFU (hash c0a2ab40feea0429b2fdd2197c7dc7726ed142ffae8b437e57614aeb5118cd53), this will cause launch time delays
+[17Dec2024 01:59:07.232] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_2 is being run through DFU (hash f994a4d00e2db8d208572e9f72e67c3379bbabfd99dbd8865046ffe941573796), this will cause launch time delays
+[17Dec2024 01:59:07.261] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_3 is being run through DFU (hash 4322167294d5c4acf589da61f48b80c66fc3b43657a11d1f1ca8a1004f7b0a19), this will cause launch time delays
+[17Dec2024 01:59:07.302] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_1 is being run through DFU (hash 592b09a6abd24a3d4c7e68dbe797dff2bf244aff6ec0e07d398fac23d00f5c49), this will cause launch time delays
+[17Dec2024 01:59:07.326] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_4 is being run through DFU (hash 83cbc6cdf72ab1b09f2ca868d918388ed6e0d35f8da2161960420f5d37c03bbd), this will cause launch time delays
+[17Dec2024 01:59:12.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre has made the advancement [Hollow Solids]
+[17Dec2024 01:59:15.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7898ms or 157 ticks behind
+[17Dec2024 01:59:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre has made the advancement [Diamonds!]
+[17Dec2024 01:59:29.247] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[17Dec2024 01:59:29.247] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 01:59:29.255] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:33,EnchantmentMapping:{},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:mending",lvl:1s}],"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 01:59:29.255] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:33,EnchantmentMapping:{},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:mending",lvl:1s}],"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 01:59:29.262] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:33,EnchantmentMapping:{"minecraft:knockback":"sword/hilt","minecraft:mending":"sword/blade"},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:mending",lvl:1s}],"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 01:59:29.263] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:33,EnchantmentMapping:{"minecraft:knockback":"sword/hilt","minecraft:mending":"sword/blade"},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:mending",lvl:1s}],"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 01:59:29.263] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[17Dec2024 01:59:29.263] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:29.264] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:215,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:29.264] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:215,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:34.326] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:221,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:34.326] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:221,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:36.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6256ms or 125 ticks behind
+[17Dec2024 01:59:41.372] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:226,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:41.372] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:226,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:48.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 01:59:48.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 01:59:55.046] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:227,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:55.046] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:227,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:59:57.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6322ms or 126 ticks behind
+[17Dec2024 02:00:10.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[17Dec2024 02:00:10.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[17Dec2024 02:00:10.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_3
+[17Dec2024 02:00:10.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_fishing_house
+[17Dec2024 02:00:10.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[17Dec2024 02:00:10.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_2
+[17Dec2024 02:00:10.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_1
+[17Dec2024 02:00:10.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[17Dec2024 02:00:10.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_2
+[17Dec2024 02:00:10.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[17Dec2024 02:00:10.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[17Dec2024 02:00:10.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_sorcerer
+[17Dec2024 02:00:10.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_3
+[17Dec2024 02:00:10.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[17Dec2024 02:00:10.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_1
+[17Dec2024 02:00:10.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_1
+[17Dec2024 02:00:10.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_brown_house_1
+[17Dec2024 02:00:10.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_gardener
+[17Dec2024 02:00:13.739] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[17Dec2024 02:00:14.648] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[17Dec2024 02:00:14.672] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[17Dec2024 02:00:14.697] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[17Dec2024 02:00:14.740] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[17Dec2024 02:00:14.775] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[17Dec2024 02:00:14.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[17Dec2024 02:00:18.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[17Dec2024 02:00:19.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6471ms or 129 ticks behind
+[17Dec2024 02:00:21.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[17Dec2024 02:00:21.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[17Dec2024 02:00:22.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[17Dec2024 02:00:24.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[17Dec2024 02:00:29.619] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:00:29.619] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:0,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:00:29.619] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:0,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:00:39.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[17Dec2024 02:00:40.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6617ms or 132 ticks behind
+[17Dec2024 02:00:45.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[17Dec2024 02:01:01.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5729ms or 114 ticks behind
+[17Dec2024 02:01:04.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[17Dec2024 02:01:21.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
+[17Dec2024 02:01:33.338] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:25,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:01:33.339] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:25,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:01:37.079] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:28,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:01:37.080] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:28,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:01:40.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4258ms or 85 ticks behind
+[17Dec2024 02:01:51.630] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_small
+[17Dec2024 02:01:51.631] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_split_7_a
+[17Dec2024 02:01:52.795] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:35,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:01:52.795] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:35,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:01:59.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4055ms or 81 ticks behind
+[17Dec2024 02:02:02.481] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[17Dec2024 02:02:02.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2
+[17Dec2024 02:02:02.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_5
+[17Dec2024 02:02:02.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_0
+[17Dec2024 02:02:02.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_7
+[17Dec2024 02:02:02.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_2
+[17Dec2024 02:02:02.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_8
+[17Dec2024 02:02:02.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special
+[17Dec2024 02:02:02.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_6
+[17Dec2024 02:02:02.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_1
+[17Dec2024 02:02:02.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_1
+[17Dec2024 02:02:02.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_2
+[17Dec2024 02:02:02.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_6
+[17Dec2024 02:02:02.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_4
+[17Dec2024 02:02:02.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_0
+[17Dec2024 02:02:02.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_6
+[17Dec2024 02:02:02.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_1
+[17Dec2024 02:02:02.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_12
+[17Dec2024 02:02:02.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_5
+[17Dec2024 02:02:02.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_19
+[17Dec2024 02:02:02.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_0
+[17Dec2024 02:02:02.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_17
+[17Dec2024 02:02:02.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_20
+[17Dec2024 02:02:02.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_7
+[17Dec2024 02:02:02.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_12
+[17Dec2024 02:02:02.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_15
+[17Dec2024 02:02:02.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_16
+[17Dec2024 02:02:02.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_3
+[17Dec2024 02:02:02.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_17
+[17Dec2024 02:02:02.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_7
+[17Dec2024 02:02:02.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_8
+[17Dec2024 02:02:02.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_11
+[17Dec2024 02:02:02.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_2
+[17Dec2024 02:02:02.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_1
+[17Dec2024 02:02:02.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_7
+[17Dec2024 02:02:02.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_19
+[17Dec2024 02:02:02.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_4
+[17Dec2024 02:02:02.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_8
+[17Dec2024 02:02:02.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_11
+[17Dec2024 02:02:02.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_2
+[17Dec2024 02:02:02.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special
+[17Dec2024 02:02:02.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_9
+[17Dec2024 02:02:02.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_20
+[17Dec2024 02:02:02.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_13
+[17Dec2024 02:02:02.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_13
+[17Dec2024 02:02:02.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_12
+[17Dec2024 02:02:02.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_1
+[17Dec2024 02:02:02.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_10
+[17Dec2024 02:02:02.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_9
+[17Dec2024 02:02:02.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_8
+[17Dec2024 02:02:02.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_5
+[17Dec2024 02:02:02.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_5
+[17Dec2024 02:02:02.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_20
+[17Dec2024 02:02:02.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_15
+[17Dec2024 02:02:02.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_5
+[17Dec2024 02:02:02.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_21
+[17Dec2024 02:02:02.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_3
+[17Dec2024 02:02:02.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_6
+[17Dec2024 02:02:02.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_11
+[17Dec2024 02:02:02.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_4
+[17Dec2024 02:02:02.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_18
+[17Dec2024 02:02:02.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_6
+[17Dec2024 02:02:02.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_20
+[17Dec2024 02:02:02.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_9
+[17Dec2024 02:02:02.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_13
+[17Dec2024 02:02:02.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_10
+[17Dec2024 02:02:02.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_5
+[17Dec2024 02:02:02.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_14
+[17Dec2024 02:02:02.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_3
+[17Dec2024 02:02:02.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_2
+[17Dec2024 02:02:02.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_5
+[17Dec2024 02:02:02.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_7
+[17Dec2024 02:02:02.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_21
+[17Dec2024 02:02:02.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_4
+[17Dec2024 02:02:02.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_17
+[17Dec2024 02:02:02.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_0
+[17Dec2024 02:02:02.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_0
+[17Dec2024 02:02:02.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_5
+[17Dec2024 02:02:02.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_3
+[17Dec2024 02:02:02.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_3
+[17Dec2024 02:02:02.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special
+[17Dec2024 02:02:02.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_15
+[17Dec2024 02:02:02.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_18
+[17Dec2024 02:02:02.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_10
+[17Dec2024 02:02:02.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_4
+[17Dec2024 02:02:02.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_7
+[17Dec2024 02:02:02.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_18
+[17Dec2024 02:02:02.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_7
+[17Dec2024 02:02:02.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_2
+[17Dec2024 02:02:02.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_6
+[17Dec2024 02:02:02.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_1
+[17Dec2024 02:02:02.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_1
+[17Dec2024 02:02:02.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_9
+[17Dec2024 02:02:02.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_6
+[17Dec2024 02:02:02.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_8
+[17Dec2024 02:02:02.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_1
+[17Dec2024 02:02:02.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_0
+[17Dec2024 02:02:02.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_0
+[17Dec2024 02:02:02.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_16
+[17Dec2024 02:02:02.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_16
+[17Dec2024 02:02:02.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_6
+[17Dec2024 02:02:02.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_3
+[17Dec2024 02:02:02.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_4
+[17Dec2024 02:02:02.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_1
+[17Dec2024 02:02:02.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_12
+[17Dec2024 02:02:02.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_14
+[17Dec2024 02:02:02.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_13
+[17Dec2024 02:02:02.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_16
+[17Dec2024 02:02:02.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_2
+[17Dec2024 02:02:02.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_2
+[17Dec2024 02:02:02.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_7
+[17Dec2024 02:02:02.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_8
+[17Dec2024 02:02:02.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_0
+[17Dec2024 02:02:02.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_0
+[17Dec2024 02:02:02.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_0_terminator
+[17Dec2024 02:02:02.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4
+[17Dec2024 02:02:02.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_3
+[17Dec2024 02:02:02.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_19
+[17Dec2024 02:02:02.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_2
+[17Dec2024 02:02:02.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_4
+[17Dec2024 02:02:02.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_0
+[17Dec2024 02:02:02.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_8
+[17Dec2024 02:02:02.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_3
+[17Dec2024 02:02:02.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_0_terminator
+[17Dec2024 02:02:02.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_14
+[17Dec2024 02:02:02.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_4
+[17Dec2024 02:02:02.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_3
+[17Dec2024 02:02:02.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_1
+[17Dec2024 02:02:02.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_0
+[17Dec2024 02:02:02.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_1
+[17Dec2024 02:02:02.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_9
+[17Dec2024 02:02:07.570] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:41,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:02:07.570] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:41,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:02:17.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[17Dec2024 02:02:19.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[17Dec2024 02:02:19.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[17Dec2024 02:02:19.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[17Dec2024 02:02:19.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[17Dec2024 02:02:19.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[17Dec2024 02:02:19.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[17Dec2024 02:02:19.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack
+[17Dec2024 02:02:19.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[17Dec2024 02:02:19.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[17Dec2024 02:02:19.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks
+[17Dec2024 02:02:19.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[17Dec2024 02:02:19.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall_thin
+[17Dec2024 02:02:19.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
+[17Dec2024 02:02:20.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[17Dec2024 02:02:22.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[17Dec2024 02:02:22.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_prismarine
+[17Dec2024 02:02:37.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Dec2024 02:02:48.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[17Dec2024 02:02:48.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[17Dec2024 02:02:50.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[17Dec2024 02:02:50.586] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/villagers/unemployed is being run through DFU (hash bbe3c901386cb4438aa2b53218679011b502bbfe0f5059ff5b37d7dd9380862f), this will cause launch time delays
+[17Dec2024 02:02:50.921] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/villagers/nitwit is being run through DFU (hash 7d7bc77e1571c5a1c623391c5a189f8f4f44158f7c89f66725a835746a36211d), this will cause launch time delays
+[17Dec2024 02:02:50.935] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/straight_02 is being run through DFU (hash 9a00862183df31d106e4b4ae29dbcc73807981ea7fb80501320cec87656c82cb), this will cause launch time delays
+[17Dec2024 02:02:50.942] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/corner_01 is being run through DFU (hash e34941a58415a944c550857eaa501defff43b7a35afe8165ea5c5b1630bc3151), this will cause launch time delays
+[17Dec2024 02:02:50.944] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/straight_01 is being run through DFU (hash ff4e52bdb4f65e94201ac18484999bde9502d09b6ab8e81743aff58b2b552dfe), this will cause launch time delays
+[17Dec2024 02:02:50.948] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_small_house_1 is being run through DFU (hash 1f8684a61b608819fda9aabb9366df6d65e0bb680ef5a9787ea3c4c51956e468), this will cause launch time delays
+[17Dec2024 02:02:50.952] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_small_house_3 is being run through DFU (hash 2dbb4bd0eadd523c564c3e67f1fe8c20d635fdbd5da8c83faa2476600e4c20ab), this will cause launch time delays
+[17Dec2024 02:02:50.971] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/crossroad_01 is being run through DFU (hash fc3a336198ab7e798d4eb2669a8ede4c9da10021f64c0993d84f3c2ced7e9122), this will cause launch time delays
+[17Dec2024 02:02:50.975] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_medium_house_2 is being run through DFU (hash 496b64a264db53d0ffdd5eebfbd44ef10f335bcff630fff80d1da01ca5d82991), this will cause launch time delays
+[17Dec2024 02:02:50.994] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_large_house_1 is being run through DFU (hash bf7a7ec697477c63a53b6618252d9df1408b85554d5e8ff7a1e4510ebdc91a39), this will cause launch time delays
+[17Dec2024 02:02:51.005] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/turn_01 is being run through DFU (hash 6357906371ecdc0ae3e8eb06b0a8ea7b99cb10317ce67090a575a110b102d1ad), this will cause launch time delays
+[17Dec2024 02:02:51.010] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_medium_house_4 is being run through DFU (hash ece16675e5625400285ba062fba0186d411e1ad50a6eb34673f44e58d6d6f399), this will cause launch time delays
+[17Dec2024 02:02:51.018] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/villagers/baby is being run through DFU (hash 7ffda84752a2b2ea8b900b8db8fee290f72c375351ecb9776fb80b2e67f12ef9), this will cause launch time delays
+[17Dec2024 02:02:51.030] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_medium_house_3 is being run through DFU (hash 55fcb78892e9acb604107ce321898f2fc391be1b63150c97b98182c83b1dbc35), this will cause launch time delays
+[17Dec2024 02:02:51.041] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/streets/crossroad_02 is being run through DFU (hash 18bbd48f40996b8d5932b430b2dee5a16b4006017a556da98b8164d49c9bfffb), this will cause launch time delays
+[17Dec2024 02:02:51.044] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_small_house_2 is being run through DFU (hash 9469ac425c6a7e2d148f8c69868eabca94e37ebfc6d8e55b5e0126148eb943f2), this will cause launch time delays
+[17Dec2024 02:02:51.049] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/terminators/terminator_03 is being run through DFU (hash 04f60408fb5f95b71544f716661a934c65ec9afd42795ab687fdb5e58fe943e4), this will cause launch time delays
+[17Dec2024 02:02:51.050] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_fletcher_and_library_1 is being run through DFU (hash 8ed37da6d78cc6fecf658969c42073b141fba0dd75ea80dd7690d3b3e32f9957), this will cause launch time delays
+[17Dec2024 02:02:51.054] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_weaponsmith_1 is being run through DFU (hash fad07b94dacad4d25bfcca74ad3d003565b13fa116366a302d87450bccd33efc), this will cause launch time delays
+[17Dec2024 02:02:51.061] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/houses/swamp_b_farm_and_temple_1 is being run through DFU (hash ad68c9b863b419ef7fb69996e4d447bbd11b0df7244a580dba7942ae28d1d8b7), this will cause launch time delays
+[17Dec2024 02:02:51.072] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/terminators/terminator_02 is being run through DFU (hash 5c6ef72011ea73590f6e679b39bdfc7281722a763cd866793411934e8c093b98), this will cause launch time delays
+[17Dec2024 02:02:51.073] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/swamp_boat/terminators/terminator_01 is being run through DFU (hash d9ab7c832de3fce496167d1e7bb24fe024f55594195751aa33f44f0107a284d3), this will cause launch time delays
+[17Dec2024 02:02:57.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4564ms or 91 ticks behind
+[17Dec2024 02:03:02.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[17Dec2024 02:03:04.052] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 02:03:08.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[17Dec2024 02:03:15.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[17Dec2024 02:03:26.135] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest]] from pos BlockPos{x=-1717, y=72, z=59}
+[17Dec2024 02:03:26.170] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[17Dec2024 02:03:26.213] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[17Dec2024 02:03:26.269] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[17Dec2024 02:03:26.302] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[17Dec2024 02:03:27.026] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[17Dec2024 02:03:27.352] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[17Dec2024 02:03:27.373] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[17Dec2024 02:03:27.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_1
+[17Dec2024 02:03:27.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_2
+[17Dec2024 02:03:27.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[17Dec2024 02:03:27.375] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[17Dec2024 02:03:27.375] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_5
+[17Dec2024 02:03:27.376] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_6
+[17Dec2024 02:03:27.376] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[17Dec2024 02:03:27.377] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_8
+[17Dec2024 02:03:27.377] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_1
+[17Dec2024 02:03:27.378] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_2
+[17Dec2024 02:03:27.378] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_house_1
+[17Dec2024 02:03:27.379] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_1
+[17Dec2024 02:03:27.380] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_2
+[17Dec2024 02:03:27.381] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_toolsmith_1
+[17Dec2024 02:03:27.381] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_fletcher_1
+[17Dec2024 02:03:27.382] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_shepherd_1
+[17Dec2024 02:03:27.382] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_armorer_1
+[17Dec2024 02:03:27.383] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_fisher_1
+[17Dec2024 02:03:27.384] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_leatherworker_1
+[17Dec2024 02:03:27.384] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_cartographer_1
+[17Dec2024 02:03:27.385] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_library_1
+[17Dec2024 02:03:27.385] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_mason_1
+[17Dec2024 02:03:27.386] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_weaponsmith_1
+[17Dec2024 02:03:27.386] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_temple_1
+[17Dec2024 02:03:27.388] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_stable_1
+[17Dec2024 02:03:27.389] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_farm_1
+[17Dec2024 02:03:27.390] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[17Dec2024 02:03:27.390] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_1
+[17Dec2024 02:03:27.391] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_2
+[17Dec2024 02:03:27.391] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[17Dec2024 02:03:27.392] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[17Dec2024 02:03:27.392] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[17Dec2024 02:03:27.392] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[17Dec2024 02:03:27.392] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[17Dec2024 02:03:27.402] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[17Dec2024 02:03:27.421] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[17Dec2024 02:03:27.431] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[17Dec2024 02:03:27.432] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[17Dec2024 02:03:27.433] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[17Dec2024 02:03:27.434] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[17Dec2024 02:03:27.435] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[17Dec2024 02:03:27.445] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[17Dec2024 02:03:27.446] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[17Dec2024 02:03:27.447] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[17Dec2024 02:03:27.449] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[17Dec2024 02:03:27.450] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[17Dec2024 02:03:27.452] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_01
+[17Dec2024 02:03:27.453] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[17Dec2024 02:03:27.453] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[17Dec2024 02:03:30.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matmaster42 moved too quickly! -9.726162388082685,-1.0,2.4268019712002626
+[17Dec2024 02:03:30.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 9.974257291780305,0.9999999999999991,1.015755145037474
+[17Dec2024 02:03:30.385] [pool-8-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[17Dec2024 02:03:34.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4211ms or 84 ticks behind
+[17Dec2024 02:03:40.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[17Dec2024 02:03:40.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[17Dec2024 02:03:40.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_1
+[17Dec2024 02:03:40.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_straight_0
+[17Dec2024 02:03:40.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[17Dec2024 02:03:40.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_2
+[17Dec2024 02:03:40.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_brown_house_1
+[17Dec2024 02:03:40.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[17Dec2024 02:03:40.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_1
+[17Dec2024 02:03:40.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/red_sorcerer_house
+[17Dec2024 02:03:40.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[17Dec2024 02:03:40.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[17Dec2024 02:03:40.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[17Dec2024 02:03:40.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[17Dec2024 02:03:40.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_sorcerer
+[17Dec2024 02:03:40.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/red_fishing_house
+[17Dec2024 02:03:40.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_0
+[17Dec2024 02:03:40.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_3
+[17Dec2024 02:03:40.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_3
+[17Dec2024 02:03:40.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[17Dec2024 02:03:40.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_red_house_1
+[17Dec2024 02:03:40.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_gardener
+[17Dec2024 02:03:45.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[17Dec2024 02:03:51.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[17Dec2024 02:04:03.275] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[17Dec2024 02:04:03.340] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[17Dec2024 02:04:03.359] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[17Dec2024 02:04:03.372] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[17Dec2024 02:04:03.388] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[17Dec2024 02:04:03.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[17Dec2024 02:04:03.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[17Dec2024 02:04:03.404] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[17Dec2024 02:04:03.420] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[17Dec2024 02:04:03.435] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[17Dec2024 02:04:03.453] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[17Dec2024 02:04:03.460] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[17Dec2024 02:04:03.473] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[17Dec2024 02:04:03.488] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[17Dec2024 02:04:03.513] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[17Dec2024 02:04:03.545] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[17Dec2024 02:04:10.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
+[17Dec2024 02:04:27.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[17Dec2024 02:04:44.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[17Dec2024 02:04:44.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[17Dec2024 02:04:52.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[17Dec2024 02:04:59.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[17Dec2024 02:05:00.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[17Dec2024 02:05:05.793] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[17Dec2024 02:05:05.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Dec2024 02:05:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Hollow Solids]
+[17Dec2024 02:05:24.288] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[17Dec2024 02:05:24.288] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[17Dec2024 02:05:25.977] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[17Dec2024 02:05:27.601] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[17Dec2024 02:05:27.604] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[17Dec2024 02:05:27.739] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[17Dec2024 02:05:29.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17Dec2024 02:05:35.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[17Dec2024 02:05:44.252] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[17Dec2024 02:05:44.258] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[17Dec2024 02:05:48.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Dec2024 02:05:57.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 02:05:57.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 02:06:08.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4816ms or 96 ticks behind
+[17Dec2024 02:06:21.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[17Dec2024 02:06:21.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_2
+[17Dec2024 02:06:21.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_5
+[17Dec2024 02:06:21.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_0
+[17Dec2024 02:06:21.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_7
+[17Dec2024 02:06:21.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_2
+[17Dec2024 02:06:21.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_8
+[17Dec2024 02:06:21.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_7_special
+[17Dec2024 02:06:21.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_6
+[17Dec2024 02:06:21.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_1
+[17Dec2024 02:06:21.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_1
+[17Dec2024 02:06:21.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_2
+[17Dec2024 02:06:21.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_6
+[17Dec2024 02:06:21.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_4
+[17Dec2024 02:06:21.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_0
+[17Dec2024 02:06:21.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_crossing_6
+[17Dec2024 02:06:21.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_1
+[17Dec2024 02:06:21.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_12
+[17Dec2024 02:06:21.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_5
+[17Dec2024 02:06:21.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_19
+[17Dec2024 02:06:21.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_0
+[17Dec2024 02:06:21.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_17
+[17Dec2024 02:06:21.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_20
+[17Dec2024 02:06:21.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_7
+[17Dec2024 02:06:21.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_12
+[17Dec2024 02:06:21.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_15
+[17Dec2024 02:06:21.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_16
+[17Dec2024 02:06:21.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_3
+[17Dec2024 02:06:21.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_17
+[17Dec2024 02:06:21.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_7
+[17Dec2024 02:06:21.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_8
+[17Dec2024 02:06:21.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_11
+[17Dec2024 02:06:21.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_2
+[17Dec2024 02:06:21.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_1
+[17Dec2024 02:06:21.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_7
+[17Dec2024 02:06:21.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_19
+[17Dec2024 02:06:21.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_4
+[17Dec2024 02:06:21.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_8
+[17Dec2024 02:06:21.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_11
+[17Dec2024 02:06:21.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_2
+[17Dec2024 02:06:21.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_6_special
+[17Dec2024 02:06:21.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_9
+[17Dec2024 02:06:21.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_20
+[17Dec2024 02:06:21.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_13
+[17Dec2024 02:06:21.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_13
+[17Dec2024 02:06:21.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_12
+[17Dec2024 02:06:21.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_1
+[17Dec2024 02:06:21.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_10
+[17Dec2024 02:06:21.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_9
+[17Dec2024 02:06:21.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_8
+[17Dec2024 02:06:21.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_5
+[17Dec2024 02:06:21.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_5
+[17Dec2024 02:06:21.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_20
+[17Dec2024 02:06:21.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_15
+[17Dec2024 02:06:21.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_5
+[17Dec2024 02:06:21.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_21
+[17Dec2024 02:06:21.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_3
+[17Dec2024 02:06:21.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_6
+[17Dec2024 02:06:21.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_11
+[17Dec2024 02:06:21.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_4
+[17Dec2024 02:06:21.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_18
+[17Dec2024 02:06:21.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_6
+[17Dec2024 02:06:21.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_20
+[17Dec2024 02:06:21.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_9
+[17Dec2024 02:06:21.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_13
+[17Dec2024 02:06:21.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_10
+[17Dec2024 02:06:21.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_5
+[17Dec2024 02:06:21.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_14
+[17Dec2024 02:06:21.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_3
+[17Dec2024 02:06:21.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_2
+[17Dec2024 02:06:21.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_5
+[17Dec2024 02:06:21.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_7
+[17Dec2024 02:06:21.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_21
+[17Dec2024 02:06:21.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_4
+[17Dec2024 02:06:21.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_17
+[17Dec2024 02:06:21.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_0
+[17Dec2024 02:06:21.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_0
+[17Dec2024 02:06:21.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_5
+[17Dec2024 02:06:21.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_3
+[17Dec2024 02:06:21.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_3
+[17Dec2024 02:06:21.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_towers_8_special
+[17Dec2024 02:06:21.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_15
+[17Dec2024 02:06:21.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_18
+[17Dec2024 02:06:21.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_10
+[17Dec2024 02:06:21.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_4
+[17Dec2024 02:06:21.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_7
+[17Dec2024 02:06:21.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_18
+[17Dec2024 02:06:21.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_7
+[17Dec2024 02:06:21.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_2
+[17Dec2024 02:06:21.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_6
+[17Dec2024 02:06:21.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_1
+[17Dec2024 02:06:21.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_1
+[17Dec2024 02:06:21.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_9
+[17Dec2024 02:06:21.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_6
+[17Dec2024 02:06:21.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_8
+[17Dec2024 02:06:21.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_1
+[17Dec2024 02:06:21.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_0
+[17Dec2024 02:06:21.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_0
+[17Dec2024 02:06:21.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_16
+[17Dec2024 02:06:21.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_16
+[17Dec2024 02:06:21.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_garden_6
+[17Dec2024 02:06:21.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_3
+[17Dec2024 02:06:21.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_rooms_4
+[17Dec2024 02:06:21.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_1
+[17Dec2024 02:06:21.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_12
+[17Dec2024 02:06:21.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_14
+[17Dec2024 02:06:21.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_13
+[17Dec2024 02:06:21.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_16
+[17Dec2024 02:06:21.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_2
+[17Dec2024 02:06:21.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_2
+[17Dec2024 02:06:21.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_7
+[17Dec2024 02:06:21.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_8
+[17Dec2024 02:06:21.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_0
+[17Dec2024 02:06:21.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_spawner_0
+[17Dec2024 02:06:21.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_0_terminator
+[17Dec2024 02:06:21.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_4
+[17Dec2024 02:06:21.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_library_3
+[17Dec2024 02:06:21.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_19
+[17Dec2024 02:06:21.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_2
+[17Dec2024 02:06:21.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_4
+[17Dec2024 02:06:21.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_0
+[17Dec2024 02:06:21.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_small_room_8
+[17Dec2024 02:06:21.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bridge_terminator_3
+[17Dec2024 02:06:21.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_0_terminator
+[17Dec2024 02:06:21.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_14
+[17Dec2024 02:06:21.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_4
+[17Dec2024 02:06:21.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_deco_machines_3
+[17Dec2024 02:06:21.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_bottom_1
+[17Dec2024 02:06:21.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_0
+[17Dec2024 02:06:21.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_roof_1
+[17Dec2024 02:06:21.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_mecha_9
+[17Dec2024 02:06:22.765] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:washing_camp/washing_camp
+[17Dec2024 02:06:24.825] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[17Dec2024 02:06:27.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
+[17Dec2024 02:06:38.018] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_prismarine
+[17Dec2024 02:06:44.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
+[17Dec2024 02:06:45.309] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[17Dec2024 02:06:49.377] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_split_7_a
+[17Dec2024 02:06:49.378] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_small
+[17Dec2024 02:06:52.796] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[17Dec2024 02:06:52.818] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[17Dec2024 02:06:52.855] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[17Dec2024 02:06:52.877] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[17Dec2024 02:06:52.891] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[17Dec2024 02:06:52.910] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[17Dec2024 02:06:55.648] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[17Dec2024 02:06:55.649] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 02:06:55.649] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:227,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 02:06:55.649] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:227,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 02:06:55.650] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[17Dec2024 02:06:55.650] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 02:06:55.650] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:40,EnchantmentMapping:{},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:mending",lvl:1s}],"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 02:06:55.650] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:40,EnchantmentMapping:{},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:mending",lvl:1s}],"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 02:06:55.651] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:40,EnchantmentMapping:{"minecraft:knockback":"sword/hilt","minecraft:mending":"sword/blade"},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:mending",lvl:1s}],"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 02:06:55.651] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:40,EnchantmentMapping:{"minecraft:knockback":"sword/hilt","minecraft:mending":"sword/blade"},Enchantments:[{id:"minecraft:vanishing_curse",lvl:1s},{id:"minecraft:knockback",lvl:2s},{id:"minecraft:mending",lvl:1s}],"sword/basic_blade_material":"basic_blade/iron","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/iron","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/iron","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 02:06:55.651] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:06:55.651] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:89,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:06:55.652] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:89,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:06:55.652] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/stone","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stone","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stone","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 02:06:55.652] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:106,"sword/basic_blade_material":"basic_blade/stone","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stone","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stone","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 02:06:55.652] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:106,"sword/basic_blade_material":"basic_blade/stone","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/stone","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/stone","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 02:06:59.011] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[17Dec2024 02:07:01.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[17Dec2024 02:07:05.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[17Dec2024 02:07:14.593] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[17Dec2024 02:07:17.257] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[17Dec2024 02:07:17.273] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[17Dec2024 02:07:17.285] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[17Dec2024 02:07:17.297] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/rustic/town_centers/rustic_meeting_point_1
+[17Dec2024 02:07:17.309] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[17Dec2024 02:07:17.319] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[17Dec2024 02:07:17.329] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[17Dec2024 02:07:17.340] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[17Dec2024 02:07:17.352] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[17Dec2024 02:07:17.364] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[17Dec2024 02:07:17.379] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[17Dec2024 02:07:17.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[17Dec2024 02:07:17.407] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[17Dec2024 02:07:17.420] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[17Dec2024 02:07:17.443] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[17Dec2024 02:07:17.480] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[17Dec2024 02:07:17.495] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[17Dec2024 02:07:17.510] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[17Dec2024 02:07:17.526] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[17Dec2024 02:07:17.537] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/classic/town_centers/classic_meeting_point_1/well_top
+[17Dec2024 02:07:17.549] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[17Dec2024 02:07:17.565] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[17Dec2024 02:07:17.590] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[17Dec2024 02:07:17.611] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/mediterranean/town_centers/med_meeting_point_1
+[17Dec2024 02:07:22.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[17Dec2024 02:07:40.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has made the advancement [Tools of the Trade]
+[17Dec2024 02:07:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has completed the challenge [Premium!]
+[17Dec2024 02:08:25.594] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:123,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:08:25.595] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:123,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/diamond","double/basic_pickaxe_right_material":"basic_pickaxe/diamond","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_left:arrested":0,"double/head_right":"double/basic_pickaxe_right","double/head_right:arrested":0})
+[17Dec2024 02:08:35.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has reached the goal [Quaint Scribe]
+[17Dec2024 02:08:58.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[17Dec2024 02:08:58.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[17Dec2024 02:08:58.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[17Dec2024 02:08:58.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[17Dec2024 02:08:58.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[17Dec2024 02:08:58.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[17Dec2024 02:09:07.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[17Dec2024 02:09:07.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[17Dec2024 02:09:07.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[17Dec2024 02:09:07.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[17Dec2024 02:09:07.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_farm_1
+[17Dec2024 02:09:07.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_1
+[17Dec2024 02:09:07.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[17Dec2024 02:09:07.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[17Dec2024 02:09:07.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[17Dec2024 02:09:07.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[17Dec2024 02:09:07.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_01
+[17Dec2024 02:09:08.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_leatherworker_1
+[17Dec2024 02:09:08.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_cartographer_1
+[17Dec2024 02:09:08.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[17Dec2024 02:09:08.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[17Dec2024 02:09:08.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[17Dec2024 02:09:08.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[17Dec2024 02:09:08.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_1
+[17Dec2024 02:09:08.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_2
+[17Dec2024 02:09:08.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[17Dec2024 02:09:08.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[17Dec2024 02:09:08.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[17Dec2024 02:09:08.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[17Dec2024 02:09:08.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[17Dec2024 02:09:08.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_6
+[17Dec2024 02:09:08.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_1
+[17Dec2024 02:09:08.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_armorer_1
+[17Dec2024 02:09:08.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[17Dec2024 02:09:08.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[17Dec2024 02:09:08.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[17Dec2024 02:09:08.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[17Dec2024 02:09:08.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_temple_1
+[17Dec2024 02:09:08.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[17Dec2024 02:09:08.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[17Dec2024 02:09:08.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[17Dec2024 02:09:10.321] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
