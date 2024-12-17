@@ -12583,3 +12583,51 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [17Dec2024 01:26:58.478] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/sword_hone)
 [17Dec2024 01:26:58.479] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (upgrades/double_headed)
 [17Dec2024 01:26:58.480] [Netty Epoll Server IO #4/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (story/more_upgrades)
+[17Dec2024 01:28:15.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 01:28:15.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 01:29:06.294] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[17Dec2024 01:29:06.305] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/intersection_6
+[17Dec2024 01:29:06.308] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of tetra:forged_ruins/extractor_platform_large
+[17Dec2024 01:29:24.091] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Dec2024 01:29:40.685] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[17Dec2024 01:30:22.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 1.9831924540728778,10.02676765059195,5.303017629792521
+[17Dec2024 01:30:24.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[17Dec2024 01:30:27.276] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1983, y=81, z=-2654}
+[17Dec2024 01:30:41.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[17Dec2024 01:30:48.289] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[17Dec2024 01:31:09.998] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Dec2024 01:31:09.999] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Dec2024 01:31:10.000] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md03d231$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[17Dec2024 01:32:01.485] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[17Dec2024 01:32:01.486] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:32:01.486] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:79,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:32:01.486] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:79,"double/basic_handle_material":"basic_handle/stick","double/basic_pickaxe_left_material":"basic_pickaxe/iron","double/basic_pickaxe_right_material":"basic_pickaxe/iron","double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right"})
+[17Dec2024 01:32:01.486] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[17Dec2024 01:32:01.487] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"sword/basic_blade_material":"basic_blade/oak","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/oak","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/oak","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 01:32:01.487] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({Damage:36,"sword/basic_blade_material":"basic_blade/oak","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/oak","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/oak","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 01:32:01.487] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({Damage:36,"sword/basic_blade_material":"basic_blade/oak","sword/basic_hilt_material":"basic_hilt/stick","sword/blade":"sword/basic_blade","sword/decorative_pommel_material":"decorative_pommel/oak","sword/guard":"sword/makeshift_guard","sword/hilt":"sword/basic_hilt","sword/makeshift_guard_material":"makeshift_guard/oak","sword/pommel":"sword/decorative_pommel"})
+[17Dec2024 01:32:01.605] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:32:06.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:32:08.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:32:14.336] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:32:16.183] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:32:58.138] [Netty Epoll Server IO #3/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (59b933eb-4b26-4680-bf9f-82360233c5cc)
+[17Dec2024 01:33:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre is bleeding. [MIEMBRO] Alanbre was slain by Corpse Fly
+[17Dec2024 01:33:19.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 01:33:19.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 01:34:15.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre was slain by Corpse Fly
+[17Dec2024 01:34:15.544] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Alanbre at X: -56.30000001192093, Y: 67.0, Z: -75.30000001192093
+[17Dec2024 01:34:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has completed the challenge [Serious Dedication]
+[17Dec2024 01:34:53.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Alanbre picking up: PermanentItemEntity['Extradimensional Vessel'/16459, l='ServerLevel[world]', x=-56.30, y=68.50, z=-75.30]
+[17Dec2024 01:34:53.446] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/16459, l='ServerLevel[world]', x=-56.30, y=68.50, z=-75.30]
+[17Dec2024 01:36:04.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:36:05.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:36:56.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:36:57.095] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:36:57.137] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:36:58.282] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:36:58.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:36:59.186] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:37:02.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:37:26.296] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[17Dec2024 01:37:48.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot

@@ -855,3 +855,17 @@
 [17Dec2024 01:26:57.800] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
 [17Dec2024 01:26:57.806] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [17Dec2024 01:26:57.807] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[17Dec2024 01:29:24.091] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[17Dec2024 01:30:22.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 1.9831924540728778,10.02676765059195,5.303017629792521
+[17Dec2024 01:30:24.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[17Dec2024 01:30:27.276] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-1983, y=81, z=-2654}
+[17Dec2024 01:30:41.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[17Dec2024 01:30:48.289] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[17Dec2024 01:31:09.999] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Dec2024 01:31:10.000] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md03d231$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[17Dec2024 01:33:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre is bleeding. [MIEMBRO] Alanbre was slain by Corpse Fly
+[17Dec2024 01:34:15.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre was slain by Corpse Fly
+[17Dec2024 01:34:15.544] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Alanbre at X: -56.30000001192093, Y: 67.0, Z: -75.30000001192093
+[17Dec2024 01:34:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has completed the challenge [Serious Dedication]
+[17Dec2024 01:34:53.446] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Alanbre picking up: PermanentItemEntity['Extradimensional Vessel'/16459, l='ServerLevel[world]', x=-56.30, y=68.50, z=-75.30]
+[17Dec2024 01:34:53.446] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/16459, l='ServerLevel[world]', x=-56.30, y=68.50, z=-75.30]
