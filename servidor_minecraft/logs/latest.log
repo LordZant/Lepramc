@@ -2504,3 +2504,62 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Dec2024 03:01:31.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3531, y=74, z=-2027} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [17Dec2024 03:01:31.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3531, y=74, z=-2027}
 [17Dec2024 03:01:34.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
+[17Dec2024 03:01:58.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[17Dec2024 03:02:27.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[17Dec2024 03:02:45.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[17Dec2024 03:03:03.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[17Dec2024 03:04:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Enchanting Tower]
+[17Dec2024 03:04:40.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Alanbre has made the advancement [The Cutest Predator]
+[17Dec2024 03:05:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has made the advancement [Life turned out to be a comedy]
+[17Dec2024 03:05:40.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Potion Storage]
+[17Dec2024 03:07:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 has reached the goal [Horror Under the Mantle]
+[17Dec2024 03:08:29.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matmaster42 lost connection: Disconnected
+[17Dec2024 03:08:29.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO] Matmaster42 left the game
+[17Dec2024 03:10:23.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.45330180532187114
+[17Dec2024 03:10:23.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.9163276383578705
+[17Dec2024 03:10:23.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.3792351086383405
+[17Dec2024 03:10:23.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.8416258573656705
+[17Dec2024 03:10:23.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 2.302314017137178
+[17Dec2024 03:10:25.549] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;232,-55,15],type:"minecraft:block"}}]
+[17Dec2024 03:10:25.557] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;235,-52,12],type:"minecraft:block"}}]
+[17Dec2024 03:10:25.727] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;250,-55,13],type:"minecraft:block"}}]
+[17Dec2024 03:10:25.728] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;244,-52,13],type:"minecraft:block"}}]
+[17Dec2024 03:10:25.728] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;248,-52,10],type:"minecraft:block"}}]
+[17Dec2024 03:10:25.728] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;255,-52,6],type:"minecraft:block"}}]
+[17Dec2024 03:10:31.060] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;250,-52,-10],type:"minecraft:block"}}]
+[17Dec2024 03:10:31.060] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;253,-52,-2],type:"minecraft:block"}}]
+[17Dec2024 03:11:47.458] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;672061792,-366263352,-1752079043,-405291646],type:"minecraft:entity",y_offset:0.36f}}]
+[17Dec2024 03:11:47.488] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;176865803,-972338229,-2060744252,-623071664],type:"minecraft:entity",y_offset:0.36f}}]
+[17Dec2024 03:17:48.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.36245440030552345
+[17Dec2024 03:17:49.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.792869730781149
+[17Dec2024 03:18:35.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.3274472206039718
+[17Dec2024 03:18:35.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.646795635277158
+[17Dec2024 03:18:35.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.9483100813581586
+[17Dec2024 03:18:35.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of LordZand) moved wrongly! 0.28497927829903347
+[17Dec2024 03:19:20.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Lore Writer]
+[17Dec2024 03:25:30.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [Magnificence]
+[17Dec2024 03:30:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [Sea? Not a Problem]
+[17Dec2024 03:32:12.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MIEMBRO+]☠ Rodjes7 has made the advancement [A Sunken Ship]
+[17Dec2024 03:32:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN]☠ LordZand has made the advancement [A Sunken Ship]
+[17Dec2024 03:34:49.283] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/129905, l='ServerLevel[world]', x=-4067.98, y=50.03, z=-1008.00]
+[17Dec2024 03:34:49.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/129906, l='ServerLevel[world]', x=-4067.98, y=50.03, z=-1008.00]
+[17Dec2024 03:34:49.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/129907, l='ServerLevel[world]', x=-4067.98, y=50.03, z=-1008.00]
+[17Dec2024 03:34:49.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/129908, l='ServerLevel[world]', x=-4067.98, y=50.03, z=-1008.00]
+[17Dec2024 03:34:49.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/129909, l='ServerLevel[world]', x=-4067.98, y=50.03, z=-1008.00]
+[17Dec2024 03:35:29.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[17Dec2024 03:36:26.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.2873485221307419
+[17Dec2024 03:36:26.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 0.7243469011755224
+[17Dec2024 03:36:26.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.161351527001898
+[17Dec2024 03:36:26.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of Rodjes7) moved wrongly! 1.5983594953559077
+[17Dec2024 03:36:36.209] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 03:36:39.608] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 03:36:39.609] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 03:37:13.501] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 03:37:13.509] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 03:39:11.458] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[17Dec2024 03:40:06.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 03:40:06.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 03:40:06.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 03:40:06.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[17Dec2024 03:40:28.459] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 03:40:28.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already

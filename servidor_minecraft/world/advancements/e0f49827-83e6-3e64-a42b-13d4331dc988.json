@@ -1349,9 +1349,39 @@
     },
     "done": true
   },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2024-12-17 03:32:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2024-12-17 03:19:20 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-12-17 03:04:40 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2024-12-17 03:25:30 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2024-12-17 02:55:29 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2024-12-17 03:05:40 +0000"
     },
     "done": true
   },
