@@ -12365,3 +12365,21 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [25Jul2025 22:02:18.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jul2025 22:02:18.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jul2025 22:03:06.048] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (78b65800-57c8-4809-b9b3-7910b89420b7)
+[25Jul2025 22:03:17.278] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (9503de92-046c-4d61-8afe-8c0d71c6afae)
+[25Jul2025 22:06:08.202] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[25Jul2025 22:06:26.846] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[25Jul2025 22:06:26.849] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (7b11bf71-987c-4ee1-9289-581f53aa570b)
+[25Jul2025 22:06:26.849] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1c5c092e-3136-4bb1-b51e-46942c13dd0c)
+[25Jul2025 22:06:26.849] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fbb3b3f9-e6c0-45f0-97ff-fea55dd27e76)
+[25Jul2025 22:07:18.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 22:07:18.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 22:08:20.914] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (78b65800-57c8-4809-b9b3-7910b89420b7)
+[25Jul2025 22:11:41.793] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[25Jul2025 22:11:41.794] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[25Jul2025 22:11:41.795] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (7b11bf71-987c-4ee1-9289-581f53aa570b)
+[25Jul2025 22:11:41.795] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (1c5c092e-3136-4bb1-b51e-46942c13dd0c)
+[25Jul2025 22:11:41.795] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fbb3b3f9-e6c0-45f0-97ff-fea55dd27e76)
+[25Jul2025 22:12:09.324] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (78b65800-57c8-4809-b9b3-7910b89420b7)
+[25Jul2025 22:12:09.325] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (78b65800-57c8-4809-b9b3-7910b89420b7)
+[25Jul2025 22:12:18.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 22:12:18.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
