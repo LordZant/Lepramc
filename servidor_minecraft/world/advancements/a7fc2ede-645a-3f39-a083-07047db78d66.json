@@ -515,6 +515,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-23 01:32:52 +0000",
       "minecraft:spider": "2025-07-24 21:27:14 +0000",
+      "minecraft:creeper": "2025-07-25 21:14:45 +0000",
       "minecraft:witch": "2025-07-23 02:42:59 +0000",
       "minecraft:cave_spider": "2025-07-24 00:16:43 +0000",
       "minecraft:stray": "2025-07-24 21:35:06 +0000",
@@ -717,6 +718,30 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-25 20:50:00 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-25 21:19:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-25 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-25 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-07-25 21:16:05 +0000"
     },
     "done": true
   },
