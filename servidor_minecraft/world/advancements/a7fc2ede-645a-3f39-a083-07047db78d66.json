@@ -445,9 +445,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-25 21:52:18 +0000",
       "log_spam_fixer": "2025-07-23 01:11:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "rpgsmw:mage_class": {
     "criteria": {
@@ -728,9 +729,21 @@
     },
     "done": true
   },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2025-07-25 21:45:38 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-07-25 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-07-25 21:42:25 +0000"
     },
     "done": true
   },
