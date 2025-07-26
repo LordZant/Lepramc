@@ -972,3 +972,24 @@
 [26Jul2025 01:35:57.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [26Jul2025 01:36:42.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE moved wrongly!
 [26Jul2025 01:37:03.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[26Jul2025 01:37:40.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[26Jul2025 01:37:57.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[26Jul2025 01:38:15.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Mine Turtle!]
+[26Jul2025 01:38:15.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was struck with lightning by Lightning Dragon
+[26Jul2025 01:38:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Dragonslayer]
+[26Jul2025 01:38:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was slain by ALANBRE
+[26Jul2025 01:43:37.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[26Jul2025 01:43:37.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[26Jul2025 01:43:37.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[26Jul2025 01:44:12.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@481b92cd[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:51361) lost connection: Timed out
+[26Jul2025 01:44:45.692] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fc96987[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:51366) lost connection: Disconnected
+[26Jul2025 01:45:48.643] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c469adc[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:51380) lost connection: Disconnected
+[26Jul2025 01:46:04.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:51385] logged in with entity id 36791 at (-2151.4166710686186, 125.16710161562112, 3234.8036975411255)
+[26Jul2025 01:46:04.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[26Jul2025 01:46:04.715] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[26Jul2025 01:46:04.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[26Jul2025 01:46:04.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Jul2025 01:46:04.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[26Jul2025 01:47:33.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
+[26Jul2025 01:47:38.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[26Jul2025 01:47:56.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3087ms or 61 ticks behind
