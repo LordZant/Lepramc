@@ -839,3 +839,40 @@
 [26Jul2025 00:45:17.114] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
 [26Jul2025 00:45:17.114] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [26Jul2025 00:45:17.115] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[26Jul2025 00:46:06.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [New Age Librarian]
+[26Jul2025 00:46:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Tools of the Trade]
+[26Jul2025 00:47:29.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:64572] logged in with entity id 4828 at (423.80059350668023, 71.0, -412.7769332863768)
+[26Jul2025 00:47:29.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[26Jul2025 00:47:29.922] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[26Jul2025 00:47:29.947] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[26Jul2025 00:47:29.947] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Jul2025 00:47:29.948] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[26Jul2025 00:47:54.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[26Jul2025 00:47:54.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[26Jul2025 00:48:14.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:64633] logged in with entity id 5220 at (423.80059350668023, 71.0, -412.7769332863768)
+[26Jul2025 00:48:14.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[26Jul2025 00:48:14.366] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[26Jul2025 00:48:14.388] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[26Jul2025 00:48:14.389] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Jul2025 00:48:14.389] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[26Jul2025 00:48:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Mage's Spell Book]
+[26Jul2025 00:49:09.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> 191 53
+[26Jul2025 00:50:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Nightmare Stalker
+[26Jul2025 00:50:40.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Fighting Nightmares]
+[26Jul2025 00:51:43.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [A Seedy Place]
+[26Jul2025 00:53:05.306] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[26Jul2025 00:53:05.306] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[26Jul2025 00:53:05.307] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[26Jul2025 00:55:33.004] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[26Jul2025 00:55:37.955] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[26Jul2025 00:56:26.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[26Jul2025 00:56:26.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[26Jul2025 00:56:44.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Nightmare Stalker
+[26Jul2025 00:57:02.107] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[26Jul2025 00:57:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Enchanter]
+[26Jul2025 00:57:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was shot by Rodjes7
+[26Jul2025 00:58:06.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[26Jul2025 00:58:06.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[26Jul2025 00:59:58.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[26Jul2025 00:59:58.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[26Jul2025 01:05:08.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Local Brewery]

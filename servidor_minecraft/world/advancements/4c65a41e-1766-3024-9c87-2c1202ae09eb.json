@@ -907,7 +907,8 @@
       "brown_mushroom": "2025-07-23 19:17:09 +0000",
       "sugar_cane": "2025-07-25 04:31:52 +0000",
       "nether_wart": "2025-07-25 02:32:14 +0000",
-      "melon": "2025-07-23 03:21:03 +0000"
+      "melon": "2025-07-23 03:21:03 +0000",
+      "carrot": "2025-07-26 00:51:20 +0000"
     },
     "done": false
   },
@@ -1205,53 +1206,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "idas:tinkers_citadel": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
+      "in_tinkers_citadel": "2025-07-25 01:05:09 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_keep_kayra": {
     "criteria": {
       "location0": "2025-07-25 01:27:49 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
-  },
-  "create:chute": {
-    "criteria": {
-      "0": "2025-07-25 03:53:03 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
   },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
@@ -1265,53 +1230,17 @@
     },
     "done": true
   },
-  "idas:tinkers_citadel": {
-    "criteria": {
-      "in_tinkers_citadel": "2025-07-25 01:05:09 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-07-25 02:13:48 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "create:chute": {
     "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
+      "0": "2025-07-25 03:53:03 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 05:00:18 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
