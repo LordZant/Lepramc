@@ -433,10 +433,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-07-26 01:53:24 +0000",
       "minecraft:dark_forest": "2025-07-25 20:02:23 +0000",
       "minecraft:mangrove_swamp": "2025-07-26 01:47:18 +0000",
       "minecraft:sparse_jungle": "2025-07-26 01:47:17 +0000",
-      "minecraft:river": "2025-07-26 01:35:08 +0000"
+      "minecraft:river": "2025-07-26 01:35:08 +0000",
+      "minecraft:swamp": "2025-07-26 01:47:43 +0000",
+      "minecraft:forest": "2025-07-26 01:54:45 +0000",
+      "minecraft:jungle": "2025-07-26 01:48:32 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-26 01:48:08 +0000",
+      "minecraft:meadow": "2025-07-26 01:54:20 +0000"
     },
     "done": false
   },
@@ -515,8 +521,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-07-26 01:48:36 +0000",
       "bread": "2025-07-25 20:07:43 +0000",
-      "golden_apple": "2025-07-25 20:14:02 +0000"
+      "golden_apple": "2025-07-25 20:14:02 +0000",
+      "carrot": "2025-07-26 01:57:02 +0000"
     },
     "done": false
   },
@@ -640,6 +648,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-07-26 01:28:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-26 01:48:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-26 01:56:44 +0000"
     },
     "done": true
   },

@@ -581,16 +581,22 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-07-26 01:15:37 +0000",
+      "minecraft:savanna_plateau": "2025-07-26 01:53:45 +0000",
       "minecraft:beach": "2025-07-25 20:26:32 +0000",
       "minecraft:dark_forest": "2025-07-25 20:26:14 +0000",
       "minecraft:mangrove_swamp": "2025-07-26 01:47:16 +0000",
       "minecraft:sparse_jungle": "2025-07-26 01:47:15 +0000",
       "minecraft:river": "2025-07-25 20:13:22 +0000",
+      "minecraft:swamp": "2025-07-26 01:47:31 +0000",
       "minecraft:cold_ocean": "2025-07-25 20:27:16 +0000",
+      "minecraft:forest": "2025-07-26 01:54:20 +0000",
       "minecraft:lush_caves": "2025-07-26 01:19:37 +0000",
       "minecraft:ocean": "2025-07-25 20:27:19 +0000",
+      "minecraft:jungle": "2025-07-26 01:49:45 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-26 01:47:41 +0000",
       "minecraft:windswept_savanna": "2025-07-26 01:16:48 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-25 20:26:25 +0000"
+      "minecraft:old_growth_birch_forest": "2025-07-25 20:26:25 +0000",
+      "minecraft:meadow": "2025-07-26 01:54:03 +0000"
     },
     "done": false
   },
@@ -783,45 +789,9 @@
     },
     "done": true
   },
-  "tetra:spelunking/root": {
-    "criteria": {
-      "spelunking": "2025-07-26 01:20:05 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2025-07-26 00:46:06 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/enchantments/generic": {
-    "criteria": {
-      "has_items": "2025-07-26 00:55:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-07-26 01:05:08 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
-    "criteria": {
-      "requirement": "2025-07-26 00:47:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-07-26 01:09:37 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-07-26 01:08:30 +0000"
     },
     "done": true
   },
@@ -831,9 +801,21 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
-      "enchanted_item": "2025-07-26 00:57:33 +0000"
+      "requirement": "2025-07-26 00:47:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-07-26 00:47:18 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-07-26 00:48:20 +0000"
     },
     "done": true
   },
@@ -849,15 +831,33 @@
     },
     "done": true
   },
-  "ars_nouveau:apprentice_spell_book": {
+  "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
-      "has_apprentice_spell_book": "2025-07-26 00:48:20 +0000"
+      "has_items": "2025-07-26 00:55:39 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "killed_lightning_dragon": "2025-07-26 01:38:48 +0000"
+      "enchanted_item": "2025-07-26 00:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-07-26 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-07-26 01:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-07-26 01:09:37 +0000"
     },
     "done": true
   },
@@ -867,9 +867,27 @@
     },
     "done": true
   },
-  "immersive_paintings:misc/painting": {
+  "tetra:spelunking/root": {
     "criteria": {
-      "has_item": "2025-07-26 00:47:18 +0000"
+      "spelunking": "2025-07-26 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-07-26 01:38:48 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-26 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-26 01:50:35 +0000"
     },
     "done": true
   },
