@@ -434,6 +434,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-07-26 01:53:24 +0000",
+      "minecraft:beach": "2025-07-26 02:01:02 +0000",
       "minecraft:dark_forest": "2025-07-25 20:02:23 +0000",
       "minecraft:mangrove_swamp": "2025-07-26 01:47:18 +0000",
       "minecraft:sparse_jungle": "2025-07-26 01:47:17 +0000",
@@ -442,7 +443,8 @@
       "minecraft:forest": "2025-07-26 01:54:45 +0000",
       "minecraft:jungle": "2025-07-26 01:48:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-26 01:48:08 +0000",
-      "minecraft:meadow": "2025-07-26 01:54:20 +0000"
+      "minecraft:meadow": "2025-07-26 01:54:20 +0000",
+      "minecraft:plains": "2025-07-26 01:58:14 +0000"
     },
     "done": false
   },
@@ -651,11 +653,23 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-07-26 02:02:49 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-07-26 01:48:52 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-07-26 02:02:50 +0000"
+    },
+    "done": false
   },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
