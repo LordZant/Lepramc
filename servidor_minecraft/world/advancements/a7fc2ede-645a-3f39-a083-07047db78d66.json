@@ -445,10 +445,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-07-26 01:06:37 +0000",
       "log_spam_fixer": "2025-07-23 01:11:22 +0000"
     },
-    "done": true
+    "done": false
   },
   "rpgsmw:mage_class": {
     "criteria": {
@@ -762,6 +761,12 @@
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2025-07-26 00:54:34 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-07-26 01:12:43 +0000"
     },
     "done": true
   },
