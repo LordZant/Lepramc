@@ -584,7 +584,9 @@
       "minecraft:dark_forest": "2025-07-25 20:26:14 +0000",
       "minecraft:river": "2025-07-25 20:13:22 +0000",
       "minecraft:cold_ocean": "2025-07-25 20:27:16 +0000",
+      "minecraft:lush_caves": "2025-07-26 01:19:37 +0000",
       "minecraft:ocean": "2025-07-25 20:27:19 +0000",
+      "minecraft:windswept_savanna": "2025-07-26 01:16:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-25 20:26:25 +0000"
     },
     "done": false
@@ -775,6 +777,12 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-07-26 00:36:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-07-26 01:20:05 +0000"
     },
     "done": true
   },

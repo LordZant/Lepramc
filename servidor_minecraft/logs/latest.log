@@ -901,3 +901,74 @@
 [26Jul2025 01:16:29.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
 [26Jul2025 01:16:38.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
 [26Jul2025 01:16:47.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[26Jul2025 01:17:07.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4990ms or 99 ticks behind
+[26Jul2025 01:17:26.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4100ms or 82 ticks behind
+[26Jul2025 01:18:33.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:51131] logged in with entity id 21123 at (-2112.009384743458, 70.0, 4094.332231422311)
+[26Jul2025 01:18:33.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[26Jul2025 01:18:33.640] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[26Jul2025 01:18:33.658] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[26Jul2025 01:18:33.658] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Jul2025 01:18:33.658] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[26Jul2025 01:20:11.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Jul2025 01:20:35.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Jul2025 01:21:00.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Jul2025 01:21:29.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[26Jul2025 01:21:46.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[26Jul2025 01:22:16.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[26Jul2025 01:22:30.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -10.083128945597082,0.0,1.0463200722883812
+[26Jul2025 01:22:36.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5517ms or 110 ticks behind
+[26Jul2025 01:22:58.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[26Jul2025 01:22:58.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[26Jul2025 01:23:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzz
+[26Jul2025 01:23:21.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzz
+[26Jul2025 01:23:21.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zz
+[26Jul2025 01:23:22.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> z
+[26Jul2025 01:23:22.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> z
+[26Jul2025 01:23:22.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> z
+[26Jul2025 01:23:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> z
+[26Jul2025 01:23:22.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> z
+[26Jul2025 01:23:25.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[26Jul2025 01:23:59.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:50657] logged in with entity id 23824 at (217.30000001192093, 41.0, 38.07149605912709)
+[26Jul2025 01:23:59.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[26Jul2025 01:23:59.129] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[26Jul2025 01:23:59.150] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[26Jul2025 01:23:59.150] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Jul2025 01:23:59.150] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[26Jul2025 01:26:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Acquire Hardware]
+[26Jul2025 01:26:28.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Isn't It Iron Pick]
+[26Jul2025 01:26:42.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[26Jul2025 01:26:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[26Jul2025 01:26:56.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:52225] logged in with entity id 25541 at (-1992.542154649042, 66.0, 3995.5488743402607)
+[26Jul2025 01:26:56.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[26Jul2025 01:26:57.038] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[26Jul2025 01:26:57.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[26Jul2025 01:26:57.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Jul2025 01:26:57.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[26Jul2025 01:27:31.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Unbreaking X]
+[26Jul2025 01:28:08.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[26Jul2025 01:28:08.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[26Jul2025 01:28:09.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Cover Me with Diamonds]
+[26Jul2025 01:28:54.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:50933] logged in with entity id 26202 at (205.4281157602411, -30.0, 5.51364354529169)
+[26Jul2025 01:28:54.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[26Jul2025 01:28:54.943] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[26Jul2025 01:28:54.967] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[26Jul2025 01:28:54.967] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Jul2025 01:28:54.968] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[26Jul2025 01:28:55.198] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[26Jul2025 01:30:52.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 0.9010363284787672,-10.587107319543762,-1.2223705039345987
+[26Jul2025 01:30:53.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[26Jul2025 01:30:53.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[26Jul2025 01:30:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[26Jul2025 01:30:53.813] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jul2025 01:31:08.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:51308] logged in with entity id 27112 at (-2032.9770761111306, 74.07547214709051, 3986.146170543845)
+[26Jul2025 01:31:08.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[26Jul2025 01:31:08.908] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[26Jul2025 01:31:08.942] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[26Jul2025 01:31:08.943] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[26Jul2025 01:31:08.943] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[26Jul2025 01:33:00.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has reached the goal [Big Boy]
+[26Jul2025 01:35:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE is bleeding. ALANBRE was slain by Skeleton
+[26Jul2025 01:35:50.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[26Jul2025 01:35:57.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[26Jul2025 01:36:42.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE moved wrongly!
+[26Jul2025 01:37:03.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
