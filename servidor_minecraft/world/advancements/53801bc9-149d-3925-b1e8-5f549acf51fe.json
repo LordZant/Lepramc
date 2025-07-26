@@ -653,15 +653,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_sir": {
-    "criteria": {
-      "pumpkin_sir_0": "2025-07-26 02:02:49 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-07-26 01:48:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-26 01:56:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-07-26 02:02:49 +0000"
     },
     "done": true
   },
@@ -671,9 +677,9 @@
     },
     "done": false
   },
-  "mowziesmobs:kill_umvuthi": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "barako": "2025-07-26 01:56:44 +0000"
+      "killed_ice_dragon": "2025-07-26 02:05:34 +0000"
     },
     "done": true
   },

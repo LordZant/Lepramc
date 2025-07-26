@@ -784,6 +784,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-07-26 02:03:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-07-26 01:58:54 +0000"
