@@ -20288,3 +20288,15 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [27Jul2025 18:07:01.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
 [27Jul2025 18:07:44.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [27Jul2025 18:07:44.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 18:08:36.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [What a Deal!]
+[27Jul2025 18:08:52.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 18:09:28.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 18:09:28.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 18:10:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [The Wind Darkening]
+[27Jul2025 18:14:28.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 18:14:28.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 18:14:50.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Good Demoman]
+[27Jul2025 18:15:27.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54627, l='ServerLevel[world]', x=-2013.37, y=61.00, z=3968.56] died, message: 'Villager was slain by Zombie'
+[27Jul2025 18:16:18.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54684, l='ServerLevel[world]', x=-2105.05, y=63.00, z=3984.70] died, message: 'Villager was slain by Zombie Villager'
+[27Jul2025 18:16:30.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 18:18:21.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> a
