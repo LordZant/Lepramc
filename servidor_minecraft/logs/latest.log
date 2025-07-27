@@ -4907,3 +4907,12 @@
 [27Jul2025 17:56:41.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
 [27Jul2025 17:56:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was slain by Nightmare Stalker
 [27Jul2025 17:57:01.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -5.433938218975527,-0.08307781780646906,8.54323338451377
+[27Jul2025 17:58:32.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Horror Under the Mantle]
+[27Jul2025 17:58:46.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Piece of Chaos]
+[27Jul2025 17:58:46.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Dark Metallurgy]
+[27Jul2025 18:00:26.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 5.446095566056101,11.666575146010175,-5.602545393283435
+[27Jul2025 18:04:14.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 18:04:52.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Enchanter]
+[27Jul2025 18:07:01.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
+[27Jul2025 18:07:44.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 18:07:44.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
