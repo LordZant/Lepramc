@@ -481,6 +481,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-27 20:08:49 +0000",
       "minecraft:mushroom_fields": "2025-07-23 22:34:58 +0000",
       "minecraft:taiga": "2025-07-27 04:33:14 +0000",
       "minecraft:deep_ocean": "2025-07-23 04:17:37 +0000",
@@ -624,15 +625,19 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-22 02:47:38 +0000",
+      "chicken": "2025-07-27 20:04:57 +0000",
       "cooked_mutton": "2025-07-23 22:00:26 +0000",
+      "sweet_berries": "2025-07-27 19:35:33 +0000",
       "cooked_beef": "2025-07-23 03:10:38 +0000",
       "baked_potato": "2025-07-24 22:00:22 +0000",
+      "porkchop": "2025-07-27 20:16:14 +0000",
       "apple": "2025-07-23 02:12:31 +0000",
       "pumpkin_pie": "2025-07-26 15:57:24 +0000",
       "mutton": "2025-07-25 03:04:36 +0000",
       "bread": "2025-07-23 03:37:13 +0000",
       "golden_apple": "2025-07-23 22:40:55 +0000",
       "rotten_flesh": "2025-07-25 02:58:06 +0000",
+      "salmon": "2025-07-27 20:05:54 +0000",
       "carrot": "2025-07-25 04:24:11 +0000"
     },
     "done": false
@@ -1192,78 +1197,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 19:20:10 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-07-27 19:16:43 +0000"
@@ -1275,6 +1208,18 @@
       "squireofthe_dark_lord_4": "2025-07-27 19:18:58 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-07-27 19:35:30 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-27 21:36:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

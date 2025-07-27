@@ -1109,12 +1109,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-07-27 18:34:01 +0000"
-    },
-    "done": true
-  },
   "boliviamod:advancement_mineral_wealth": {
     "criteria": {
       "advancement_mineral_wealth_0": "2025-07-27 17:43:05 +0000"
@@ -1127,9 +1121,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_meal": {
+  "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
-      "bestiary": "2025-07-27 18:36:35 +0000"
+      "bestiary": "2025-07-27 18:24:32 +0000"
     },
     "done": true
   },
@@ -1139,17 +1133,119 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-27 18:34:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-07-27 18:36:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-07-27 18:37:17 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
+  "immersive_paintings:misc/glow_painting": {
     "criteria": {
-      "bestiary": "2025-07-27 18:24:32 +0000"
+      "has_item": "2025-07-27 19:44:56 +0000"
     },
     "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_druidic": {
+    "criteria": {
+      "requirement": "2025-07-27 19:45:38 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-07-27 19:46:25 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-07-27 19:46:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-27 21:36:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

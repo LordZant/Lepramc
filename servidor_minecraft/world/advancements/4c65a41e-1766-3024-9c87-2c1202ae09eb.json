@@ -917,6 +917,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-07-26 18:13:03 +0000",
+      "tomato": "2025-07-27 19:38:41 +0000",
       "brown_mushroom": "2025-07-23 19:17:09 +0000",
       "sugar_cane": "2025-07-25 04:31:52 +0000",
       "nether_wart": "2025-07-25 02:32:14 +0000",
@@ -1328,15 +1329,39 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-07-27 18:59:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2025-07-27 19:06:47 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
-      "bestiary": "2025-07-27 18:59:44 +0000"
+      "requirement": "2025-07-27 19:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-27 19:35:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-27 19:35:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-07-27 20:16:34 +0000"
     },
     "done": true
   },
