@@ -1328,5 +1328,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-07-27 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-07-27 18:59:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
