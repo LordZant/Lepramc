@@ -4945,3 +4945,7 @@
 [27Jul2025 18:37:14.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [27Jul2025 18:37:17.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [The Song of the Dragons]
 [27Jul2025 18:38:15.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Mother of Dragons]
+[27Jul2025 18:39:30.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[27Jul2025 18:39:50.854] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[27Jul2025 18:40:59.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [An Ear-Shattering Roar]
+[27Jul2025 18:41:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Dragon Commander]

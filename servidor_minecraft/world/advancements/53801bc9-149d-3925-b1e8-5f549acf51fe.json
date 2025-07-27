@@ -483,7 +483,9 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2025-07-27 18:37:43 +0000",
       "charm_collector_0": "2025-07-25 20:07:23 +0000",
+      "charm_collector_3": "2025-07-27 18:37:43 +0000",
       "charm_collector_2": "2025-07-25 20:20:43 +0000"
     },
     "done": false
@@ -575,7 +577,8 @@
       "minecraft:spider": "2025-07-25 20:18:13 +0000",
       "minecraft:creeper": "2025-07-26 01:22:45 +0000",
       "minecraft:husk": "2025-07-27 17:53:27 +0000",
-      "minecraft:zombie": "2025-07-25 20:14:56 +0000"
+      "minecraft:zombie": "2025-07-25 20:14:56 +0000",
+      "minecraft:zombie_villager": "2025-07-27 18:35:37 +0000"
     },
     "done": false
   },
@@ -795,9 +798,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-27 18:36:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-27 18:38:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-07-27 18:08:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-07-27 18:41:44 +0000"
     },
     "done": true
   },
@@ -812,6 +833,12 @@
       "hatman_0": "2025-07-27 18:14:50 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-07-27 18:40:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
