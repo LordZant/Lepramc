@@ -1084,12 +1084,6 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-07-27 17:13:47 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2025-07-27 17:11:02 +0000"
@@ -1099,6 +1093,24 @@
   "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
       "core": "2025-07-27 17:11:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-27 17:13:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-27 17:21:42 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2025-07-27 17:43:05 +0000"
     },
     "done": true
   },

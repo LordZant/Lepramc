@@ -4782,3 +4782,107 @@
 [27Jul2025 17:14:26.759] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player LordZand picking up: PermanentItemEntity['Extradimensional Vessel'/21525, l='ServerLevel[world]', x=-2635.66, y=68.27, z=952.16]
 [27Jul2025 17:14:26.759] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/21525, l='ServerLevel[world]', x=-2635.66, y=68.27, z=952.16]
 [27Jul2025 17:15:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Best Friends Forever]
+[27Jul2025 17:16:56.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:16:58.704] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos BlockPos{x=-2619, y=73, z=1547}
+[27Jul2025 17:19:09.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was frozen by Ice Dragon
+[27Jul2025 17:19:19.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/24378, l='ServerLevel[world]', x=-2585.84, y=72.00, z=1338.48] died, message: 'Weaponsmith was turned to ice by Ice Dragon'
+[27Jul2025 17:19:20.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/24424, l='ServerLevel[world]', x=-2589.02, y=73.42, z=1342.93] died, message: 'Weaponsmith was turned to ice by Ice Dragon'
+[27Jul2025 17:19:23.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -2549 1286
+[27Jul2025 17:19:24.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand was pricked to death
+[27Jul2025 17:19:24.009] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for LordZand at X: -2549.3621817368244, Y: 70.5, Z: 1286.9735136162428
+[27Jul2025 17:19:29.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26917, l='ServerLevel[world]', x=-2615.07, y=103.13, z=1328.42] died, message: 'Villager was slain by Ice Dragon'
+[27Jul2025 17:19:33.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/26859, l='ServerLevel[world]', x=-2599.10, y=73.00, z=1344.05] died, message: 'Weaponsmith was frozen by Ice Dragon'
+[27Jul2025 17:19:37.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26890, l='ServerLevel[world]', x=-2617.28, y=68.00, z=1336.79] died, message: 'Villager was turned to ice by Ice Dragon'
+[27Jul2025 17:19:48.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26918, l='ServerLevel[world]', x=-2598.93, y=72.50, z=1327.25] died, message: 'Villager walked into a cactus whilst trying to escape Ice Dragon'
+[27Jul2025 17:19:49.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26884, l='ServerLevel[world]', x=-2592.89, y=72.50, z=1342.97] died, message: 'Villager was pricked to death'
+[27Jul2025 17:19:50.858] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player LordZand picking up: PermanentItemEntity['Extradimensional Vessel'/26797, l='ServerLevel[world]', x=-2549.36, y=72.00, z=1286.97]
+[27Jul2025 17:19:50.858] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/26797, l='ServerLevel[world]', x=-2549.36, y=72.00, z=1286.97]
+[27Jul2025 17:20:08.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/26879, l='ServerLevel[world]', x=-2596.23, y=72.50, z=1344.50] died, message: 'Weaponsmith was pricked to death'
+[27Jul2025 17:21:06.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 2.0684209267283222,-10.656197397044323,0.20063329841491395
+[27Jul2025 17:21:42.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [The Twelve Labors of Hercules]
+[27Jul2025 17:22:14.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[27Jul2025 17:22:14.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[27Jul2025 17:22:14.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[27Jul2025 17:22:29.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:65267] logged in with entity id 31199 at (-1994.179940225258, 84.46584582070227, 2998.2415377251664)
+[27Jul2025 17:22:29.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[27Jul2025 17:22:29.489] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[27Jul2025 17:22:29.510] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[27Jul2025 17:22:29.510] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Jul2025 17:22:29.510] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[27Jul2025 17:22:42.673] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:23:55.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -2521 1069
+[27Jul2025 17:24:35.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[27Jul2025 17:24:35.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[27Jul2025 17:24:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[27Jul2025 17:25:09.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[27Jul2025 17:25:20.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:61475] logged in with entity id 35820 at (-2469.9660544359317, 79.70478537224822, 1066.6922882904828)
+[27Jul2025 17:25:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[27Jul2025 17:25:20.284] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[27Jul2025 17:25:20.304] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[27Jul2025 17:25:20.304] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Jul2025 17:25:20.305] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[27Jul2025 17:26:13.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[27Jul2025 17:26:49.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:26:49.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:27:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was frozen by Ice Dragon
+[27Jul2025 17:29:26.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[27Jul2025 17:29:28.905] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:29:43.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[27Jul2025 17:29:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[27Jul2025 17:30:00.727] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/39043, l='ServerLevel[world]', x=-2601.92, y=72.50, z=1349.17] died, message: 'Cartographer was pricked to death'
+[27Jul2025 17:30:04.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Hot Stuff]
+[27Jul2025 17:30:52.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Double Trouble]
+[27Jul2025 17:31:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [The Bearclaw Inn]
+[27Jul2025 17:32:18.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:50509] logged in with entity id 40362 at (-2351.7682971551626, 73.0, 1534.3025962954255)
+[27Jul2025 17:32:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[27Jul2025 17:32:18.293] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[27Jul2025 17:32:18.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[27Jul2025 17:32:18.312] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Jul2025 17:32:18.313] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[27Jul2025 17:33:51.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[27Jul2025 17:33:51.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[27Jul2025 17:33:51.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[27Jul2025 17:34:01.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:61494] logged in with entity id 42567 at (-2564.7897477545625, 83.11696100442605, 1543.8140802394428)
+[27Jul2025 17:34:01.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[27Jul2025 17:34:01.038] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[27Jul2025 17:34:01.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[27Jul2025 17:34:01.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Jul2025 17:34:01.057] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[27Jul2025 17:34:46.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:34:46.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:34:46.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:34:47.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:34:47.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:34:54.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Mine? Mine? Mine?]
+[27Jul2025 17:35:30.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Chest Slayer]
+[27Jul2025 17:36:26.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:36:26.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:36:26.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:36:48.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [They Have a Cave Troll!]
+[27Jul2025 17:36:49.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[27Jul2025 17:36:56.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:39:00.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 1.3700669475629184,-10.526591872436242,1.1258475274210014
+[27Jul2025 17:43:00.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:43:00.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:43:00.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:43:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Advancement Mineral Wealth]
+[27Jul2025 17:43:35.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Diamonds!]
+[27Jul2025 17:44:24.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:44:24.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:44:24.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:44:24.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:44:24.154] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:44:36.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:44:36.973] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:44:39.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[27Jul2025 17:44:39.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[27Jul2025 17:44:39.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[27Jul2025 17:44:42.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzzz
+[27Jul2025 17:44:49.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:61516] logged in with entity id 55575 at (-2015.2708911668792, 70.24057304208301, 2501.4673229647124)
+[27Jul2025 17:44:49.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[27Jul2025 17:44:49.033] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[27Jul2025 17:44:49.050] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[27Jul2025 17:44:49.051] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Jul2025 17:44:49.051] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[27Jul2025 17:44:50.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 17:44:50.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
