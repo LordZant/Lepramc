@@ -765,6 +765,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-27 18:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-27 18:04:52 +0000"
@@ -794,6 +800,12 @@
       "the_wind_darkening_0": "2025-07-27 18:10:55 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-07-27 18:14:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
