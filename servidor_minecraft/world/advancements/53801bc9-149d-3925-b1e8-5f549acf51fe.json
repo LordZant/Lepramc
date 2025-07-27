@@ -530,8 +530,10 @@
     "criteria": {
       "cooked_porkchop": "2025-07-27 17:05:20 +0000",
       "cooked_mutton": "2025-07-27 17:07:34 +0000",
+      "cooked_beef": "2025-07-27 19:15:50 +0000",
       "baked_potato": "2025-07-27 16:59:47 +0000",
       "apple": "2025-07-26 01:48:36 +0000",
+      "potato": "2025-07-27 19:13:08 +0000",
       "mutton": "2025-07-27 16:55:07 +0000",
       "bread": "2025-07-25 20:07:43 +0000",
       "golden_apple": "2025-07-25 20:14:02 +0000",
@@ -789,6 +791,12 @@
   "tetra:spelunking/find_scroll_throwing": {
     "criteria": {
       "find": "2025-07-27 17:51:21 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-07-27 19:08:33 +0000"
     },
     "done": true
   },
