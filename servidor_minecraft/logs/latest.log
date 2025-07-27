@@ -896,3 +896,25 @@
 [27Jul2025 21:49:17.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
 [27Jul2025 21:49:36.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [27Jul2025 21:50:32.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tocado
+[27Jul2025 21:52:21.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> comoes
+[27Jul2025 21:52:30.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Jul2025 21:52:41.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> AAAAAAAAA
+[27Jul2025 21:52:53.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> q paso
+[27Jul2025 21:52:58.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> TAPA
+[27Jul2025 21:53:20.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> webon
+[27Jul2025 21:53:58.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> casi matas al de epa
+[27Jul2025 21:54:35.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[27Jul2025 21:54:35.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[27Jul2025 21:55:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Flexible Schedule]
+[27Jul2025 21:55:46.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=55, z=-1118} BlockPos{x=179, y=54, z=-1117}
+[27Jul2025 21:55:48.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=54, z=-1118} BlockPos{x=181, y=55, z=-1118}
+[27Jul2025 21:55:48.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=54, z=-1118} BlockPos{x=181, y=55, z=-1118}
+[27Jul2025 21:57:01.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=57, z=-1116} BlockPos{x=177, y=60, z=-1111}
+[27Jul2025 21:57:01.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=57, z=-1116} BlockPos{x=177, y=60, z=-1111}
+[27Jul2025 21:57:01.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=57, z=-1116} BlockPos{x=177, y=60, z=-1111}
+[27Jul2025 21:57:01.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=57, z=-1116} BlockPos{x=177, y=60, z=-1111}
+[27Jul2025 22:00:06.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Timed out
+[27Jul2025 22:00:06.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[27Jul2025 22:02:38.188] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@25dc08df[id=<null>,name=Starsh1p1902,properties={},legacy=false] (/10.147.18.141:53688): Took too long to log in
+[27Jul2025 22:02:38.189] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25dc08df[id=<null>,name=Starsh1p1902,properties={},legacy=false] (/10.147.18.141:53688) lost connection: Took too long to log in
+[27Jul2025 22:02:38.242] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
