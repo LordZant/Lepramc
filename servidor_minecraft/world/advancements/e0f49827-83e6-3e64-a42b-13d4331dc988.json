@@ -1109,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-27 18:34:01 +0000"
+    },
+    "done": true
+  },
   "boliviamod:advancement_mineral_wealth": {
     "criteria": {
       "advancement_mineral_wealth_0": "2025-07-27 17:43:05 +0000"
@@ -1118,6 +1124,18 @@
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2025-07-27 17:58:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-07-27 18:24:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-07-27 18:24:32 +0000"
     },
     "done": true
   },
