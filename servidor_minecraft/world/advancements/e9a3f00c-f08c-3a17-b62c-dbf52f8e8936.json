@@ -484,6 +484,7 @@
       "minecraft:mushroom_fields": "2025-07-23 22:34:58 +0000",
       "minecraft:deep_ocean": "2025-07-23 04:17:37 +0000",
       "minecraft:cherry_grove": "2025-07-25 02:30:34 +0000",
+      "minecraft:sunflower_plains": "2025-07-26 02:19:16 +0000",
       "minecraft:birch_forest": "2025-07-25 03:10:59 +0000",
       "minecraft:bamboo_jungle": "2025-07-23 22:59:36 +0000",
       "minecraft:wooded_badlands": "2025-07-24 21:37:14 +0000",
@@ -583,6 +584,8 @@
     "criteria": {
       "minecraft:pillager": "2025-07-23 03:50:50 +0000",
       "minecraft:skeleton": "2025-07-22 02:47:13 +0000",
+      "minecraft:ghast": "2025-07-26 17:49:19 +0000",
+      "minecraft:vindicator": "2025-07-26 16:57:51 +0000",
       "minecraft:magma_cube": "2025-07-24 21:19:18 +0000",
       "minecraft:spider": "2025-07-22 02:46:50 +0000",
       "minecraft:creeper": "2025-07-22 02:58:14 +0000",
@@ -618,6 +621,7 @@
       "cooked_beef": "2025-07-23 03:10:38 +0000",
       "baked_potato": "2025-07-24 22:00:22 +0000",
       "apple": "2025-07-23 02:12:31 +0000",
+      "pumpkin_pie": "2025-07-26 15:57:24 +0000",
       "mutton": "2025-07-25 03:04:36 +0000",
       "bread": "2025-07-23 03:37:13 +0000",
       "golden_apple": "2025-07-23 22:40:55 +0000",
@@ -1010,77 +1014,206 @@
     },
     "done": true
   },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2025-07-26 02:17:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2025-07-26 16:15:11 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 02:14:29 +0000"
+      "log_spam_fixer": "2025-07-26 18:05:20 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-26 17:45:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-07-26 17:56:24 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-07-26 17:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-26 17:44:22 +0000",
+      "minecraft:nether_wastes": "2025-07-26 17:50:06 +0000",
+      "minecraft:basalt_deltas": "2025-07-26 17:58:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-26 17:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-26 17:44:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-07-26 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-07-26 17:47:51 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2025-07-26 17:46:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-07-26 17:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-26 17:44:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-26 17:47:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-26 18:03:47 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-07-26 16:33:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-26 17:26:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-07-26 16:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-07-26 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-07-26 17:50:00 +0000",
+      "incendium:quartz_flats": "2025-07-26 17:47:51 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-07-26 17:50:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
