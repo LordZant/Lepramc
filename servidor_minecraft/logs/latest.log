@@ -4886,3 +4886,24 @@
 [27Jul2025 17:44:49.051] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
 [27Jul2025 17:44:50.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [27Jul2025 17:44:50.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:47:22.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[27Jul2025 17:47:25.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -0.6487956284158827,-10.554889593327275,4.1476119885765
+[27Jul2025 17:47:30.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/58209, l='ServerLevel[world]', x=-2229.70, y=108.30, z=3194.30] died, message: 'Fisherman was slain by Stymphalian Bird'
+[27Jul2025 17:47:39.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[27Jul2025 17:48:13.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[27Jul2025 17:48:13.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[27Jul2025 17:48:13.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[27Jul2025 17:48:42.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@385de4b4[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:61526) lost connection: Disconnected
+[27Jul2025 17:48:55.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:61531] logged in with entity id 59747 at (-2187.300000011921, 93.90330863205881, 3289.0899287704906)
+[27Jul2025 17:48:55.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[27Jul2025 17:48:55.283] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[27Jul2025 17:48:55.307] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[27Jul2025 17:48:55.308] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Jul2025 17:48:55.308] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[27Jul2025 17:49:13.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/59871, l='ServerLevel[world]', x=-2249.37, y=109.00, z=3195.80] died, message: 'Fisherman was shot by Stymphalian Bird'
+[27Jul2025 17:49:24.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/59831, l='ServerLevel[world]', x=-2251.37, y=109.00, z=3197.30] died, message: 'Fisherman was shot by Stymphalian Bird'
+[27Jul2025 17:51:21.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Perfectly Balanced]
+[27Jul2025 17:56:12.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/54636, l='ServerLevel[world]', x=-2066.49, y=67.00, z=3970.51] died, message: 'Librarian was slain by Zombie'
+[27Jul2025 17:56:41.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[27Jul2025 17:56:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand is bleeding. LordZand was slain by Nightmare Stalker
+[27Jul2025 17:57:01.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -5.433938218975527,-0.08307781780646906,8.54323338451377
