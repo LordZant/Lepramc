@@ -861,3 +861,38 @@
 [27Jul2025 21:40:09.514] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [27Jul2025 21:40:10.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7113, l='ServerLevel[world]', x=1707.49, y=67.00, z=-8515.49] died, message: 'Librarian was slain by Zombie'
 [27Jul2025 21:40:45.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> zzzzzzzzzzzzzzzzzzzz
+[27Jul2025 21:40:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> carlos deja de coger un rato y dormi
+[27Jul2025 21:41:03.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[27Jul2025 21:41:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[27Jul2025 21:41:11.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> tigre
+[27Jul2025 21:41:20.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:58786] logged in with entity id 10567 at (-1950.546887312869, 68.0, 4088.8163048307397)
+[27Jul2025 21:41:20.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[27Jul2025 21:41:20.682] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[27Jul2025 21:41:20.709] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[27Jul2025 21:41:20.709] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Jul2025 21:41:20.710] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[27Jul2025 21:41:21.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/7079, l='ServerLevel[world]', x=1727.00, y=72.00, z=-8514.93] died, message: 'Weaponsmith was slain by Zombie'
+[27Jul2025 21:41:42.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:61044] logged in with entity id 10797 at (-114.3515267246944, -55.0, -51.711523239678435)
+[27Jul2025 21:41:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[27Jul2025 21:41:42.420] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[27Jul2025 21:41:42.441] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[27Jul2025 21:41:42.442] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[27Jul2025 21:41:42.442] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[27Jul2025 21:41:49.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 21:43:46.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/265, l='ServerLevel[world]', x=-2050.44, y=68.64, z=3957.59] died, message: 'Librarian was slain by Iron Golem'
+[27Jul2025 21:44:03.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> alan por que brilla el suelo?
+[27Jul2025 21:45:41.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[27Jul2025 21:46:00.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4740ms or 94 ticks behind
+[27Jul2025 21:46:21.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5137ms or 102 ticks behind
+[27Jul2025 21:46:41.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5443ms or 108 ticks behind
+[27Jul2025 21:47:35.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[27Jul2025 21:47:56.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[27Jul2025 21:48:14.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[27Jul2025 21:48:14.041] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[27Jul2025 21:48:15.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Jul2025 21:48:35.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Jul2025 21:49:00.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[27Jul2025 21:49:01.190] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[27Jul2025 21:49:17.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[27Jul2025 21:49:36.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Jul2025 21:50:32.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> tocado
