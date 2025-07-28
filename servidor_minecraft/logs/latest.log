@@ -935,3 +935,23 @@
 [28Jul2025 01:23:09.872] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
 [28Jul2025 01:25:34.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
 [28Jul2025 01:25:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[28Jul2025 01:38:38.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:64577] logged in with entity id 54435 at (-2118.083723295654, 69.0, 4093.5762755520273)
+[28Jul2025 01:38:38.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[28Jul2025 01:38:38.230] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[28Jul2025 01:38:38.254] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[28Jul2025 01:38:38.255] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Jul2025 01:38:38.255] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[28Jul2025 01:41:54.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:41:54.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 01:43:06.508] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:43:06.508] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:44:20.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:45:21.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:45:21.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:45:21.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 01:46:01.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:46:01.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:46:01.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 01:46:20.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Pic-A-Nic Basket?]
+[28Jul2025 01:48:10.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
+[28Jul2025 01:48:40.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
