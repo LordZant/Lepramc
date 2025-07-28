@@ -1177,5 +1177,11 @@
     },
     "done": true
   },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-07-28 22:26:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
