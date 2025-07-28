@@ -972,5 +972,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-07-28 19:59:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

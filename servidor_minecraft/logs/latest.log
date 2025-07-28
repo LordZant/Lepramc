@@ -828,3 +828,13 @@
 [28Jul2025 19:55:28.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [28Jul2025 19:57:07.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [28Jul2025 19:57:07.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 19:59:54.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Dragon Growth Hormone]
+[28Jul2025 20:00:04.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 20:00:35.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 20:00:35.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 20:00:35.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 20:02:15.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -2813 3981
+[28Jul2025 20:04:15.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -8.852012759327863,1.3194621975212186,-4.626985672986848
+[28Jul2025 20:04:27.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[28Jul2025 20:04:27.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -8.085817897253037,4.405404714350013,-4.748544894555835
+[28Jul2025 20:05:56.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/4562, l='ServerLevel[world]', x=-2897.40, y=72.56, z=4095.63] died, message: 'Fletcher was shot by Pillager'

@@ -10930,3 +10930,42 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [28Jul2025 19:55:28.025] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [28Jul2025 19:57:07.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [28Jul2025 19:57:07.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 19:59:31.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 19:59:31.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 19:59:54.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Dragon Growth Hormone]
+[28Jul2025 20:00:04.375] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 20:00:35.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 20:00:35.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 20:00:35.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 20:02:15.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -2813 3981
+[28Jul2025 20:03:21.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/wolf_den
+[28Jul2025 20:03:43.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[28Jul2025 20:03:43.066] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[28Jul2025 20:03:43.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[28Jul2025 20:03:43.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[28Jul2025 20:03:43.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[28Jul2025 20:03:43.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[28Jul2025 20:03:43.084] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[28Jul2025 20:03:43.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[28Jul2025 20:03:43.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[28Jul2025 20:03:43.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[28Jul2025 20:03:43.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_mage
+[28Jul2025 20:04:14.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ruins_of_the_deep/ruins_of_the_deep_entrance
+[28Jul2025 20:04:14.210] [Server thread/DEBUG] [ModernFix/]: Structure idas:ruins_of_the_deep/ruins_of_the_deep_tunnel is being run through DFU (hash b72871be96ad6d0dac3bd5774ffc93daa3f25a4f3d5c28572a64c7d24d85d686), this will cause launch time delays
+[28Jul2025 20:04:14.467] [Server thread/DEBUG] [ModernFix/]: Structure idas:ruins_of_the_deep/ruins_of_the_deep1 is being run through DFU (hash 30dd620f257d23b256f27c08ed10202fd25a8ae3760e20b9f0e36902e36aa0c7), this will cause launch time delays
+[28Jul2025 20:04:15.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -8.852012759327863,1.3194621975212186,-4.626985672986848
+[28Jul2025 20:04:27.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[28Jul2025 20:04:27.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[28Jul2025 20:04:27.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -8.085817897253037,4.405404714350013,-4.748544894555835
+[28Jul2025 20:04:33.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 20:04:34.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 20:04:38.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus
+[28Jul2025 20:04:57.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_02
+[28Jul2025 20:04:57.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fisher_1
+[28Jul2025 20:04:57.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_5
+[28Jul2025 20:04:57.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_large_house_1
+[28Jul2025 20:04:59.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[28Jul2025 20:04:59.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[28Jul2025 20:05:07.354] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[28Jul2025 20:05:07.354] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md654f95$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[28Jul2025 20:05:56.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/4562, l='ServerLevel[world]', x=-2897.40, y=72.56, z=4095.63] died, message: 'Fletcher was shot by Pillager'
