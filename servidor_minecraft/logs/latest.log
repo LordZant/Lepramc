@@ -866,3 +866,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 23:38:15.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> a
 [28Jul2025 23:38:35.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> q fue
 [28Jul2025 23:42:35.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzz?
+[28Jul2025 23:49:52.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE was kicked for floating too long!
+[28Jul2025 23:49:52.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[28Jul2025 23:49:52.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[28Jul2025 23:49:52.345] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 23:50:04.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> a
+[28Jul2025 23:50:33.329] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7613cbe7[id=<null>,name=ALANBRE,properties={},legacy=false] (/10.147.18.24:64406) lost connection: Disconnected
+[28Jul2025 23:51:26.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a69a37a[id=<null>,name=ALANBRE,properties={},legacy=false] (/10.147.18.24:64410) lost connection: Disconnected
+[28Jul2025 23:52:21.770] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@537c25de[id=<null>,name=ALANBRE,properties={},legacy=false] (/10.147.18.24:64414) lost connection: Disconnected
+[28Jul2025 23:52:29.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rodjes7: The difficulty has been set to Hard]
+[28Jul2025 23:53:11.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:64434] logged in with entity id 12344 at (-2072.0118805506463, 74.8748987066586, 4031.2534872496067)
+[28Jul2025 23:53:11.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[28Jul2025 23:53:12.031] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[28Jul2025 23:53:12.055] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[28Jul2025 23:53:12.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Jul2025 23:53:12.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[28Jul2025 23:53:50.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 23:53:50.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 23:53:50.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 23:53:50.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 23:53:50.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 23:53:50.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 23:53:50.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 23:54:53.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Life turned out to be a comedy]
+[28Jul2025 23:56:25.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2334, l='ServerLevel[world]', x=-2034.23, y=67.18, z=3982.50] died, message: 'Farmer was slain by Zombie Clown'
+[28Jul2025 23:57:20.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 23:57:20.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 23:57:28.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/11879, l='ServerLevel[world]', x=-2062.30, y=67.00, z=3977.44] died, message: 'Librarian was slain by Zombie'
