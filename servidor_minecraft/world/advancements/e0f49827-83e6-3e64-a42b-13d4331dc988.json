@@ -1177,9 +1177,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "ars_nouveau:root": {
     "criteria": {
-      "iron_pickaxe": "2025-07-28 22:36:52 +0000"
+      "ars_nouveau:worn_notebook": "2025-07-28 22:26:09 +0000"
     },
     "done": true
   },
@@ -1189,9 +1189,9 @@
     },
     "done": true
   },
-  "ars_nouveau:root": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "ars_nouveau:worn_notebook": "2025-07-28 22:26:09 +0000"
+      "iron_pickaxe": "2025-07-28 22:36:52 +0000"
     },
     "done": true
   },
