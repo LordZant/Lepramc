@@ -1047,3 +1047,20 @@
 [28Jul2025 02:15:37.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> buena noshe
 [28Jul2025 02:15:39.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
 [28Jul2025 02:15:39.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[28Jul2025 02:22:06.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Timed out
+[28Jul2025 02:22:06.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[28Jul2025 02:22:37.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:50813] logged in with entity id 78426 at (186.88376983724498, -43.0, -16.39295202469265)
+[28Jul2025 02:22:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[28Jul2025 02:22:37.664] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[28Jul2025 02:22:37.688] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[28Jul2025 02:22:37.690] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Jul2025 02:22:37.691] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[28Jul2025 02:23:37.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Timed out
+[28Jul2025 02:23:37.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[28Jul2025 02:23:59.716] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ca1a913[id=<null>,name=RicardoAxel3,properties={},legacy=false] (/10.147.18.118:50908) lost connection: Disconnected
+[28Jul2025 02:24:07.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:57611] logged in with entity id 78605 at (1661.1648635066883, -27.0, -8521.557902740105)
+[28Jul2025 02:24:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[28Jul2025 02:24:07.099] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[28Jul2025 02:24:07.114] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[28Jul2025 02:24:07.114] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Jul2025 02:24:07.115] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
