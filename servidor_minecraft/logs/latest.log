@@ -847,3 +847,13 @@
 [28Jul2025 00:12:56.813] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [28Jul2025 00:12:56.813] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdf8a401$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [28Jul2025 00:13:18.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:16:47.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:16:47.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:16:47.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:16:47.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:16:47.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:19:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [The Parrots and the Bats]
+[28Jul2025 00:20:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zz?
+[28Jul2025 00:20:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> GO
+[28Jul2025 00:21:36.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> zz
+[28Jul2025 00:24:25.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
