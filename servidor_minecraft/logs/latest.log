@@ -857,3 +857,81 @@
 [28Jul2025 00:20:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> GO
 [28Jul2025 00:21:36.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> zz
 [28Jul2025 00:24:25.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:28:18.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has reached the goal [Pumpkin Sir]
+[28Jul2025 00:32:40.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zzz
+[28Jul2025 00:36:06.359] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 00:36:11.758] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 00:36:19.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2151, y=65, z=4111} BlockPos{x=-2152, y=64, z=4111}
+[28Jul2025 00:40:13.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/19825, l='ServerLevel[world]', x=1634.48, y=72.00, z=-9190.29] died, message: 'Farmer was shot by Pillager'
+[28Jul2025 00:41:11.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [A Seedy Place]
+[28Jul2025 00:42:15.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/20207, l='ServerLevel[world]', x=1645.02, y=65.00, z=-9222.86] died, message: 'Cleric was shot by Pillager'
+[28Jul2025 00:42:28.258] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:42:28.258] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 00:42:28.258] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 00:44:29.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> zzzzzzzzzzzzzzzzz
+[28Jul2025 00:44:30.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ?
+[28Jul2025 00:44:41.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> duerme y me salgo
+[28Jul2025 00:44:46.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> yap
+[28Jul2025 00:44:48.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[28Jul2025 00:44:48.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[28Jul2025 00:45:09.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:56058] logged in with entity id 23952 at (1642.9184113878096, 65.0, -9221.703178916747)
+[28Jul2025 00:45:09.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[28Jul2025 00:45:09.878] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[28Jul2025 00:45:09.901] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[28Jul2025 00:45:09.901] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Jul2025 00:45:09.902] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[28Jul2025 00:45:10.623] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 00:47:22.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [It Belongs in a Museum]
+[28Jul2025 00:47:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Alex's Caves]
+[28Jul2025 00:49:16.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[28Jul2025 00:49:16.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 0.7691513330146336,1.7537912683274826,-10.693277204220067
+[28Jul2025 00:49:16.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 moved too quickly! 9.009311200308957,1.2468000194787976,-4.406284512688217
+[28Jul2025 00:52:40.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Distant Dreamer]
+[28Jul2025 00:52:43.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Hollow Solids]
+[28Jul2025 00:55:55.222] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/26355, l='ServerLevel[world]', x=1835.48, y=64.00, z=-9439.44] died, message: 'Leatherworker hit the ground too hard'
+[28Jul2025 00:59:25.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Timed out
+[28Jul2025 00:59:25.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[28Jul2025 01:00:10.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:64450] logged in with entity id 34152 at (-2157.0061318594967, -18.0, 3866.3959709950773)
+[28Jul2025 01:00:10.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[28Jul2025 01:00:10.066] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[28Jul2025 01:00:10.087] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[28Jul2025 01:00:10.087] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Jul2025 01:00:10.087] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[28Jul2025 01:00:59.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
+[28Jul2025 01:09:56.859] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[28Jul2025 01:09:56.859] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[28Jul2025 01:10:43.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[28Jul2025 01:10:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[28Jul2025 01:10:58.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:56562] logged in with entity id 40605 at (2004.699999988079, 113.0, -9552.933901914239)
+[28Jul2025 01:10:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[28Jul2025 01:10:58.825] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[28Jul2025 01:10:58.847] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[28Jul2025 01:10:58.848] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Jul2025 01:10:58.848] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[28Jul2025 01:12:04.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -9.383497449949118,-3.5833592878434786,1.6144396254708226
+[28Jul2025 01:13:30.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Voluntary Exile]
+[28Jul2025 01:17:17.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -3.2592548025209,-9.675472517731933,-2.516754307341671
+[28Jul2025 01:17:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Distant Dreamer]
+[28Jul2025 01:17:44.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity minecraft:sign @ BlockPos{x=-2899, y=74, z=4085} state Block{supplementaries:structure_temp} invalid for ticking:
+[28Jul2025 01:17:44.111] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean]] from pos BlockPos{x=-2901, y=75, z=4085}
+[28Jul2025 01:20:02.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/45174, l='ServerLevel[world]', x=-3008.78, y=66.00, z=4110.17] died, message: 'Nitwit was slain by Zombie Bruiser'
+[28Jul2025 01:20:45.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45175, l='ServerLevel[world]', x=-2978.42, y=68.00, z=4131.39] died, message: 'Villager was slain by Zombie'
+[28Jul2025 01:20:49.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45760, l='ServerLevel[world]', x=-2991.51, y=65.00, z=4127.27] died, message: 'Villager was slain by Zombie Bruiser'
+[28Jul2025 01:20:57.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/45111, l='ServerLevel[world]', x=-3011.67, y=67.00, z=4134.09] died, message: 'Nitwit was slain by Zombie Bruiser'
+[28Jul2025 01:21:07.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
+[28Jul2025 01:21:37.398] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44948, l='ServerLevel[world]', x=-2868.62, y=83.00, z=4138.44] died, message: 'Villager was shot by Pillager'
+[28Jul2025 01:21:47.692] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45213, l='ServerLevel[world]', x=-2985.14, y=65.00, z=4135.62] died, message: 'Villager was slain by Zombie Bruiser'
+[28Jul2025 01:21:55.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44863, l='ServerLevel[world]', x=-2858.94, y=82.00, z=4130.59] died, message: 'Villager was shot by Pillager'
+[28Jul2025 01:22:19.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45099, l='ServerLevel[world]', x=-2977.93, y=65.00, z=4129.70] died, message: 'Villager was slain by Zombie Bruiser'
+[28Jul2025 01:22:40.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! -1.0735315421911764,12.541413001873707,-2.505570989124408
+[28Jul2025 01:22:44.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[28Jul2025 01:22:44.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[28Jul2025 01:22:44.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[28Jul2025 01:23:09.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:64529] logged in with entity id 48898 at (-2936.307290655355, 80.47776817844581, 4031.9549852607465)
+[28Jul2025 01:23:09.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[28Jul2025 01:23:09.840] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[28Jul2025 01:23:09.870] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[28Jul2025 01:23:09.870] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[28Jul2025 01:23:09.872] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[28Jul2025 01:25:34.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[28Jul2025 01:25:34.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
