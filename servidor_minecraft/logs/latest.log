@@ -902,3 +902,5 @@
 [29Jul2025 04:07:30.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE was kicked for floating too long!
 [29Jul2025 04:07:30.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Flying is not enabled on this server
 [29Jul2025 04:07:30.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[29Jul2025 04:09:52.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Magebloom]
+[29Jul2025 04:17:18.027] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi

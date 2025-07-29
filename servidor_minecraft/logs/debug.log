@@ -13681,3 +13681,52 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [29Jul2025 04:07:30.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
 [29Jul2025 04:07:50.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 04:07:50.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:09:52.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Magebloom]
+[29Jul2025 04:12:50.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:12:50.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 04:17:17.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[29Jul2025 04:17:17.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[29Jul2025 04:17:17.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[29Jul2025 04:17:17.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[29Jul2025 04:17:17.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[29Jul2025 04:17:17.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[29Jul2025 04:17:17.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[29Jul2025 04:17:17.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[29Jul2025 04:17:17.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[29Jul2025 04:17:17.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[29Jul2025 04:17:17.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[29Jul2025 04:17:17.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[29Jul2025 04:17:17.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[29Jul2025 04:17:17.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[29Jul2025 04:17:17.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[29Jul2025 04:17:17.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[29Jul2025 04:17:17.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[29Jul2025 04:17:17.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[29Jul2025 04:17:17.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[29Jul2025 04:17:17.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[29Jul2025 04:17:17.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[29Jul2025 04:17:17.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[29Jul2025 04:17:17.753] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[29Jul2025 04:17:17.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[29Jul2025 04:17:17.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[29Jul2025 04:17:17.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[29Jul2025 04:17:17.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[29Jul2025 04:17:17.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[29Jul2025 04:17:17.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[29Jul2025 04:17:17.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[29Jul2025 04:17:17.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[29Jul2025 04:17:17.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[29Jul2025 04:17:17.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[29Jul2025 04:17:17.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[29Jul2025 04:17:17.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[29Jul2025 04:17:17.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[29Jul2025 04:17:17.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[29Jul2025 04:17:17.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[29Jul2025 04:17:17.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[29Jul2025 04:17:17.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[29Jul2025 04:17:18.027] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[29Jul2025 04:17:19.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/nether_ancient_portal1
+[29Jul2025 04:17:19.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_portal/nether_ancient_portal2
+[29Jul2025 04:17:31.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[29Jul2025 04:17:50.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 04:17:50.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
