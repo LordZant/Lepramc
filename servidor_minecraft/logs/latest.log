@@ -59,3 +59,98 @@
 [29Jul2025 00:36:15.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [29Jul2025 00:37:56.052] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [29Jul2025 00:37:56.052] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:42:13.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:55291] logged in with entity id 29165 at (-2121.5, 69.5625, 4091.5)
+[29Jul2025 00:42:13.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[29Jul2025 00:42:13.660] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[29Jul2025 00:42:13.678] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[29Jul2025 00:42:13.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Jul2025 00:42:13.679] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[29Jul2025 00:42:49.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[29Jul2025 00:42:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[29Jul2025 00:43:42.028] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b329266[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:55321) lost connection: Disconnected
+[29Jul2025 00:44:23.677] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43d1aeec[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:55329) lost connection: Disconnected
+[29Jul2025 00:45:03.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:55334] logged in with entity id 29570 at (-2121.5, 69.5625, 4091.5)
+[29Jul2025 00:45:03.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[29Jul2025 00:45:03.485] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[29Jul2025 00:45:03.501] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[29Jul2025 00:45:03.501] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Jul2025 00:45:03.502] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[29Jul2025 00:45:41.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> holi
+[29Jul2025 00:45:51.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> olo
+[29Jul2025 00:46:40.602] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:46:40.602] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:47:32.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:47:32.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[29Jul2025 00:47:42.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:48:05.302] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:49:36.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:55924] logged in with entity id 31255 at (-3108.2039315691322, 80.0625, 3710.986632375396)
+[29Jul2025 00:49:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[29Jul2025 00:49:36.162] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[29Jul2025 00:49:36.188] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[29Jul2025 00:49:36.188] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Jul2025 00:49:36.188] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[29Jul2025 00:49:44.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:50:02.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[29Jul2025 00:51:17.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:51:17.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:51:17.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[29Jul2025 00:51:40.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Jul2025 00:51:58.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
+[29Jul2025 00:52:18.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> oi
+[29Jul2025 00:52:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> lanza cuanto hueso tienes
+[29Jul2025 00:52:29.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> =
+[29Jul2025 00:52:40.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> 8 stacks
+[29Jul2025 00:52:48.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> te lo cambio
+[29Jul2025 00:53:01.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> cuanta carne ofreces??
+[29Jul2025 00:53:04.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 7.242568678269436,-7.497611864422822,-0.5192616245067256
+[29Jul2025 00:53:04.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.290955464043236,-8.582890571672834,-0.6156379343779008
+[29Jul2025 00:53:04.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.320640519283643,-9.667055965221607,-0.7838753127048221
+[29Jul2025 00:53:04.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.326152268376518,-10.750239416085861,-1.024355389905395
+[29Jul2025 00:53:04.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.31052837711104,-11.832556793502391,-1.328357384446008
+[29Jul2025 00:53:04.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.277721677454338,-12.914110294138027,-1.686812696162633
+[29Jul2025 00:53:04.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.230638293503944,-13.994990055452888,-2.0923236556996017
+[29Jul2025 00:53:04.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.171005696740394,-15.075275578686842,-2.539289820993872
+[29Jul2025 00:53:04.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.093510511810564,-16.155036983933456,-3.029881607759762
+[29Jul2025 00:53:04.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.986112552361647,-17.23433611711522,-3.5708468033058125
+[29Jul2025 00:53:04.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.641692845821126,-11.902156629595225,-3.6880563892591454
+[29Jul2025 00:53:04.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.436291292349779,-12.980688426282,-4.340220796614631
+[29Jul2025 00:53:04.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.18774121638171,-14.058903044713986,-5.039497070156813
+[29Jul2025 00:53:14.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:53:14.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:53:14.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[29Jul2025 00:53:18.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Jul2025 00:53:18.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> 16 brochetas
+[29Jul2025 00:53:25.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:53:25.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:53:25.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[29Jul2025 00:53:28.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> va
+[29Jul2025 00:53:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> 20 de huesote doy por eso
+[29Jul2025 00:53:45.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ven
+[29Jul2025 00:53:58.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/17316, l='ServerLevel[world]', x=-2062.49, y=67.00, z=3977.51] died, message: 'Librarian was slain by Zombie'
+[29Jul2025 00:54:15.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9915, l='ServerLevel[world]', x=-2062.49, y=67.00, z=3975.51] died, message: 'Librarian was slain by Zombie'
+[29Jul2025 00:54:30.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> y por esto?
+[29Jul2025 00:54:53.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> nono solo carne pa mi dragon
+[29Jul2025 00:55:09.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> toma
+[29Jul2025 00:55:14.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:55:14.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:55:14.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:55:14.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:55:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> y eso
+[29Jul2025 00:55:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> escupime
+[29Jul2025 00:56:15.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:56:15.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:56:15.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:56:15.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:56:15.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:56:15.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[29Jul2025 00:56:26.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Jul2025 00:56:51.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Jul2025 00:57:09.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[29Jul2025 00:57:27.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[29Jul2025 00:57:59.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Jul2025 00:58:07.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Junior Summoner]
+[29Jul2025 00:58:19.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[29Jul2025 00:58:52.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Jul2025 00:58:55.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[29Jul2025 00:59:10.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[29Jul2025 00:59:11.051] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
