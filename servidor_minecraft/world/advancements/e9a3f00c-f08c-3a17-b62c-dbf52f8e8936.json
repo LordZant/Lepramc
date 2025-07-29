@@ -1258,5 +1258,17 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-29 16:29:44 +0000"
+    },
+    "done": false
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-07-29 16:16:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

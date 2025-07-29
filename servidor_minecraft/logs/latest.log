@@ -860,3 +860,5 @@
 [29Jul2025 16:09:36.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [29Jul2025 16:10:05.947] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/168, l='ServerLevel[world]', x=1710.39, y=71.00, z=-8452.69] died, message: 'Villager was slain by Zombie'
 [29Jul2025 16:16:12.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [The Andesite Age]
+[29Jul2025 16:21:51.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
+[29Jul2025 16:21:51.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
