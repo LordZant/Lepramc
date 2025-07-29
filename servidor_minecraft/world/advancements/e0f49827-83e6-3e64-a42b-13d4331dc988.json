@@ -591,6 +591,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-26 23:54:21 +0000",
+      "minecraft:mushroom_fields": "2025-07-29 03:22:30 +0000",
       "minecraft:taiga": "2025-07-26 17:03:05 +0000",
       "minecraft:deep_ocean": "2025-07-29 01:00:09 +0000",
       "minecraft:birch_forest": "2025-07-26 01:15:37 +0000",
@@ -1086,6 +1087,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-07-27 04:09:17 +0000",
+      "minecraft:pig": "2025-07-29 03:29:13 +0000",
       "minecraft:sheep": "2025-07-27 18:23:23 +0000"
     },
     "done": false
@@ -1236,75 +1238,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 03:22:08 +0000"
+      "log_spam_fixer": "2025-07-29 03:42:48 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-29 03:37:33 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

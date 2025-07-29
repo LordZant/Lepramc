@@ -859,3 +859,36 @@
 [29Jul2025 03:25:38.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [29Jul2025 03:25:56.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3330ms or 66 ticks behind
 [29Jul2025 03:26:14.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3057ms or 61 ticks behind
+[29Jul2025 03:26:32.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[29Jul2025 03:26:38.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has reached the goal [Zombie Doctor]
+[29Jul2025 03:26:49.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Jul2025 03:27:22.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Jul2025 03:27:39.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[29Jul2025 03:28:45.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[29Jul2025 03:29:02.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[29Jul2025 03:29:19.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
+[29Jul2025 03:29:43.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Jul2025 03:30:46.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Jul2025 03:31:41.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzzz
+[29Jul2025 03:32:17.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/308, l='ServerLevel[world]', x=-2063.49, y=67.00, z=3974.49] died, message: 'Librarian was slain by Zombie'
+[29Jul2025 03:33:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> zzzzzz
+[29Jul2025 03:33:48.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[29Jul2025 03:33:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[29Jul2025 03:33:58.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE was kicked for floating too long!
+[29Jul2025 03:33:58.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ALANBRE lost connection: Disconnected
+[29Jul2025 03:33:58.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE left the game
+[29Jul2025 03:33:58.423] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jul2025 03:35:05.299] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ef27bc9[id=<null>,name=ALANBRE,properties={},legacy=false] (/10.147.18.24:53151) lost connection: Disconnected
+[29Jul2025 03:35:35.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[29Jul2025 03:35:38.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[29Jul2025 03:35:50.494] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72b55b2[id=<null>,name=ALANBRE,properties={},legacy=false] (/10.147.18.24:53154) lost connection: Disconnected
+[29Jul2025 03:36:20.175] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:53162] logged in with entity id 15467 at (-2057.3694633817117, 78.44832647914617, 4018.3490111200754)
+[29Jul2025 03:36:20.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[29Jul2025 03:36:20.267] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[29Jul2025 03:36:20.291] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[29Jul2025 03:36:20.292] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[29Jul2025 03:36:20.293] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[29Jul2025 03:37:08.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[29Jul2025 03:37:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Spooky Scary Skeleton]
+[29Jul2025 03:39:40.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[29Jul2025 03:44:44.070] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
