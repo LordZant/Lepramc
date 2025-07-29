@@ -1261,5 +1261,17 @@
     },
     "done": true
   },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-07-29 15:55:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-29 15:54:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

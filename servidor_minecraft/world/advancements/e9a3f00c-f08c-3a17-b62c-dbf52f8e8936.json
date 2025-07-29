@@ -596,6 +596,7 @@
       "minecraft:creeper": "2025-07-22 02:58:14 +0000",
       "minecraft:slime": "2025-07-28 00:53:00 +0000",
       "quark:forgotten": "2025-07-27 04:08:11 +0000",
+      "minecraft:zombified_piglin": "2025-07-29 15:52:47 +0000",
       "minecraft:witch": "2025-07-27 02:55:49 +0000",
       "minecraft:wither_skeleton": "2025-07-28 01:21:40 +0000",
       "minecraft:husk": "2025-07-23 22:46:43 +0000",
@@ -1044,9 +1045,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-07-29 16:03:05 +0000",
       "1": "2025-07-26 16:33:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
