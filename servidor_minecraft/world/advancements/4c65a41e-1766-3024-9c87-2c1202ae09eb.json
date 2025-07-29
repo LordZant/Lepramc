@@ -916,6 +916,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-07-29 00:23:24 +0000",
       "sweet_berries": "2025-07-26 18:13:03 +0000",
       "tomato": "2025-07-27 19:38:41 +0000",
       "brown_mushroom": "2025-07-23 19:17:09 +0000",
