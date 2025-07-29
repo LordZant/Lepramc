@@ -527,9 +527,11 @@
       "minecraft:spider": "2025-07-25 20:16:57 +0000",
       "minecraft:creeper": "2025-07-26 01:39:30 +0000",
       "minecraft:slime": "2025-07-26 15:59:45 +0000",
+      "minecraft:phantom": "2025-07-29 17:17:25 +0000",
       "minecraft:wither_skeleton": "2025-07-26 15:58:28 +0000",
       "minecraft:piglin": "2025-07-29 04:22:09 +0000",
       "minecraft:enderman": "2025-07-27 21:41:55 +0000",
+      "minecraft:stray": "2025-07-29 17:12:28 +0000",
       "minecraft:zombie": "2025-07-25 20:16:35 +0000",
       "minecraft:zombie_villager": "2025-07-28 22:05:02 +0000"
     },
@@ -596,6 +598,7 @@
       "minecraft:taiga": "2025-07-26 17:03:05 +0000",
       "minecraft:deep_ocean": "2025-07-29 01:00:09 +0000",
       "minecraft:birch_forest": "2025-07-26 01:15:37 +0000",
+      "minecraft:bamboo_jungle": "2025-07-29 17:10:42 +0000",
       "minecraft:savanna_plateau": "2025-07-26 01:53:45 +0000",
       "minecraft:beach": "2025-07-25 20:26:32 +0000",
       "minecraft:dark_forest": "2025-07-25 20:26:14 +0000",
@@ -1270,6 +1273,12 @@
   "ars_nouveau:poof_mob": {
     "criteria": {
       "poof_mob": "2025-07-29 15:55:53 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2025-07-29 17:19:20 +0000"
     },
     "done": true
   },
