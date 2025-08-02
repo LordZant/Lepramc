@@ -605,6 +605,7 @@
       "minecraft:piglin": "2025-07-23 02:48:41 +0000",
       "minecraft:enderman": "2025-07-27 02:59:58 +0000",
       "minecraft:stray": "2025-08-02 02:18:01 +0000",
+      "minecraft:silverfish": "2025-08-02 03:37:07 +0000",
       "minecraft:zombie": "2025-07-22 02:55:46 +0000",
       "minecraft:drowned": "2025-07-23 04:01:17 +0000",
       "minecraft:zombie_villager": "2025-07-28 00:54:27 +0000"
@@ -1311,6 +1312,18 @@
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2025-08-02 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-08-02 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "idas:ancient_mines": {
+    "criteria": {
+      "in_ancient_mines": "2025-08-02 03:30:30 +0000"
     },
     "done": true
   },
