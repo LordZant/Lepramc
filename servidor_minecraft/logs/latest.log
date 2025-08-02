@@ -937,3 +937,13 @@
 [02Aug2025 23:36:14.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [02Aug2025 23:36:37.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
 [02Aug2025 23:36:37.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[02Aug2025 23:46:26.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d083f29[id=<null>,name=RicardoAxel3,properties={},legacy=false] (/10.147.18.118:61976) lost connection: Disconnected
+[02Aug2025 23:46:50.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:62020] logged in with entity id 33941 at (127.99847273767578, 67.0, 308.598645124307)
+[02Aug2025 23:46:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[02Aug2025 23:46:50.871] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[02Aug2025 23:46:50.893] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[02Aug2025 23:46:50.894] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 23:46:50.894] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[02Aug2025 23:47:36.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> zzz
+[02Aug2025 23:47:42.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> cabron
+[02Aug2025 23:47:45.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> estoy en el end
