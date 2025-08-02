@@ -510,6 +510,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-24 00:07:47 +0000",
       "cooked_cod": "2025-07-29 01:29:03 +0000",
+      "bread": "2025-08-02 02:21:46 +0000",
       "cooked_chicken": "2025-07-29 01:32:47 +0000",
       "carrot": "2025-07-24 00:12:28 +0000"
     },
@@ -580,9 +581,33 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-08-02 02:26:11 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-08-02 02:13:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-08-02 02:26:43 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-08-02 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-02 02:21:30 +0000"
     },
     "done": true
   },

@@ -886,3 +886,64 @@
 [02Aug2025 02:19:34.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
 [02Aug2025 02:19:52.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
 [02Aug2025 02:19:56.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 is bleeding. Matmaster42 was slain by Nightmare Stalker
+[02Aug2025 02:20:04.808] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 02:20:11.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3981ms or 79 ticks behind
+[02Aug2025 02:20:29.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
+[02Aug2025 02:20:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 was slain by Nightmare Stalker
+[02Aug2025 02:20:30.168] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Matmaster42 at X: -447.7927703510612, Y: 35.0, Z: -383.6508064819865
+[02Aug2025 02:20:39.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 02:20:39.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 02:21:22.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Aug2025 02:21:30.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 has made the advancement [Sweet Dreams]
+[02Aug2025 02:21:40.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[02Aug2025 02:21:58.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
+[02Aug2025 02:22:02.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 02:22:02.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 02:22:02.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 02:22:02.874] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 02:22:16.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 02:22:35.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02Aug2025 02:22:55.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Aug2025 02:23:12.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:57233] logged in with entity id 17274 at (-2072.1338330336253, 123.90657364239173, 3837.9476671629277)
+[02Aug2025 02:23:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[02Aug2025 02:23:13.047] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[02Aug2025 02:23:13.067] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[02Aug2025 02:23:13.068] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 02:23:13.068] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[02Aug2025 02:23:13.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[02Aug2025 02:23:28.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 02:23:33.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5349ms or 106 ticks behind
+[02Aug2025 02:23:34.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 02:23:48.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 02:23:48.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 02:23:48.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 02:23:55.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7354ms or 147 ticks behind
+[02Aug2025 02:24:17.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[02Aug2025 02:24:36.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[02Aug2025 02:24:57.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5864ms or 117 ticks behind
+[02Aug2025 02:25:17.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5394ms or 107 ticks behind
+[02Aug2025 02:25:20.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Life turned out to be a comedy]
+[02Aug2025 02:25:38.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5982ms or 119 ticks behind
+[02Aug2025 02:25:59.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5847ms or 116 ticks behind
+[02Aug2025 02:26:11.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 has made the advancement [This Must be a Sign!]
+[02Aug2025 02:26:16.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ALAN
+[02Aug2025 02:26:20.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5901ms or 118 ticks behind
+[02Aug2025 02:26:27.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> ooa
+[02Aug2025 02:26:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> ME ROBASTE HUESO??
+[02Aug2025 02:26:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> nop
+[02Aug2025 02:26:37.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> mentiroso
+[02Aug2025 02:26:41.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5922ms or 118 ticks behind
+[02Aug2025 02:26:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 has made the advancement [It's an Emu!!!]
+[02Aug2025 02:26:46.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> loco no te robe weso
+[02Aug2025 02:26:51.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> estoy en dungeon
+[02Aug2025 02:27:03.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6866ms or 137 ticks behind
+[02Aug2025 02:27:26.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7907ms or 158 ticks behind
+[02Aug2025 02:27:48.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7042ms or 140 ticks behind
+[02Aug2025 02:28:12.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8921ms or 178 ticks behind
+[02Aug2025 02:28:34.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7069ms or 141 ticks behind
+[02Aug2025 02:28:55.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6319ms or 126 ticks behind
+[02Aug2025 02:29:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [They Have a Cave Troll!]
+[02Aug2025 02:29:16.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6077ms or 121 ticks behind
+[02Aug2025 02:29:37.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6411ms or 128 ticks behind
+[02Aug2025 02:29:58.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5792ms or 115 ticks behind
+[02Aug2025 02:30:19.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5878ms or 117 ticks behind
