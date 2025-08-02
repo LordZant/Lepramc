@@ -536,6 +536,7 @@
       "baked_potato": "2025-07-27 16:59:47 +0000",
       "apple": "2025-07-26 01:48:36 +0000",
       "potato": "2025-07-27 19:13:08 +0000",
+      "pumpkin_pie": "2025-08-02 02:58:51 +0000",
       "mutton": "2025-07-27 16:55:07 +0000",
       "bread": "2025-07-25 20:07:43 +0000",
       "golden_apple": "2025-07-25 20:14:02 +0000",
@@ -987,6 +988,12 @@
     },
     "done": true
   },
+  "boliviamod:advancement_it_all_looks_delicious": {
+    "criteria": {
+      "advancement_it_all_looks_delicious_0": "2025-08-02 03:01:32 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
       "has_items": "2025-08-02 02:39:53 +0000"
@@ -996,6 +1003,12 @@
   "enigmaticlegacy:main/magnet_ring": {
     "criteria": {
       "spellstone": "2025-08-02 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-08-02 03:02:16 +0000"
     },
     "done": true
   },
