@@ -13978,3 +13978,17 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Aug2025 23:06:38.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
 [02Aug2025 23:07:22.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Aug2025 23:07:22.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2025 23:09:48.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Tools of the Trade]
+[02Aug2025 23:10:16.741] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (78b65800-57c8-4809-b9b3-7910b89420b7)
+[02Aug2025 23:11:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has reached the goal [Quaint Scribe]
+[02Aug2025 23:11:44.747] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[02Aug2025 23:12:22.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2025 23:12:22.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2025 23:12:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Into Fire]
+[02Aug2025 23:13:21.687] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (fbb3b3f9-e6c0-45f0-97ff-fea55dd27e76)
+[02Aug2025 23:15:17.157] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (78b65800-57c8-4809-b9b3-7910b89420b7)
+[02Aug2025 23:15:58.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [A Ruined Citadel]
+[02Aug2025 23:16:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> zzz?
+[02Aug2025 23:16:46.302] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[02Aug2025 23:17:22.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2025 23:17:22.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

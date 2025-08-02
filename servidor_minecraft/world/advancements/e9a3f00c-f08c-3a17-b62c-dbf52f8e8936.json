@@ -1440,6 +1440,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-08-02 23:15:58 +0000"
+    },
+    "done": true
+  },
   "ancient_golems:with_this_treasure": {
     "criteria": {
       "with_this_treasure_0": "2025-08-02 23:06:18 +0000"
