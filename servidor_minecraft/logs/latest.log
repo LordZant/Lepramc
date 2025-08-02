@@ -826,3 +826,36 @@
 [02Aug2025 00:42:26.140] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mddc6d98$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [02Aug2025 00:42:47.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
 [02Aug2025 00:42:47.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[02Aug2025 00:55:32.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:54434] logged in with entity id 4948 at (1708.2026933561497, 64.0, -8533.82961461191)
+[02Aug2025 00:55:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[02Aug2025 00:55:32.239] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[02Aug2025 00:55:32.262] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[02Aug2025 00:55:32.262] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 00:55:32.263] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[02Aug2025 00:55:50.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> hola mi amor
+[02Aug2025 00:56:58.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:51199] logged in with entity id 6032 at (-2122.865945927516, 69.5625, 4091.708873667965)
+[02Aug2025 00:56:58.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[02Aug2025 00:56:58.841] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[02Aug2025 00:56:58.865] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[02Aug2025 00:56:58.866] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 00:56:58.866] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[02Aug2025 00:56:59.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 00:56:59.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 00:59:47.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[02Aug2025 01:00:08.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5920ms or 118 ticks behind
+[02Aug2025 01:00:25.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
+[02Aug2025 01:00:45.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Aug2025 01:01:02.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[02Aug2025 01:01:20.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
+[02Aug2025 01:01:40.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4936ms or 98 ticks behind
+[02Aug2025 01:01:59.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4291ms or 85 ticks behind
+[02Aug2025 01:02:17.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
+[02Aug2025 01:02:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> hola mi amor
+[02Aug2025 01:02:35.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02Aug2025 01:02:53.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[02Aug2025 01:03:10.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[02Aug2025 01:03:28.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3064ms or 61 ticks behind
+[02Aug2025 01:03:46.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
+[02Aug2025 01:03:51.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> velo tu mismo
+[02Aug2025 01:04:21.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02Aug2025 01:05:11.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
