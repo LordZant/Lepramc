@@ -930,3 +930,10 @@
 [02Aug2025 23:26:44.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
 [02Aug2025 23:27:54.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [02Aug2025 23:27:54.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 23:28:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> zzz?
+[02Aug2025 23:34:34.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [What a Deal!]
+[02Aug2025 23:34:57.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! 13.994818304851606,-10.0,-7.704767427045226
+[02Aug2025 23:36:00.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Postmortal]
+[02Aug2025 23:36:14.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 23:36:37.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[02Aug2025 23:36:37.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game

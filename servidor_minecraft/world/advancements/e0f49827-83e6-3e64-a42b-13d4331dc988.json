@@ -1461,6 +1461,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-02 23:36:00 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/void_stone": {
     "criteria": {
       "has_items": "2025-08-02 23:13:04 +0000"
