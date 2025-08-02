@@ -1368,3 +1368,84 @@
 [02Aug2025 03:42:53.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6264ms or 125 ticks behind
 [02Aug2025 03:42:59.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 5.723002424633705,-0.07158957170292979,-8.680864020576792
 [02Aug2025 03:42:59.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 6.092077377148598,-0.07562015038476488,-9.72942061448066
+[02Aug2025 03:43:13.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5441ms or 108 ticks behind
+[02Aug2025 03:43:31.598] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 03:43:33.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
+[02Aug2025 03:43:54.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6209ms or 124 ticks behind
+[02Aug2025 03:43:55.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> alan
+[02Aug2025 03:43:59.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> ime
+[02Aug2025 03:44:01.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> vamos a matar al dragon
+[02Aug2025 03:44:10.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> jssjsj
+[02Aug2025 03:44:15.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6227ms or 124 ticks behind
+[02Aug2025 03:44:19.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> de que te ries
+[02Aug2025 03:44:28.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 03:44:28.192] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 03:44:32.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> q me estaba por ir
+[02Aug2025 03:44:35.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4567ms or 91 ticks behind
+[02Aug2025 03:44:40.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 03:44:40.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 03:44:41.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rodjes7> bueno ya no
+[02Aug2025 03:44:55.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5094ms or 101 ticks behind
+[02Aug2025 03:45:10.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.5348581299399484,0.0,-10.072875331400837
+[02Aug2025 03:45:10.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.5909056039822644,0.0,-11.512908726141404
+[02Aug2025 03:45:10.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.6424762159426791,0.0,-12.953139049753872
+[02Aug2025 03:45:15.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5884ms or 117 ticks behind
+[02Aug2025 03:45:35.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4286ms or 85 ticks behind
+[02Aug2025 03:45:54.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3857ms or 77 ticks behind
+[02Aug2025 03:46:13.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4279ms or 85 ticks behind
+[02Aug2025 03:46:19.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 10.982037028319382,0.0,-0.343409305834939
+[02Aug2025 03:46:19.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.292297681065293,0.0,-0.6840640749719569
+[02Aug2025 03:46:31.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[02Aug2025 03:46:53.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[02Aug2025 03:47:12.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02Aug2025 03:47:30.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 03:47:48.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
+[02Aug2025 03:48:10.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Aug2025 03:48:28.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[02Aug2025 03:48:47.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4084ms or 81 ticks behind
+[02Aug2025 03:48:53.637] [pool-8-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn]] from pos BlockPos{x=2555, y=71, z=-9701}
+[02Aug2025 03:48:54.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2555, y=71, z=-9701} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[02Aug2025 03:48:54.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2555, y=71, z=-9701}
+[02Aug2025 03:48:54.587] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2555, y=71, z=-9700} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[02Aug2025 03:48:54.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2555, y=71, z=-9700}
+[02Aug2025 03:48:54.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2555, y=70, z=-9700} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[02Aug2025 03:48:54.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=2555, y=70, z=-9700}
+[02Aug2025 03:49:09.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6396ms or 127 ticks behind
+[02Aug2025 03:49:29.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5644ms or 112 ticks behind
+[02Aug2025 03:49:50.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6103ms or 122 ticks behind
+[02Aug2025 03:50:11.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5791ms or 115 ticks behind
+[02Aug2025 03:50:31.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[02Aug2025 03:50:51.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4846ms or 96 ticks behind
+[02Aug2025 03:51:13.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6563ms or 131 ticks behind
+[02Aug2025 03:51:35.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7349ms or 146 ticks behind
+[02Aug2025 03:51:57.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7317ms or 146 ticks behind
+[02Aug2025 03:52:21.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8745ms or 174 ticks behind
+[02Aug2025 03:52:27.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has reached the goal [Horror Under the Mantle]
+[02Aug2025 03:52:47.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10823ms or 216 ticks behind
+[02Aug2025 03:52:49.139] [pool-8-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains]] from pos BlockPos{x=2149, y=75, z=-9301}
+[02Aug2025 03:52:53.684] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:53.684] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:53.685] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:53.995] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.411] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.421] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.422] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.422] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.422] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.423] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.526] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.536] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.537] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.537] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.537] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:54.538] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:58.945] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:52:58.946] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Aug2025 03:53:08.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 9.273413517967128,0.0,4.055907220916538
+[02Aug2025 03:53:08.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 9.700101576700945,0.0,4.244527064337859
+[02Aug2025 03:53:08.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 10.076440444503987,0.0,4.410889766235471
+[02Aug2025 03:53:08.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6606ms or 132 ticks behind
+[02Aug2025 03:53:29.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5759ms or 115 ticks behind
+[02Aug2025 03:53:51.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6890ms or 137 ticks behind
+[02Aug2025 03:54:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has completed the challenge [Ancient Mines]
+[02Aug2025 03:54:10.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4283ms or 85 ticks behind
