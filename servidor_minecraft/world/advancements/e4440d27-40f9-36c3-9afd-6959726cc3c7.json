@@ -585,57 +585,15 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-08-02 02:26:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-08-02 02:39:53 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-08-02 02:35:14 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-08-02 02:13:35 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
+  "idas:tinkers_workshop": {
     "criteria": {
-      "killed_by": "2025-08-02 02:26:43 +0000"
-    },
-    "done": true
-  },
-  "boliviamod:advancement_discovering_new_crops": {
-    "criteria": {
-      "advancement_discovering_new_crops_0": "2025-08-02 02:35:09 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-08-02 02:22:57 +0000"
-    },
-    "done": true
-  },
-  "boliviamod:advancement_mineral_wealth": {
-    "criteria": {
-      "advancement_mineral_wealth_0": "2025-08-02 02:40:12 +0000"
-    },
-    "done": true
-  },
-  "boliviamod:advancement_fruit_grower": {
-    "criteria": {
-      "advancement_fruit_grower_0": "2025-08-02 02:35:04 +0000"
+      "in_tinkers_workshop": "2025-08-02 02:13:58 +0000"
     },
     "done": true
   },
@@ -645,9 +603,39 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
-      "diamond": "2025-08-02 02:54:34 +0000"
+      "is_near_beehive": "2025-08-02 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-08-02 02:26:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-08-02 02:26:43 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_fruit_grower": {
+    "criteria": {
+      "advancement_fruit_grower_0": "2025-08-02 02:35:04 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2025-08-02 02:35:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-08-02 02:35:14 +0000"
     },
     "done": true
   },
@@ -657,9 +645,99 @@
     },
     "done": true
   },
-  "idas:tinkers_workshop": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "in_tinkers_workshop": "2025-08-02 02:13:58 +0000"
+      "deflected_projectile": "2025-08-02 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2025-08-02 02:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-02 02:54:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 03:13:42 +0000"
+    },
+    "done": false
+  },
+  "boliviamod:achievement_wealth_of_nature": {
+    "criteria": {
+      "achievement_wealth_of_nature_0": "2025-08-02 03:13:51 +0000"
     },
     "done": true
   },
