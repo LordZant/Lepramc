@@ -1429,5 +1429,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-08-02 22:16:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
