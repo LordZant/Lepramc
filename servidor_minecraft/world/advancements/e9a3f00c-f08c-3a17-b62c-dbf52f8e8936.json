@@ -1301,6 +1301,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-02 02:29:08 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-08-02 02:25:20 +0000"

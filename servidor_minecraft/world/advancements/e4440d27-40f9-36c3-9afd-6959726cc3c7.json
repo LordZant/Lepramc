@@ -457,10 +457,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-08-02 02:34:59 +0000",
       "minecraft:dark_forest": "2025-07-24 00:12:08 +0000",
       "minecraft:river": "2025-07-24 00:04:00 +0000",
       "minecraft:dripstone_caves": "2025-08-02 02:12:16 +0000",
-      "minecraft:lush_caves": "2025-07-24 00:16:59 +0000"
+      "minecraft:lush_caves": "2025-07-24 00:16:59 +0000",
+      "minecraft:plains": "2025-08-02 02:34:49 +0000"
     },
     "done": false
   },
@@ -509,6 +511,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-24 00:07:47 +0000",
+      "cooked_mutton": "2025-08-02 02:31:21 +0000",
+      "cooked_beef": "2025-08-02 02:30:54 +0000",
       "cooked_cod": "2025-07-29 01:29:03 +0000",
       "bread": "2025-08-02 02:21:46 +0000",
       "cooked_chicken": "2025-07-29 01:32:47 +0000",
@@ -599,9 +603,21 @@
     },
     "done": true
   },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2025-08-02 02:35:09 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-08-02 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_fruit_grower": {
+    "criteria": {
+      "advancement_fruit_grower_0": "2025-08-02 02:35:04 +0000"
     },
     "done": true
   },
