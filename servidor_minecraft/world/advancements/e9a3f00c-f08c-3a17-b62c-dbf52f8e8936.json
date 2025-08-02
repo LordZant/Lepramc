@@ -1316,81 +1316,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
+      "bypassingthe_expiration_date_0": "2025-08-02 02:42:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
+      "exorcism_0": "2025-08-02 02:45:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 04:51:47 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_infested_temple": {
-    "criteria": {
-      "location0": "2025-08-02 03:37:56 +0000"
+      "dismantledto_bones_0": "2025-08-02 03:26:45 +0000"
     },
     "done": true
   },
@@ -1400,15 +1340,9 @@
     },
     "done": true
   },
-  "enigmaticlegacy:book/brewing/recall_potion": {
+  "dungeons_arise:find_infested_temple": {
     "criteria": {
-      "has_items": "2025-08-02 04:14:11 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-08-02 02:45:18 +0000"
+      "location0": "2025-08-02 03:37:56 +0000"
     },
     "done": true
   },
@@ -1424,21 +1358,15 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-08-02 04:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold_betterstrongholds": "2025-08-02 04:29:59 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-08-02 03:26:45 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bypassingthe_expiration_date": {
-    "criteria": {
-      "bypassingthe_expiration_date_0": "2025-08-02 02:42:43 +0000"
     },
     "done": true
   },

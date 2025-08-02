@@ -836,3 +836,41 @@
 [02Aug2025 22:22:44.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [02Aug2025 22:23:07.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
 [02Aug2025 22:23:11.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 22:27:32.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:57520] logged in with entity id 3888 at (60.30000001192093, 20.0, 11.034885601419013)
+[02Aug2025 22:27:32.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[02Aug2025 22:27:32.612] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[02Aug2025 22:27:32.685] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[02Aug2025 22:27:32.698] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 22:27:32.699] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[02Aug2025 22:27:49.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 22:29:02.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 22:29:02.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 was kicked for floating too long!
+[02Aug2025 22:29:02.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Flying is not enabled on this server
+[02Aug2025 22:29:02.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[02Aug2025 22:29:02.544] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 22:29:15.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:55210] logged in with entity id 5109 at (-1233.9933699910973, 123.94564296842375, 6658.65736366313)
+[02Aug2025 22:29:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[02Aug2025 22:29:15.293] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[02Aug2025 22:29:15.324] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[02Aug2025 22:29:15.324] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 22:29:15.324] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[02Aug2025 22:30:00.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:53581] logged in with entity id 5399 at (1511.300000011921, 35.0, -7594.699999988079)
+[02Aug2025 22:30:00.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[02Aug2025 22:30:00.943] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[02Aug2025 22:30:00.966] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[02Aug2025 22:30:00.966] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 22:30:00.967] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[02Aug2025 22:32:47.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Gotta Get Out of Here]
+[02Aug2025 22:32:57.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5651, l='ServerLevel[world]', x=1611.70, y=16.00, z=-7613.30] died, message: 'Villager hit the ground too hard'
+[02Aug2025 22:32:57.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5737, l='ServerLevel[world]', x=1611.30, y=16.00, z=-7613.30] died, message: 'Fletcher hit the ground too hard'
+[02Aug2025 22:33:18.577] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/5534, l='ServerLevel[world]', x=1611.30, y=16.00, z=-7613.30] died, message: 'Shepherd hit the ground too hard'
+[02Aug2025 22:33:32.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/5668, l='ServerLevel[world]', x=1611.33, y=16.00, z=-7613.70] died, message: 'Toolsmith hit the ground too hard'
+[02Aug2025 22:33:33.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/5669, l='ServerLevel[world]', x=1611.70, y=16.00, z=-7613.30] died, message: 'Fletcher hit the ground too hard'
+[02Aug2025 22:33:39.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RicardoAxel3 lost connection: Disconnected
+[02Aug2025 22:33:39.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 left the game
+[02Aug2025 22:34:59.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 22:35:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Extraterrestrial Substance]
+[02Aug2025 22:35:55.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has reached the goal [Sky's the Limit]
+[02Aug2025 22:37:10.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 22:38:43.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 22:45:40.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [The End?]
