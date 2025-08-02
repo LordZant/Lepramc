@@ -587,6 +587,7 @@
       "minecraft:witch": "2025-07-28 01:42:57 +0000",
       "minecraft:wither_skeleton": "2025-07-28 20:17:34 +0000",
       "minecraft:husk": "2025-07-27 17:53:27 +0000",
+      "minecraft:cave_spider": "2025-08-02 03:56:28 +0000",
       "minecraft:zombie": "2025-07-25 20:14:56 +0000",
       "minecraft:zombie_villager": "2025-07-27 18:35:37 +0000"
     },
@@ -1011,6 +1012,12 @@
   "born_in_chaos_v1:bowfor_wizards": {
     "criteria": {
       "bowfor_wizards_0": "2025-08-02 03:17:12 +0000"
+    },
+    "done": true
+  },
+  "idas:ancient_mines": {
+    "criteria": {
+      "in_ancient_mines": "2025-08-02 03:54:02 +0000"
     },
     "done": true
   },
