@@ -912,3 +912,21 @@
 [02Aug2025 23:12:25.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has made the advancement [Into Fire]
 [02Aug2025 23:15:58.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [A Ruined Citadel]
 [02Aug2025 23:16:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> zzz?
+[02Aug2025 23:19:32.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 has completed the challenge [It's Purple!]
+[02Aug2025 23:19:57.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Palette Swap]
+[02Aug2025 23:20:05.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 23:21:59.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9870ms or 197 ticks behind
+[02Aug2025 23:21:59.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 moved too quickly! 0.7938255056369599,0.7531999805212024,10.100304882577575
+[02Aug2025 23:24:43.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[02Aug2025 23:24:43.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[02Aug2025 23:25:29.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:54466] logged in with entity id 28431 at (-1578.9619909531755, 59.0, -1398.851784963114)
+[02Aug2025 23:25:29.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[02Aug2025 23:25:29.280] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[02Aug2025 23:25:29.301] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[02Aug2025 23:25:29.301] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 23:25:29.305] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[02Aug2025 23:26:08.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 23:26:44.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[02Aug2025 23:26:44.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[02Aug2025 23:27:54.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 23:27:54.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already

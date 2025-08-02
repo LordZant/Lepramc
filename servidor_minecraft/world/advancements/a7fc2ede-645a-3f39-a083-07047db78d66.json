@@ -904,6 +904,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-08-02 23:19:32 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-08-02 23:09:48 +0000"
