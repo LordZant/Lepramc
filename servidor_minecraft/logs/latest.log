@@ -883,3 +883,27 @@
 [02Aug2025 22:57:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Ender Distancing]
 [02Aug2025 22:57:05.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Race Against The Clock]
 [02Aug2025 22:57:06.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Capsid-19]
+[02Aug2025 22:59:17.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 22:59:28.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RicardoAxel3[/10.147.18.118:59374] logged in with entity id 17028 at (47.903523012023356, 26.0, 13.326234765562154)
+[02Aug2025 22:59:28.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RicardoAxel3 joined the game
+[02Aug2025 22:59:28.211] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: RicardoAxel3
+[02Aug2025 22:59:28.236] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to RicardoAxel3...
+[02Aug2025 22:59:28.236] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 22:59:28.236] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to RicardoAxel3
+[02Aug2025 22:59:36.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> un disc?
+[02Aug2025 22:59:42.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[02Aug2025 22:59:42.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[02Aug2025 22:59:45.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RicardoAxel3> XD
+[02Aug2025 23:00:52.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:54049] logged in with entity id 18700 at (-1335.3792427836813, 57.0, 173.74787141544377)
+[02Aug2025 23:00:52.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[02Aug2025 23:00:52.882] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[02Aug2025 23:00:52.903] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[02Aug2025 23:00:52.904] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 23:00:52.904] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[02Aug2025 23:03:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 has made the advancement [Three Little Birds]
+[02Aug2025 23:04:56.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved too quickly! -9.248073253567327,-28.0,-15.553765787059092
+[02Aug2025 23:05:10.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 23:05:50.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 23:06:01.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 23:06:12.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[02Aug2025 23:06:18.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has completed the challenge [With this treasure, I summon!]
