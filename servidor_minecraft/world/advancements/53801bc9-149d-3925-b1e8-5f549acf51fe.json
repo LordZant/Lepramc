@@ -986,5 +986,17 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2025-08-02 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-08-02 02:39:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

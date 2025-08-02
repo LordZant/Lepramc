@@ -497,6 +497,7 @@
       "minecraft:sparse_jungle": "2025-07-22 02:15:55 +0000",
       "minecraft:river": "2025-07-22 02:15:57 +0000",
       "minecraft:lukewarm_ocean": "2025-07-23 03:00:24 +0000",
+      "minecraft:snowy_plains": "2025-08-02 02:45:52 +0000",
       "minecraft:snowy_taiga": "2025-07-27 03:54:03 +0000",
       "minecraft:cold_ocean": "2025-07-27 03:15:13 +0000",
       "minecraft:forest": "2025-07-23 04:22:56 +0000",
@@ -1301,15 +1302,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-08-02 02:25:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2025-08-02 02:29:08 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-08-02 02:25:20 +0000"
+      "exorcism_0": "2025-08-02 02:45:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-08-02 02:42:43 +0000"
     },
     "done": true
   },

@@ -591,6 +591,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-02 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-08-02 02:35:14 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-08-02 02:13:35 +0000"
@@ -615,6 +627,12 @@
     },
     "done": true
   },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2025-08-02 02:40:12 +0000"
+    },
+    "done": true
+  },
   "boliviamod:advancement_fruit_grower": {
     "criteria": {
       "advancement_fruit_grower_0": "2025-08-02 02:35:04 +0000"
@@ -624,6 +642,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-02 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-08-02 02:38:48 +0000"
     },
     "done": true
   },
