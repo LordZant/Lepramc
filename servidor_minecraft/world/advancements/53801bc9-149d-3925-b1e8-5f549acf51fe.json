@@ -1038,9 +1038,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-08-02 03:26:48 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/find_scroll_howling": {
     "criteria": {
       "find": "2025-08-02 03:20:50 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-08-02 03:23:14 +0000"
     },
     "done": true
   },
