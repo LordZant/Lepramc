@@ -433,6 +433,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-02 04:12:40 +0000",
       "minecraft:birch_forest": "2025-08-02 02:51:38 +0000",
       "minecraft:bamboo_jungle": "2025-07-27 17:49:20 +0000",
       "minecraft:savanna_plateau": "2025-07-26 01:53:24 +0000",
@@ -581,6 +582,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-28 01:13:17 +0000",
       "minecraft:skeleton": "2025-07-25 20:15:00 +0000",
+      "minecraft:ravager": "2025-08-02 04:11:01 +0000",
       "minecraft:spider": "2025-07-25 20:18:13 +0000",
       "minecraft:creeper": "2025-07-26 01:22:45 +0000",
       "minecraft:slime": "2025-07-28 20:19:31 +0000",
@@ -588,6 +590,7 @@
       "minecraft:wither_skeleton": "2025-07-28 20:17:34 +0000",
       "minecraft:husk": "2025-07-27 17:53:27 +0000",
       "minecraft:cave_spider": "2025-08-02 03:56:28 +0000",
+      "minecraft:silverfish": "2025-08-02 04:07:11 +0000",
       "minecraft:zombie": "2025-07-25 20:14:56 +0000",
       "minecraft:zombie_villager": "2025-07-27 18:35:37 +0000"
     },
@@ -1012,6 +1015,12 @@
   "born_in_chaos_v1:bowfor_wizards": {
     "criteria": {
       "bowfor_wizards_0": "2025-08-02 03:17:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-08-02 04:09:58 +0000"
     },
     "done": true
   },
