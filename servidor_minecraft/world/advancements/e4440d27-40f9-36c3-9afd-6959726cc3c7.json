@@ -459,6 +459,7 @@
     "criteria": {
       "minecraft:dark_forest": "2025-07-24 00:12:08 +0000",
       "minecraft:river": "2025-07-24 00:04:00 +0000",
+      "minecraft:dripstone_caves": "2025-08-02 02:12:16 +0000",
       "minecraft:lush_caves": "2025-07-24 00:16:59 +0000"
     },
     "done": false
@@ -530,6 +531,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-24 00:13:59 +0000",
       "minecraft:spider": "2025-07-24 00:28:02 +0000",
+      "minecraft:creeper": "2025-08-02 02:12:57 +0000",
       "minecraft:zombie": "2025-07-24 00:24:55 +0000",
       "minecraft:zombie_villager": "2025-07-29 01:29:08 +0000"
     },
@@ -566,77 +568,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
+      "iron_chestplate": "2025-07-29 01:28:25 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-29 01:32:52 +0000"
-    },
-    "done": false
+    "done": true
   },
   "tetra:spelunking/root": {
     "criteria": {
@@ -644,9 +580,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "iron_chestplate": "2025-07-29 01:28:25 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-08-02 02:13:35 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2025-08-02 02:13:58 +0000"
     },
     "done": true
   },

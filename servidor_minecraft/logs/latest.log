@@ -832,3 +832,57 @@
 [02Aug2025 02:06:40.997] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdbfd8f1$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [02Aug2025 02:08:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> holi
 [02Aug2025 02:08:48.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> hola mi amor
+[02Aug2025 02:09:08.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matmaster42[/10.147.18.231:53895] logged in with entity id 5570 at (-385.35910497202866, 67.0, -312.7230534506724)
+[02Aug2025 02:09:08.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 joined the game
+[02Aug2025 02:09:08.351] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Matmaster42
+[02Aug2025 02:09:08.385] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Matmaster42...
+[02Aug2025 02:09:08.385] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 02:09:08.386] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Matmaster42
+[02Aug2025 02:09:17.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02Aug2025 02:09:37.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5329ms or 106 ticks behind
+[02Aug2025 02:09:50.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matmaster42 lost connection: Timed out
+[02Aug2025 02:09:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 left the game
+[02Aug2025 02:09:55.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[02Aug2025 02:10:01.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matmaster42[/10.147.18.231:54049] logged in with entity id 6870 at (-385.35910497202866, 67.0, -312.7230534506724)
+[02Aug2025 02:10:01.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 joined the game
+[02Aug2025 02:10:01.980] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Matmaster42
+[02Aug2025 02:10:02.014] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Matmaster42...
+[02Aug2025 02:10:02.014] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Aug2025 02:10:02.015] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Matmaster42
+[02Aug2025 02:10:22.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Aug2025 02:10:45.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[02Aug2025 02:11:02.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Aug2025 02:11:23.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 02:11:44.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Aug2025 02:12:01.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[02Aug2025 02:12:20.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 02:12:41.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02Aug2025 02:12:52.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 02:13:02.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[02Aug2025 02:13:19.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Aug2025 02:13:35.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 has made the advancement [Life turned out to be a comedy]
+[02Aug2025 02:13:36.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2711ms or 54 ticks behind
+[02Aug2025 02:13:56.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4532ms or 90 ticks behind
+[02Aug2025 02:13:58.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 has completed the challenge [Tinker's Workshop]
+[02Aug2025 02:14:24.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02Aug2025 02:14:46.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Aug2025 02:15:08.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02Aug2025 02:15:27.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02Aug2025 02:15:45.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2962ms or 59 ticks behind
+[02Aug2025 02:16:02.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[02Aug2025 02:16:20.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[02Aug2025 02:16:37.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[02Aug2025 02:16:55.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[02Aug2025 02:17:13.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3058ms or 61 ticks behind
+[02Aug2025 02:17:30.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[02Aug2025 02:17:47.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[02Aug2025 02:18:04.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[02Aug2025 02:18:21.071] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[02Aug2025 02:18:21.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[02Aug2025 02:18:22.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3008ms or 60 ticks behind
+[02Aug2025 02:18:41.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[02Aug2025 02:18:59.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3253ms or 65 ticks behind
+[02Aug2025 02:19:17.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[02Aug2025 02:19:34.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
+[02Aug2025 02:19:52.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[02Aug2025 02:19:56.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matmaster42 is bleeding. Matmaster42 was slain by Nightmare Stalker
