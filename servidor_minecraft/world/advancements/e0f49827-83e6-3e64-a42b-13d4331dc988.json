@@ -625,7 +625,8 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_0": "2025-07-25 20:16:29 +0000",
-      "charm_collector_4": "2025-07-25 20:18:08 +0000"
+      "charm_collector_4": "2025-07-25 20:18:08 +0000",
+      "charm_collector_3": "2025-08-02 01:07:03 +0000"
     },
     "done": false
   },
@@ -1279,6 +1280,12 @@
   "ars_nouveau:alteration_table": {
     "criteria": {
       "has_alteration_table": "2025-07-29 17:19:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-08-02 01:07:01 +0000"
     },
     "done": true
   },
