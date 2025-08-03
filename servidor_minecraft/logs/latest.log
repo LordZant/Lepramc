@@ -859,3 +859,5 @@
 [03Aug2025 19:13:20.458] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [03Aug2025 19:13:20.459] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
 [03Aug2025 19:18:58.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
+[03Aug2025 19:22:09.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=201, y=98, z=8182} BlockPos{x=200, y=98, z=8182}
+[03Aug2025 19:26:15.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=101, z=8182} BlockPos{x=220, y=99, z=8183}
