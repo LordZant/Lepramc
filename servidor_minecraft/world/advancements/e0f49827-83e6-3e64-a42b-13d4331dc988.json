@@ -1529,5 +1529,11 @@
     },
     "done": true
   },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2025-08-03 20:48:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
