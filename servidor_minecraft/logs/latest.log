@@ -1082,3 +1082,4 @@
 [03Aug2025 17:24:33.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
 [03Aug2025 17:24:33.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [03Aug2025 17:24:33.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[03Aug2025 17:33:55.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=215, y=100, z=8139} BlockPos{x=216, y=99, z=8139}
