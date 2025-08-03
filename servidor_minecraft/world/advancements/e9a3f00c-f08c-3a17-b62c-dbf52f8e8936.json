@@ -1459,5 +1459,11 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-08-03 04:14:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

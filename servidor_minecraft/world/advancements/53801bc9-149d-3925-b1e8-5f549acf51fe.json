@@ -1239,6 +1239,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-08-03 04:14:01 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2025-08-03 04:07:38 +0000"

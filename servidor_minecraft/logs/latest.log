@@ -828,3 +828,5 @@
 [03Aug2025 04:02:24.598] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
 [03Aug2025 04:03:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Palette Swap]
 [03Aug2025 04:07:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has completed the challenge [Was that a Shulker?]
+[03Aug2025 04:13:47.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
+[03Aug2025 04:14:42.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has completed the challenge [Was that a Shulker?]
