@@ -1241,78 +1241,11 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "cataclysm:find_ruined_citadel": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-03 06:01:28 +0000",
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
+      "citadel": "2025-08-03 03:53:56 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 06:01:09 +0000"
-    },
-    "done": false
   },
   "enigmaticlegacy:main/mending_mixture": {
     "criteria": {
@@ -1320,39 +1253,15 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
-    "criteria": {
-      "citadel": "2025-08-03 03:53:56 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/relics/blazing_core": {
-    "criteria": {
-      "has_items": "2025-08-03 05:45:17 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/brewing/twisted_potion": {
-    "criteria": {
-      "has_recall_potion": "2025-08-03 04:19:44 +0000"
-    },
-    "done": false
-  },
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-08-03 04:03:24 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+  "cataclysm:kill_ender_guardian": {
     "criteria": {
-      "location0": "2025-08-03 05:05:35 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_conqueror": {
-    "criteria": {
-      "location0": "2025-08-03 05:42:21 +0000"
+      "enderguardian": "2025-08-03 04:07:38 +0000"
     },
     "done": true
   },
@@ -1362,23 +1271,11 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
+  "enigmaticlegacy:book/brewing/twisted_potion": {
     "criteria": {
-      "location0": "2025-08-03 05:22:18 +0000"
+      "has_recall_potion": "2025-08-03 04:19:44 +0000"
     },
-    "done": true
-  },
-  "boliviamod:advancement_mineral_wealth": {
-    "criteria": {
-      "advancement_mineral_wealth_0": "2025-08-03 04:59:10 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ender_guardian": {
-    "criteria": {
-      "enderguardian": "2025-08-03 04:07:38 +0000"
-    },
-    "done": true
+    "done": false
   },
   "enigmaticlegacy:main/recall_potion": {
     "criteria": {
@@ -1389,6 +1286,36 @@
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2025-08-03 04:30:31 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2025-08-03 04:59:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-08-03 05:05:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-08-03 05:22:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-08-03 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-08-03 05:45:17 +0000"
     },
     "done": true
   },
