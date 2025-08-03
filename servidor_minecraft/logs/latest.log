@@ -1071,3 +1071,14 @@
 [03Aug2025 17:21:34.594] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
 [03Aug2025 17:21:34.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [03Aug2025 17:21:34.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[03Aug2025 17:22:53.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[03Aug2025 17:22:53.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[03Aug2025 17:22:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[03Aug2025 17:23:27.091] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bfb346e[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:54491) lost connection: Timed out
+[03Aug2025 17:24:13.335] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a74e85[id=<null>,name=LordZand,properties={},legacy=false] (/10.147.18.139:54501) lost connection: Disconnected
+[03Aug2025 17:24:33.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:54506] logged in with entity id 26381 at (205.27702688559705, 69.08506386038873, 8029.7109250687345)
+[03Aug2025 17:24:33.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[03Aug2025 17:24:33.399] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[03Aug2025 17:24:33.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[03Aug2025 17:24:33.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Aug2025 17:24:33.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
