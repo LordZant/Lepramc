@@ -14938,3 +14938,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Aug2025 06:01:47.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
 [03Aug2025 06:01:48.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 lost connection: Disconnected
 [03Aug2025 06:01:48.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 left the game
+[03Aug2025 06:04:09.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 06:04:09.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 06:09:09.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 06:09:09.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
