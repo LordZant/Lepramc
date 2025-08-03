@@ -525,6 +525,7 @@
       "minecraft:blaze": "2025-07-25 20:34:48 +0000",
       "minecraft:skeleton": "2025-07-26 00:56:14 +0000",
       "minecraft:ghast": "2025-07-26 00:35:43 +0000",
+      "minecraft:hoglin": "2025-08-03 00:20:57 +0000",
       "minecraft:guardian": "2025-08-02 23:06:38 +0000",
       "minecraft:magma_cube": "2025-07-25 20:00:12 +0000",
       "minecraft:spider": "2025-07-25 20:16:57 +0000",
@@ -1228,6 +1229,7 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-07-29 01:00:48 +0000",
+      "spellstone4": "2025-08-03 00:25:23 +0000",
       "spellstone6": "2025-08-02 23:53:39 +0000",
       "spellstone5": "2025-08-02 05:55:37 +0000"
     },
@@ -1243,7 +1245,8 @@
     "criteria": {
       "has_item_1": "2025-07-29 01:00:48 +0000",
       "has_item_5": "2025-08-02 05:55:37 +0000",
-      "has_item_6": "2025-08-02 23:53:39 +0000"
+      "has_item_6": "2025-08-02 23:53:39 +0000",
+      "has_item_4": "2025-08-03 00:25:23 +0000"
     },
     "done": false
   },
@@ -1439,33 +1442,21 @@
     },
     "done": true
   },
-  "enigmaticlegacy:main/mending_mixture": {
-    "criteria": {
-      "spellstone": "2025-08-02 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/relics/void_pearl": {
-    "criteria": {
-      "has_items": "2025-08-02 23:53:39 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_aviary": {
-    "criteria": {
-      "location0": "2025-08-02 23:03:19 +0000"
-    },
-    "done": true
-  },
   "enigmaticlegacy:book/brewing/twisted_potion": {
     "criteria": {
       "has_recall_potion": "2025-08-02 22:32:47 +0000"
     },
     "done": false
   },
-  "ancient_golems:with_this_treasure": {
+  "enigmaticlegacy:main/recall_potion": {
     "criteria": {
-      "with_this_treasure_0": "2025-08-03 00:11:23 +0000"
+      "spellstone": "2025-08-02 22:32:47 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/mending_mixture": {
+    "criteria": {
+      "spellstone": "2025-08-02 22:35:19 +0000"
     },
     "done": true
   },
@@ -1475,9 +1466,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "dungeons_arise:find_aviary": {
     "criteria": {
-      "used_totem": "2025-08-02 23:36:00 +0000"
+      "location0": "2025-08-02 23:03:19 +0000"
     },
     "done": true
   },
@@ -1487,15 +1478,39 @@
     },
     "done": true
   },
-  "enigmaticlegacy:main/recall_potion": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "spellstone": "2025-08-02 22:32:47 +0000"
+      "used_totem": "2025-08-02 23:36:00 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_pearl": {
+    "criteria": {
+      "has_items": "2025-08-02 23:53:39 +0000"
     },
     "done": true
   },
   "enigmaticlegacy:main/void_pearl": {
     "criteria": {
       "spellstone": "2025-08-02 23:53:39 +0000"
+    },
+    "done": true
+  },
+  "ancient_golems:with_this_treasure": {
+    "criteria": {
+      "with_this_treasure_0": "2025-08-03 00:11:23 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2025-08-03 00:25:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-08-03 00:20:43 +0000"
     },
     "done": true
   },
