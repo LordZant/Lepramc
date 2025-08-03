@@ -1459,6 +1459,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-08-03 04:23:14 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2025-08-03 04:14:42 +0000"
