@@ -550,6 +550,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-27 17:05:20 +0000",
+      "honey_bottle": "2025-08-03 16:56:23 +0000",
       "cooked_mutton": "2025-07-27 17:07:34 +0000",
       "cooked_beef": "2025-07-27 19:15:50 +0000",
       "baked_potato": "2025-07-27 16:59:47 +0000",
@@ -599,6 +600,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-28 01:13:17 +0000",
       "minecraft:skeleton": "2025-07-25 20:15:00 +0000",
+      "minecraft:zoglin": "2025-08-03 16:58:24 +0000",
       "minecraft:ravager": "2025-08-02 04:11:01 +0000",
       "minecraft:hoglin": "2025-08-02 05:14:27 +0000",
       "minecraft:vindicator": "2025-08-03 04:48:13 +0000",
@@ -611,6 +613,7 @@
       "minecraft:husk": "2025-07-27 17:53:27 +0000",
       "minecraft:shulker": "2025-08-02 05:08:33 +0000",
       "minecraft:cave_spider": "2025-08-02 03:56:28 +0000",
+      "quark:wraith": "2025-08-03 17:00:08 +0000",
       "minecraft:silverfish": "2025-08-02 04:07:11 +0000",
       "minecraft:enderman": "2025-08-02 05:07:35 +0000",
       "minecraft:stray": "2025-08-03 05:24:34 +0000",
@@ -1316,6 +1319,30 @@
   "enigmaticlegacy:book/relics/blazing_core": {
     "criteria": {
       "has_items": "2025-08-03 05:45:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-03 16:46:37 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-08-03 16:50:42 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "yellow": "2025-08-03 16:58:57 +0000"
+    },
+    "done": false
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2025-08-03 16:57:12 +0000"
     },
     "done": true
   },
