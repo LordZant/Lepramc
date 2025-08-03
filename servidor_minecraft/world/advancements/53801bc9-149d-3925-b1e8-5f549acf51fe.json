@@ -1365,5 +1365,11 @@
     },
     "done": true
   },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2025-08-03 19:41:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
