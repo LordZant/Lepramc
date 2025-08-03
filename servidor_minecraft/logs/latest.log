@@ -819,3 +819,43 @@
 [03Aug2025 18:42:01.919] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
 [03Aug2025 18:43:14.942] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [03Aug2025 18:43:14.943] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md33fe11$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[03Aug2025 18:55:25.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Flexible Schedule]
+[03Aug2025 19:07:40.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[03Aug2025 19:07:40.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[03Aug2025 19:07:40.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[03Aug2025 19:07:40.786] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Aug2025 19:08:04.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:55079] logged in with entity id 6839 at (263.54630472173767, 100.6312296556702, 8170.214057211656)
+[03Aug2025 19:08:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[03Aug2025 19:08:04.357] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[03Aug2025 19:08:04.381] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[03Aug2025 19:08:04.381] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Aug2025 19:08:04.382] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[03Aug2025 19:10:04.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -4.878534059360845,0.0,-9.578568623423962
+[03Aug2025 19:10:04.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -5.49937068045854,0.0,-11.001659801392634
+[03Aug2025 19:10:04.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -6.107471003563475,0.0,-12.433910155267768
+[03Aug2025 19:10:04.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -6.704337911838806,0.0,-13.874238902291836
+[03Aug2025 19:10:04.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -7.291296948234418,0.0,-15.321692792073009
+[03Aug2025 19:10:04.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -7.86951724163211,0.0,-16.775431057765672
+[03Aug2025 19:10:04.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -8.440029963705655,0.0,-18.234712143012985
+[03Aug2025 19:10:04.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -9.003744607871283,0.0,-19.698881995107513
+[03Aug2025 19:10:04.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -5.31820615621632,0.0,-13.001501740924141
+[03Aug2025 19:10:04.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -5.870636507708753,0.0,-14.473786574438236
+[03Aug2025 19:10:04.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -6.418402501021845,0.0,-15.949425732504096
+[03Aug2025 19:10:04.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -6.962054530420758,0.0,-17.42802340482376
+[03Aug2025 19:10:04.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -7.502078043647373,0.0,-18.909230486716297
+[03Aug2025 19:10:04.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -8.038901205610017,0.0,-20.392739067851835
+[03Aug2025 19:10:04.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -8.57290165775784,0.0,-21.878277571318904
+[03Aug2025 19:10:04.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -9.104412479848989,0.0,-23.36560646628368
+[03Aug2025 19:10:04.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -9.633727448230161,0.0,-24.854514486548396
+[03Aug2025 19:10:04.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -10.161105673639113,0.0,-26.344815295327862
+[03Aug2025 19:10:04.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! -10.68677569174659,0.0,-27.83634454357798
+[03Aug2025 19:13:05.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[03Aug2025 19:13:06.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[03Aug2025 19:13:06.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[03Aug2025 19:13:20.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:55093] logged in with entity id 12496 at (220.2650679108102, 121.02005163690278, 8116.852887307903)
+[03Aug2025 19:13:20.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[03Aug2025 19:13:20.436] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[03Aug2025 19:13:20.458] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[03Aug2025 19:13:20.458] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Aug2025 19:13:20.459] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[03Aug2025 19:18:58.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved wrongly!
