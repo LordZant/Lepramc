@@ -448,6 +448,7 @@
       "minecraft:cold_ocean": "2025-08-03 04:51:35 +0000",
       "minecraft:forest": "2025-07-26 01:54:45 +0000",
       "minecraft:lush_caves": "2025-07-28 00:45:06 +0000",
+      "minecraft:deep_cold_ocean": "2025-08-03 05:04:45 +0000",
       "minecraft:jungle": "2025-07-26 01:48:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-26 01:48:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-27 17:45:20 +0000",
@@ -1248,9 +1249,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-08-03 05:05:35 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/brewing/recall_potion": {
     "criteria": {
       "has_items": "2025-08-03 04:14:01 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2025-08-03 04:59:10 +0000"
     },
     "done": true
   },
