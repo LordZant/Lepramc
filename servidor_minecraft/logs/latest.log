@@ -893,3 +893,161 @@
 [03Aug2025 05:10:20.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 3.103788132592854,0.0,-10.309012403451106
 [03Aug2025 05:10:20.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 3.103788132592854,0.0,-10.309012403451106
 [03Aug2025 05:10:20.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 3.103788132592854,0.0,-10.309012403451106
+[03Aug2025 05:10:26.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:11:47.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[03Aug2025 05:11:47.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[03Aug2025 05:12:42.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:51329] logged in with entity id 60793 at (-1942.4995541471048, -39.68702010001085, -6035.969148732565)
+[03Aug2025 05:12:42.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[03Aug2025 05:12:42.353] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[03Aug2025 05:12:42.373] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[03Aug2025 05:12:42.374] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Aug2025 05:12:42.374] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[03Aug2025 05:12:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 is bleeding. Starsh1p1902 fell out of the world
+[03Aug2025 05:12:49.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 was kicked for floating too long!
+[03Aug2025 05:12:49.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 lost connection: Disconnected
+[03Aug2025 05:12:49.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 left the game
+[03Aug2025 05:12:49.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 fell out of the world
+[03Aug2025 05:12:49.122] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for Starsh1p1902 at X: -1942.4995541471048, Y: -282.8165222494858, Z: -6035.969148732565
+[03Aug2025 05:12:49.198] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Aug2025 05:13:05.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:51333] logged in with entity id 61276 at (-1942.4995541471048, -282.8165222494858, -6035.969148732565)
+[03Aug2025 05:13:05.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[03Aug2025 05:13:05.183] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[03Aug2025 05:13:05.205] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[03Aug2025 05:13:05.206] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Aug2025 05:13:05.206] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[03Aug2025 05:13:34.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Aug2025 05:13:41.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -9.242745276039841,0.0,-4.194043772114128
+[03Aug2025 05:13:44.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -32.08343576014613,0.0,14.996787352576575
+[03Aug2025 05:13:44.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -30.983482403873495,0.0,15.01011748855717
+[03Aug2025 05:13:44.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -29.840637274105575,0.0,15.008753638405324
+[03Aug2025 05:13:44.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -28.659961600114457,0.0,14.995632608318374
+[03Aug2025 05:13:44.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -27.450025858862773,0.0,15.037071594150348
+[03Aug2025 05:13:44.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -26.21428273828724,0.0,15.126632514022731
+[03Aug2025 05:13:44.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -24.955777509147993,0.0,15.258636979719086
+[03Aug2025 05:13:44.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -23.677196100255514,0.0,15.42807665283226
+[03Aug2025 05:13:44.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -22.38090750082074,0.0,15.630534178886592
+[03Aug2025 05:13:44.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -21.069001159327854,0.0,15.862113451235473
+[03Aug2025 05:13:44.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -19.74331996933961,0.0,16.11937810381596
+[03Aug2025 05:13:44.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -18.405489362978187,0.0,16.399297261760694
+[03Aug2025 05:13:44.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -17.056942971375975,0.0,16.699197693436417
+[03Aug2025 05:13:44.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -15.698945257191099,0.0,17.01672160854332
+[03Aug2025 05:13:44.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -14.332611476488637,0.0,17.34978943603619
+[03Aug2025 05:13:44.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -12.958925285117402,0.0,17.69656699425377
+[03Aug2025 05:13:44.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -11.57875426753617,0.0,18.05543653497034
+[03Aug2025 05:13:44.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -10.192863633238176,0.0,18.42497120425105
+[03Aug2025 05:13:44.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -8.801928296995811,0.0,18.80391251692572
+[03Aug2025 05:13:44.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.406543533638342,0.0,19.191150489073607
+[03Aug2025 05:13:45.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -6.007234375565531,0.0,19.585706114876757
+[03Aug2025 05:13:45.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -4.604463901353483,0.0,19.986715911203646
+[03Aug2025 05:13:45.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -3.1986405463071605,0.0,20.393418285932967
+[03Aug2025 05:13:45.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -1.7901245503644532,0.0,20.80514151481293
+[03Aug2025 05:13:45.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -0.3792336451515439,0.0,21.221293137053635
+[03Aug2025 05:13:45.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 1.0378584027816942,0.0,21.57521783778293
+[03Aug2025 05:13:45.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 2.4604198585943777,0.0,21.874258393739183
+[03Aug2025 05:13:45.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 3.8878053321568586,0.0,22.12489113400534
+[03Aug2025 05:13:45.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 5.319445589374027,0.0,22.332828180833076
+[03Aug2025 05:13:45.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 6.754838565775117,0.0,22.503107626048404
+[03Aug2025 05:13:45.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 8.193541440496574,0.0,22.640173066641182
+[03Aug2025 05:13:45.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 9.631057172792225,0.0,22.814076519612627
+[03Aug2025 05:13:45.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.067525845468936,0.0,23.020471099502174
+[03Aug2025 05:13:50.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 11.156385115332796,0.0,1.90335682441264
+[03Aug2025 05:13:50.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 7.900709555912272,0.0,6.523397462485718
+[03Aug2025 05:13:50.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 12.46631134648078,0.0,2.433970936123842
+[03Aug2025 05:13:50.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 8.628167075471083,0.0,7.4399794876835585
+[03Aug2025 05:13:50.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 13.78904622299433,0.0,2.9464322755152352
+[03Aug2025 05:13:50.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 9.280325225190609,0.0,8.400399789618405
+[03Aug2025 05:13:50.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 15.123260198131447,0.0,3.442192454758697
+[03Aug2025 05:13:50.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 9.838592616590176,0.0,9.398906280559913
+[03Aug2025 05:13:50.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 16.46806307854922,0.0,3.9214043592214693
+[03Aug2025 05:13:50.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 10.308111081350944,0.0,10.430222272894298
+[03Aug2025 05:13:50.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 17.82250267384461,0.0,4.384811411402552
+[03Aug2025 05:13:50.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 10.699352992815875,0.0,11.490476245457103
+[03Aug2025 05:13:50.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 19.18556606318134,0.0,4.833761985551973
+[03Aug2025 05:13:50.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 11.02155498427419,0.0,12.5762535165818
+[03Aug2025 05:13:50.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 20.556441625803473,0.0,5.269089324801371
+[03Aug2025 05:13:50.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 11.282863766286482,0.0,13.684542337037783
+[03Aug2025 05:13:50.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 21.934386838676346,0.0,5.691624421778215
+[03Aug2025 05:13:50.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 11.490464737567436,0.0,14.81268634400385
+[03Aug2025 05:13:50.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 23.318840504799937,0.0,6.101661776182027
+[03Aug2025 05:13:50.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 4.532936120343038,0.0,10.306551501377726
+[03Aug2025 05:13:50.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 14.877657721338437,0.0,5.077426017125617
+[03Aug2025 05:13:50.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 4.651386207603537,0.0,11.467653608956425
+[03Aug2025 05:13:50.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 16.2737011623708,0.0,5.463056494998909
+[03Aug2025 05:13:50.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 4.732985810113405,0.0,12.642378935164743
+[03Aug2025 05:13:50.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! 17.674657325967928,0.0,5.838010689525163
+[03Aug2025 05:13:50.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 4.782083285072986,0.0,13.829119940204691
+[03Aug2025 05:13:50.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 4.80251388353372,0.0,15.0264587739739
+[03Aug2025 05:13:50.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mostaza (vehicle of LordZand) moved too quickly! 4.797660296922004,0.0,16.233144892682503
+[03Aug2025 05:13:57.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61663, l='ServerLevel[world]', x=1611.70, y=16.00, z=-7613.30] died, message: 'Villager hit the ground too hard'
+[03Aug2025 05:14:39.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.31881539027108374
+[03Aug2025 05:14:39.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 1.2437737143400227
+[03Aug2025 05:14:39.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 2.1962180581049324
+[03Aug2025 05:14:39.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 3.0
+[03Aug2025 05:15:09.653] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[03Aug2025 05:17:27.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:18:06.350] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:18:55.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:35.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:44.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:44.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:44.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:44.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:44.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:44.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:44.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:44.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.269] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.369] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:45.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.027] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.170] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.264] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.693] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.868] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:46.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.294] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.401] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.690] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:47.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.055] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.697] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.780] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:48.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.665] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:49.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:50.079] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:50.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:19:50.294] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:20:39.330] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 05:20:39.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> 1700 -8535
