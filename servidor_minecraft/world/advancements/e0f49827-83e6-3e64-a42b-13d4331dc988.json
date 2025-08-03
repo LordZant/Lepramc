@@ -1228,6 +1228,7 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2025-07-29 01:00:48 +0000",
+      "spellstone6": "2025-08-02 23:53:39 +0000",
       "spellstone5": "2025-08-02 05:55:37 +0000"
     },
     "done": false
@@ -1241,7 +1242,8 @@
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
       "has_item_1": "2025-07-29 01:00:48 +0000",
-      "has_item_5": "2025-08-02 05:55:37 +0000"
+      "has_item_5": "2025-08-02 05:55:37 +0000",
+      "has_item_6": "2025-08-02 23:53:39 +0000"
     },
     "done": false
   },
@@ -1443,6 +1445,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/void_pearl": {
+    "criteria": {
+      "has_items": "2025-08-02 23:53:39 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_aviary": {
     "criteria": {
       "location0": "2025-08-02 23:03:19 +0000"
@@ -1476,6 +1484,12 @@
   "enigmaticlegacy:main/recall_potion": {
     "criteria": {
       "spellstone": "2025-08-02 22:32:47 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/void_pearl": {
+    "criteria": {
+      "spellstone": "2025-08-02 23:53:39 +0000"
     },
     "done": true
   },
