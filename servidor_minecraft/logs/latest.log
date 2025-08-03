@@ -834,3 +834,30 @@
 [03Aug2025 04:23:14.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 has made the advancement [Weird Fishes/Arpeggi]
 [03Aug2025 04:30:31.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Race Against The Clock]
 [03Aug2025 04:34:33.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -500 -1200
+[03Aug2025 04:41:03.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starsh1p1902 moved too quickly! -4.361091132674915,1.756759288177264,-8.872888677493847
+[03Aug2025 04:41:04.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand moved too quickly! 10.094975367605912,0.0,-0.9856550209594275
+[03Aug2025 04:41:04.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12913ms or 258 ticks behind
+[03Aug2025 04:45:37.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rodjes7[/10.147.18.237:59308] logged in with entity id 20948 at (-1358.6088451425846, -24.0, 311.1437214722547)
+[03Aug2025 04:45:37.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rodjes7 joined the game
+[03Aug2025 04:45:37.784] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rodjes7
+[03Aug2025 04:45:37.810] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Rodjes7...
+[03Aug2025 04:45:37.810] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Aug2025 04:45:37.811] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Rodjes7
+[03Aug2025 04:45:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Starsh1p1902> hola mi amor
+[03Aug2025 04:45:50.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LordZand> -2067 1468
+[03Aug2025 04:49:16.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rodjes7 moved wrongly!
+[03Aug2025 04:49:24.540] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2377, y=-41, z=269}
+[03Aug2025 04:50:25.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved too quickly! -7.501576006239475,0.01599090058789443,7.082781182761892
+[03Aug2025 04:51:40.843] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[03Aug2025 04:52:36.238] [Worker-Main-27/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[03Aug2025 04:54:16.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.26601863261839753
+[03Aug2025 04:54:16.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.3514233958969726
+[03Aug2025 04:54:16.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.3971217819400863
+[03Aug2025 04:54:16.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.36837034986774597
+[03Aug2025 04:54:36.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.2548431210389026
+[03Aug2025 04:54:36.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.5557194276489099
+[03Aug2025 04:54:36.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 0.8766437689610029
+[03Aug2025 04:54:36.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 1.200249936186765
+[03Aug2025 04:54:36.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of Rodjes7) moved wrongly! 1.2716063503160058
+[03Aug2025 04:56:15.833] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-3889, y=64, z=1318}
+[03Aug2025 04:59:10.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Advancement Mineral Wealth]

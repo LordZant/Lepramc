@@ -433,6 +433,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-08-03 04:53:59 +0000",
       "minecraft:taiga": "2025-08-02 04:12:40 +0000",
       "minecraft:birch_forest": "2025-08-02 02:51:38 +0000",
       "minecraft:bamboo_jungle": "2025-07-27 17:49:20 +0000",
@@ -444,6 +445,7 @@
       "minecraft:river": "2025-07-26 01:35:08 +0000",
       "minecraft:dripstone_caves": "2025-08-02 04:14:29 +0000",
       "minecraft:swamp": "2025-07-26 01:47:43 +0000",
+      "minecraft:cold_ocean": "2025-08-03 04:51:35 +0000",
       "minecraft:forest": "2025-07-26 01:54:45 +0000",
       "minecraft:lush_caves": "2025-07-28 00:45:06 +0000",
       "minecraft:jungle": "2025-07-26 01:48:32 +0000",
@@ -585,6 +587,7 @@
       "minecraft:skeleton": "2025-07-25 20:15:00 +0000",
       "minecraft:ravager": "2025-08-02 04:11:01 +0000",
       "minecraft:hoglin": "2025-08-02 05:14:27 +0000",
+      "minecraft:vindicator": "2025-08-03 04:48:13 +0000",
       "minecraft:spider": "2025-07-25 20:18:13 +0000",
       "minecraft:creeper": "2025-07-26 01:22:45 +0000",
       "minecraft:slime": "2025-07-28 20:19:31 +0000",
