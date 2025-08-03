@@ -820,3 +820,11 @@
 [03Aug2025 03:54:59.320] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [03Aug2025 03:54:59.320] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdff6b59$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [03Aug2025 03:56:18.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has reached the goal [Extraterrestrial Substance]
+[03Aug2025 04:02:24.543] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starsh1p1902[/10.147.18.141:50455] logged in with entity id 2635 at (-1595.1794783848477, 57.0, -1408.4170822262986)
+[03Aug2025 04:02:24.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starsh1p1902 joined the game
+[03Aug2025 04:02:24.573] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Starsh1p1902
+[03Aug2025 04:02:24.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Starsh1p1902...
+[03Aug2025 04:02:24.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Aug2025 04:02:24.598] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Starsh1p1902
+[03Aug2025 04:03:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Palette Swap]
+[03Aug2025 04:07:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has completed the challenge [Was that a Shulker?]
