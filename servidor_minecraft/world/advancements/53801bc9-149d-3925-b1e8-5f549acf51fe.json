@@ -1377,5 +1377,49 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-08-05 00:23:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "sugar_water_floor": "2025-08-05 00:23:48 +0000",
+      "hive_pillar": "2025-08-05 00:27:52 +0000",
+      "hive_wall": "2025-08-05 00:23:41 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-08-05 00:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-08-05 00:26:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-08-05 01:00:05 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-08-05 00:36:26 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/stinger_spear_poisoning": {
+    "criteria": {
+      "stinger_spear_poisoning": "2025-08-05 00:37:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

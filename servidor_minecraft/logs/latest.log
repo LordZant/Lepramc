@@ -823,3 +823,57 @@
 [05Aug2025 00:22:32.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [05Aug2025 00:22:32.712] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
 [05Aug2025 00:23:36.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3002ms or 60 ticks behind
+[05Aug2025 00:26:10.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Sticky Situation]
+[05Aug2025 00:29:39.262] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-14, y=120, z=1418} but found not block entity block Block{minecraft:cave_air} at location
+[05Aug2025 00:29:39.263] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-14, y=120, z=1418}
+[05Aug2025 00:31:37.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[05Aug2025 00:31:37.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Disconnected
+[05Aug2025 00:31:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[05Aug2025 00:31:37.178] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Aug2025 00:31:59.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:60750] logged in with entity id 5581 at (31.180312436595056, 158.22197978419638, 1375.6646230887068)
+[05Aug2025 00:31:59.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[05Aug2025 00:31:59.124] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[05Aug2025 00:31:59.178] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[05Aug2025 00:31:59.179] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Aug2025 00:31:59.180] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[05Aug2025 00:33:01.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ALANBRE[/10.147.18.24:59020] logged in with entity id 6076 at (-2102.3083453823615, 67.0, 4057.0941868886034)
+[05Aug2025 00:33:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE joined the game
+[05Aug2025 00:33:01.038] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ALANBRE
+[05Aug2025 00:33:01.065] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ALANBRE...
+[05Aug2025 00:33:01.066] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Aug2025 00:33:01.066] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ALANBRE
+[05Aug2025 00:33:07.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Turtle['Turtle'/6460, l='ServerLevel[world]', x=-2001.23, y=62.00, z=4216.63]
+[05Aug2025 00:33:07.070] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Turtle['Turtle'/6461, l='ServerLevel[world]', x=-1990.37, y=59.00, z=4217.30]
+[05Aug2025 00:33:37.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand was kicked for floating too long!
+[05Aug2025 00:33:37.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordZand lost connection: Flying is not enabled on this server
+[05Aug2025 00:33:37.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand left the game
+[05Aug2025 00:33:48.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordZand[/10.147.18.139:60768] logged in with entity id 6733 at (44.15631945465663, 77.06207483663077, 1302.726542668324)
+[05Aug2025 00:33:48.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand joined the game
+[05Aug2025 00:33:48.787] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordZand
+[05Aug2025 00:33:48.811] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to LordZand...
+[05Aug2025 00:33:48.811] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Aug2025 00:33:48.811] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to LordZand
+[05Aug2025 00:36:10.364] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/8734, l='ServerLevel[world]', x=-2061.91, y=66.00, z=4256.09]
+[05Aug2025 00:36:23.408] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:36:23.408] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:36:23.408] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[05Aug2025 00:37:12.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ALANBRE) moved wrongly! 0.5951101775344796
+[05Aug2025 00:37:12.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ALANBRE) moved wrongly! 2.6333783045315613
+[05Aug2025 00:37:12.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ALANBRE) moved wrongly! 1.8773971555747266
+[05Aug2025 00:37:12.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ALANBRE) moved wrongly! 1.0965511382783006
+[05Aug2025 00:37:12.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of ALANBRE) moved wrongly! 0.29668577400252616
+[05Aug2025 00:38:41.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:38:41.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:38:41.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[05Aug2025 00:39:44.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:39:44.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:39:44.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:39:44.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:42:46.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ALANBRE has made the advancement [Dungeon Delving]
+[05Aug2025 00:55:38.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[05Aug2025 00:56:45.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ALANBRE> a
+[05Aug2025 00:58:23.100] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 01:00:25.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 01:02:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordZand has made the advancement [Into Fire]
+[05Aug2025 01:02:10.519] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=81, y=-25, z=4204} but found not block entity block Block{minecraft:air} at location
+[05Aug2025 01:02:10.520] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=81, y=-25, z=4204}

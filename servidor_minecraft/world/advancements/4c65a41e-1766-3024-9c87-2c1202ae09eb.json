@@ -1398,5 +1398,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-08-05 00:42:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
